@@ -8,5 +8,5 @@ The Internet and mobile computing are changing our relationship to data. Data ca
 
 No previous experience in statistics, computer science or data manipulation will be expected. However, students will be encouraged to get hands on experience, applying methods or technologies to educational problems. Students will be assessed on their understanding of technological or analytical innovations and how they critique the consequences of these innovations within the broader educational context.
 
-[![Analytics](https://ga-beacon.appspot.com/UA-72118000-1/data-science-in-ed/syllabus/edit/master/README.md)]
+[![Analytics](https://ga-beacon.appspot.com/UA-72118000-1/data-science-in-ed/syllabus/README.md)]
 (https://github.com/igrigorik/ga-beacon)
