@@ -30,9 +30,13 @@ No previous experience in statistics, computer science or data manipulation will
   * Zotero
   * Twitter
 
-3. **Complete survey by 2/4/16**
+3. [Join Git Organization data-science-in-ed](https://github.com/data-science-in-ed/)
 
-4. Read and comment on by 1/30/16:
+4. **Complete survey by 2/4/16** 
+
+5. Clone [references](https://github.com/data-science-in-ed/references) reporsitory, download Zotero file and upload into [Zotero](https://www.zotero.org/support/getting_stuff_into_your_library) 
+
+5. Read and comment on by 1/30/16:
   * [Leong, B. and Polonetsky, J. 2015. Why Opting Out of Student Data Collection Isn’t the Solution. EdSurge.](https://www.edsurge.com/news/2015-03-16-why-opting-out-of-student-data-collection-isn-t-the-solution)
   * [Young, J.R. 2014. Why Students Should Own Their Educational Data. The Chronicle of Higher Education Blogs: Wired Campus.](http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329)
  
@@ -48,8 +52,8 @@ No previous experience in statistics, computer science or data manipulation will
 
 1. Read/watch and comment:
   * [Siemens, G. and Long, P. 2011. Penetrating the Fog: Analytics in Learning and Education. EDUCAUSE review. 46, 5, 30.](http://er.educause.edu/articles/2011/9/penetrating-the-fog-analytics-in-learning-and-education)
-  * Educause 2015. Why Is Measuring Learning So Difficult?
-
+  * [Educause 2015. Why Is Measuring Learning So Difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v)
+2. 
 
 ### Learning Objectives:
 
