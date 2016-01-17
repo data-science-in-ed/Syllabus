@@ -51,7 +51,7 @@ No previous experience in statistics, computer science or data manipulation will
 ### Tasks to be completed:
 
 1. Read/watch and comment:
-  * [Siemens, G. and Long, P. 2011. Penetrating the Fog: Analytics in Learning and Education. EDUCAUSE review. 46, 5, 30.](http://er.educause.edu/articles/2011/9/penetrating-the-fog-analytics-in-learning-and-education)
+  * [Siemens, G. and Baker, R.S.J. d. 2012. Learning Analytics and Educational Data Mining: Towards Communication and Collaboration. Proceedings of the 2nd International Conference on Learning Analytics and Knowledge (New York, NY, USA, 2012), 252–254.](http://users.wpi.edu/~rsbaker/LAKs%20reformatting%20v2.pdf)
   * [Educause 2015. Why Is Measuring Learning So Difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v)
 2. 
 
