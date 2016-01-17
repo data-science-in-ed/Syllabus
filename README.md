@@ -34,7 +34,7 @@ No previous experience in statistics, computer science or data manipulation will
 
 4. **Complete survey by 2/4/16** 
 
-5. Clone [references](https://github.com/data-science-in-ed/references) reporsitory, download Zotero file and upload into [Zotero](https://www.zotero.org/support/getting_stuff_into_your_library) 
+5. Clone [references](https://github.com/data-science-in-ed/references) repository, download Zotero file and upload into [Zotero](https://www.zotero.org/support/getting_stuff_into_your_library) 
 
 5. Read and comment on by 1/30/16:
   * [Leong, B. and Polonetsky, J. 2015. Why Opting Out of Student Data Collection Isn’t the Solution. EdSurge.](https://www.edsurge.com/news/2015-03-16-why-opting-out-of-student-data-collection-isn-t-the-solution)
