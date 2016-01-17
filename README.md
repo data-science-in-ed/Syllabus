@@ -30,11 +30,11 @@ No previous experience in statistics, computer science or data manipulation will
   * Zotero
   * Twitter
 
-3. Complete survey by 2/4/16:
+3. **Complete survey by 2/4/16**
 
 4. Read and comment on by 1/30/16:
-  * [Siemens, G. and Long, P. 2011. Penetrating the Fog: Analytics in Learning and Education. EDUCAUSE review. 46, 5 (2011), 30.](http://er.educause.edu/articles/2011/9/penetrating-the-fog-analytics-in-learning-and-education)
-
+  * [Leong, B. and Polonetsky, J. 2015. Why Opting Out of Student Data Collection Isn’t the Solution. EdSurge.](https://www.edsurge.com/news/2015-03-16-why-opting-out-of-student-data-collection-isn-t-the-solution)
+  * [Young, J.R. 2014. Why Students Should Own Their Educational Data. The Chronicle of Higher Education Blogs: Wired Campus.](http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329)
  
 ## Unit 2: Data Sources (2/4/16 - 2/11/16)
 
@@ -46,6 +46,9 @@ No previous experience in statistics, computer science or data manipulation will
 
 ### Tasks to be completed:
 
+1. Read/watch and comment:
+  * [Siemens, G. and Long, P. 2011. Penetrating the Fog: Analytics in Learning and Education. EDUCAUSE review. 46, 5, 30.](http://er.educause.edu/articles/2011/9/penetrating-the-fog-analytics-in-learning-and-education)
+  * Educause 2015. Why Is Measuring Learning So Difficult?
 
 
 ### Learning Objectives:
