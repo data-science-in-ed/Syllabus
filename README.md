@@ -25,8 +25,6 @@ No previous experience in statistics, computer science or data manipulation will
   * Firefox
   * Zotero plugin for Firefox
 
-Resources: [Poulson, B. Up and Running with R. Lynda.com. Section 1 - 2](http://www.lynda.com/R-tutorials/Up-Running-R/120612-2.html?org=nyu.edu)
-
 2. Create Account by 2/4/16:
   * Github
   * Zotero
