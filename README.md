@@ -12,9 +12,9 @@ No previous experience in statistics, computer science or data manipulation will
 
 <A HREF="#unit2">Unit 2: Data Sources</A>
 
-<A HREF="#unit3">Unit 3: </A>
+<A HREF="#unit3">Unit 3: Data Manipulation: Data Tidying </A>
 
-<A HREF="#unit4">Unit 4: </A>
+<A HREF="#unit4">Unit 4: Data Manipulation: </A>
 
 ## <A NAME="unit1:">Unit 1: Introduction (1/28/16 - 2/4/16)
 
@@ -85,7 +85,7 @@ No previous experience in statistics, computer science or data manipulation will
 
 3. Assignment 2
  
-Unit 4: Data Manipulation: Personalization (2/18/16 - 2/25/16)
+## Unit 4: Data Manipulation: Personalization (2/18/16 - 2/25/16)
 
  * Understand why dimension reduction is necessary
  * Be familiar with broad groups of dimensionality reduction (feature transformation, feature selection, feature extraction)
@@ -100,4 +100,8 @@ Unit 4: Data Manipulation: Personalization (2/18/16 - 2/25/16)
 2. Read/Watch:
 
  * [Georgia Tech 2015. Feature Selection. Youtube.](https://www.youtube.com/watch?v=8CpRLplmdqE)
- * 
+ * Perez-Riverol, Y. 2013. Introduction to Feature Selection for Bioinformaticians Using R, Correlation Matrix Filters, PCA & Backward Selection. R-bloggers.
+ 
+3. Assignment 3 
+ 
+## Unit 4: Data Manipulation: Personalization (2/18/16 - 2/25/16)
