@@ -85,9 +85,9 @@ No previous experience in statistics, computer science or data manipulation will
 
 3. Assignment 2
  
-## Unit 4: Data Manipulation: Personalization (2/18/16 - 2/25/16)
+## Week 4: Personalization through Features (2/18/16 - 2/25/16)
 
- * Understand why dimension reduction is necessary
+ * Understand why dimensionality reduction is necessary
  * Be familiar with broad groups of dimensionality reduction (feature transformation, feature selection, feature extraction)
  * Understand the complexity of personalization in education
  
@@ -104,4 +104,23 @@ No previous experience in statistics, computer science or data manipulation will
  
 3. Assignment 3 
  
-## Unit 4: Data Manipulation: Personalization (2/18/16 - 2/25/16)
+## Week 5: Dimension Reduction (2/25/16 - 3/3/16)
+
+ * Perform one method from each group of dimensionality reduction methods
+ * Be aware of the complexity of Open Data
+
+1. Read/Comment:
+
+ * Sharma, A. 2014. Why Open Data Matters in Education. Opensource.com.
+
+2. Assignment 4
+
+# <A NAME="unit2">Unit 3: Networks 
+## Week 6 Introduction to Networks (3/3/16 - 3/10/16)
+
+### Learning Objectives
+
+Define social network analysis and its main analysis methods
+Perform social network analysis and visualize analysis results in R
+Develop a well defined opinion on how to approach student privacy and data use
+
