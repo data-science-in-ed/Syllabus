@@ -8,11 +8,13 @@ The Internet and mobile computing are changing our relationship to data. Data ca
 
 No previous experience in statistics, computer science or data manipulation will be expected. However, students will be encouraged to get hands on experience, applying methods or technologies to educational problems. Students will be assessed on their understanding of technological or analytical innovations and how they critique the consequences of these innovations within the broader educational context.
 
-<A HREF="#codeword">Blue Words, Blue Words</A>
-
 <A HREF="#unit1">Unit 1: Introduction</A>
 
 <A HREF="#unit2">Unit 2: Data Sources</A>
+
+<A HREF="#unit3">Unit 3: </A>
+
+<A HREF="#unit4">Unit 4: </A>
 
 ## <A NAME="unit1:">Unit 1: Introduction (1/28/16 - 2/4/16)
 
@@ -64,7 +66,7 @@ No previous experience in statistics, computer science or data manipulation will
 
 2. Assignment 1: 
 
-Unit 3: Data Manipulation: Data Tidying (2/11/16 - 2/18/16)
+## <A NAME="unit3">Unit 3: Data Manipulation: Data Tidying (2/11/16 - 2/18/16)
 
 ### Learning Objectives:
 
