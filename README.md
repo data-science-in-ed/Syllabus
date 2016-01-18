@@ -115,7 +115,7 @@ No previous experience in statistics, computer science or data manipulation will
 
 2. Assignment 4
 
-# <A NAME="unit2">Unit 3: Networks 
+# <A NAME="unit3">Unit 3: Networks 
 ## Week 6 Introduction to Networks (3/3/16 - 3/10/16)
 
 ### Learning Objectives
