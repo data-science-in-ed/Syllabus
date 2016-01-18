@@ -49,7 +49,7 @@ No previous experience in statistics, computer science or data manipulation will
   * [Young, J.R. 2014. Why Students Should Own Their Educational Data. The Chronicle of Higher Education Blogs: Wired Campus.](http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329)
  
 # <A NAME="unit2">Unit 2: Data Sources & their Manipulation 
-## Week 2 (2/4/16 - 2/11/16)
+## Week 2 Data Sources (2/4/16 - 2/11/16)
 
 ### Learning Objectives
 
@@ -59,14 +59,14 @@ No previous experience in statistics, computer science or data manipulation will
 
 ### Tasks to be completed:
 
-1.Read/watch and comment:
+1. Read/watch and comment:
   * [Siemens, G. and Baker, R.S.J. d. 2012. Learning Analytics and Educational Data Mining: Towards Communication and Collaboration. Proceedings of the 2nd International Conference on Learning Analytics and Knowledge (New York, NY, USA, 2012), 252–254.](http://users.wpi.edu/~rsbaker/LAKs%20reformatting%20v2.pdf)
   * [Educause 2015. Why Is Measuring Learning So Difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v)
   * [Saturday Morning Breakfast Cereal: 2016.](http://www.smbc-comics.com/index.php?id=3978)
 
 2. Assignment 1: 
 
-## <A NAME="unit3">Unit 3: Data Manipulation: Data Tidying (2/11/16 - 2/18/16)
+## Week 3 Data Tidying (2/11/16 - 2/18/16)
 
 ### Learning Objectives:
 
