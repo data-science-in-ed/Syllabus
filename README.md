@@ -55,7 +55,14 @@ No previous experience in statistics, computer science or data manipulation will
   * [Educause 2015. Why Is Measuring Learning So Difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v)
 2. 
 
+Unit 3: Data Tidying (2/11/16 - 2/18/16)
+
 ### Learning Objectives:
 
+ * Students will be able to perform a data tidying workflow
+ * Students should be able to do basic visualization
+ * Students will understand the importance of workflow and recording workflow
+
+### Tasks to be completed:
 
 
