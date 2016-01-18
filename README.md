@@ -8,6 +8,8 @@ The Internet and mobile computing are changing our relationship to data. Data ca
 
 No previous experience in statistics, computer science or data manipulation will be expected. However, students will be encouraged to get hands on experience, applying methods or technologies to educational problems. Students will be assessed on their understanding of technological or analytical innovations and how they critique the consequences of these innovations within the broader educational context.
 
+<A HREF="#codeword">Blue Words, Blue Words</A>
+
 <A HREF="#unit1">Unit 1: Introduction</A>
 
 <A HREF="#unit2">Unit 2: Data Sources</A>
@@ -45,6 +47,7 @@ No previous experience in statistics, computer science or data manipulation will
   * [Young, J.R. 2014. Why Students Should Own Their Educational Data. The Chronicle of Higher Education Blogs: Wired Campus.](http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329)
  
 ## <A NAME="unit2:">Unit 2: Data Sources (2/4/16 - 2/11/16)
+<A NAME="codeword">
 
 ### Learning Objectives
 
