@@ -12,7 +12,7 @@ No previous experience in statistics, computer science or data manipulation will
 
 <A HREF="#unit2">Unit 2: Data Sources</A>
 
-<A HREF="#unit3">Unit 3: Data Manipulation: Data Tidying </A>
+<A HREF="#unit3">Unit 3: Networks </A>
 
 <A HREF="#unit4">Unit 4: Data Manipulation: </A>
 
@@ -120,7 +120,35 @@ No previous experience in statistics, computer science or data manipulation will
 
 ### Learning Objectives
 
-Define social network analysis and its main analysis methods
-Perform social network analysis and visualize analysis results in R
-Develop a well defined opinion on how to approach student privacy and data use
+ * Define social network analysis and its main analysis methods
+ * Perform social network analysis and visualize analysis results in R
+ * Develop a well defined opinion on how to approach student privacy and data use
+
+1. Read:
+
+ * [Hanneman, R.A. and Riddle, M. Chapter 1: Social Network Data. Introduction to Social Network Methods.](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
+
+2. Read/Comment:
+ * Krueger, K.R. and Moore, B. 2015. New technology “clouds” student data privacy. Phi Delta Kappan. 96, 5 (Feb. 2015), 19–24.
+
+3. Assignment 5a
+
+## Week 7 Social Network Analysis (3/10/16 - 3/17/16)
+
+ * Describe and interpret the results of social network analysis for the study of learning
+ * Describe and critically reflect on approaches to the use of social network analysis for the study of learning
+
+1. Read/Comment:
+
+ * Grunspan, D. Z., Wiggins, B. L., & Goodreau, S. M. (2014). Understanding Classrooms through Social Network Analysis: A Primer for Social Network Analysis in Education Research. CBE-Life Sciences Education, 13(2), 167–178. doi:10.1187/cbe.13-08-0162
+ * [Manai, J. 2015. The Learning Analytics Landscape: Tension Between Student Privacy and the Process of Data Mining. Carnegie Foundation for the Advancement of Teaching.](http://www.carnegiefoundation.org/blog/the-learning-analytics-landscape-tension-between-student-privacy-and-the-process-of-data-mining/)
+
+2. Assignment 5b
+
+## Week 8 Social Network Analysis (3/10/16 - 3/17/16)
+
+ * Conduct one form of prediction modeling effectively and appropriately
+ * Understand the basis of predictive inference
+ * Develop a well defined opinion of the complexity of adaption
+ 
 
