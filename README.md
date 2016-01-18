@@ -8,7 +8,9 @@ The Internet and mobile computing are changing our relationship to data. Data ca
 
 No previous experience in statistics, computer science or data manipulation will be expected. However, students will be encouraged to get hands on experience, applying methods or technologies to educational problems. Students will be assessed on their understanding of technological or analytical innovations and how they critique the consequences of these innovations within the broader educational context.
 
-## Unit 1: Introduction (1/28/16 - 2/4/16)
+<A HREF="#Unit 1">Unit 1: Introduction</A>
+
+## <A NAME="Unit 1:">Introduction (1/28/16 - 2/4/16)
 
 ### Learning Objectives
 
