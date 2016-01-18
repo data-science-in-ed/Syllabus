@@ -45,7 +45,7 @@ No previous experience in statistics, computer science or data manipulation will
 ### Learning Objectives
 
 * Be familiar with a range of data sources, formats and extraction processes
-* Be familiar with R documentation
+* Be familiar with R & Github
 * Be familiar with the kinds of work done in the fields of LA and EDM
 
 ### Tasks to be completed:
@@ -53,16 +53,42 @@ No previous experience in statistics, computer science or data manipulation will
 1. Read/watch and comment:
   * [Siemens, G. and Baker, R.S.J. d. 2012. Learning Analytics and Educational Data Mining: Towards Communication and Collaboration. Proceedings of the 2nd International Conference on Learning Analytics and Knowledge (New York, NY, USA, 2012), 252–254.](http://users.wpi.edu/~rsbaker/LAKs%20reformatting%20v2.pdf)
   * [Educause 2015. Why Is Measuring Learning So Difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v)
-2. 
+  * [Saturday Morning Breakfast Cereal: 2016.](http://www.smbc-comics.com/index.php?id=3978)
 
-Unit 3: Data Tidying (2/11/16 - 2/18/16)
+2. Assignment 1: 
+
+Unit 3: Data Manipulation: Data Tidying (2/11/16 - 2/18/16)
 
 ### Learning Objectives:
 
- * Students will be able to perform a data tidying workflow
- * Students should be able to do basic visualization
- * Students will understand the importance of workflow and recording workflow
+ * Be able to perform a data tidying workflow
+ * Be able to do basic visualization
+ * Understand the importance of workflow and recording workflow
 
 ### Tasks to be completed:
 
+1. Read/watch:
+ * [Poulson, B. Up and Running with R. Lynda.com. Section 3 - 4](http://www.lynda.com/R-tutorials/Up-Running-R/120612-2.html?org=nyu.edu)
+ * [Data Wrangling Cheatsheet: 2015.](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) 
 
+2. Read/comment:
+ * Clow, D. 2014. Data wranglers: human interpreters to help close the feedback loop. Proceedings of the Fourth International Conference on Learning Analytics And Knowledge (2014), 49–53.
+
+3. Assignment 2
+ 
+Unit 4: Data Manipulation: Personalization (2/18/16 - 2/25/16)
+
+ * Understand why dimension reduction is necessary
+ * Be familiar with broad groups of dimensionality reduction (feature transformation, feature selection, feature extraction)
+ * Understand the complexity of personalization in education
+ 
+### Tasks to be completed:
+
+1. Read/Comment:
+
+ * [Zuckerberg is Ploughing Billions into “Personalised Learning” – Why?](http://theconversation.com/zuckerberg-is-ploughing-billions-into-personalised-learning-why-5194)
+ 
+2. Read/Watch:
+
+ * [Georgia Tech 2015. Feature Selection. Youtube.](https://www.youtube.com/watch?v=8CpRLplmdqE)
+ * 
