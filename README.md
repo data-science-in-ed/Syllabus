@@ -46,7 +46,7 @@ No previous experience in statistics, computer science or data manipulation will
   * [Leong, B. and Polonetsky, J. 2015. Why Opting Out of Student Data Collection Isn’t the Solution. EdSurge.](https://www.edsurge.com/news/2015-03-16-why-opting-out-of-student-data-collection-isn-t-the-solution)
   * [Young, J.R. 2014. Why Students Should Own Their Educational Data. The Chronicle of Higher Education Blogs: Wired Campus.](http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329)
  
-## <A NAME="unit2:">Unit 2: Data Sources (2/4/16 - 2/11/16)
+## <A NAME="unit2">Unit 2: Data Sources (2/4/16 - 2/11/16)
 <A NAME="codeword">
 
 ### Learning Objectives
