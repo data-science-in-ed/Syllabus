@@ -148,10 +148,31 @@ No previous experience in statistics, computer science or data manipulation will
 
 2. Assignment 5b
 
-## Week 8 Social Network Analysis (3/10/16 - 3/17/16)
+## Week 8 Prediction Modelling (3/17/16 - 3/24/16)
 
  * Conduct one form of prediction modeling effectively and appropriately
  * Understand the basis of predictive inference
  * Develop a well defined opinion of the complexity of adaption
- 
+
+Read/Comment:
+
+ * [Honan, M. (2014, August 11). I Liked Everything I Saw on Facebook for Two Days. Here’s What It Did to Me | Gadget Lab. WIRED. Retrieved August 12, 2014](http://www.wired.com/2014/08/i-liked-everything-i-saw-on-facebook-for-two-days-heres-what-it-did-to-me/)
+ * [Farr, C. 2014. Microsoft and Knewton partner up to bring adaptive learning to publishers & schools. VentureBeat.](http://venturebeat.com/2014/03/13/microsoft-and-knewton-partner-up-to-bring-adaptive-learning-to-publishers-schools/)
+
+Read:
+
+ * [Zheng, A. 2015. Evaluating Machine Learning Models. O’Reily Media. Chapter 2: Evaluation Metrics p.7-18](http://www.oreilly.com/data/free/evaluating-machine-learning-models.csp?intcmp=il-data-free-lp-lgen_free_reports_page)
+
+Assignment 6a
+
+## Week 9 Prediction Modelling (3/24/16 - 3/31/16)
+
+ * Understand core uses of prediction modeling in intelligent tutors
+ * Learn how to engineer both features and training labels
+ * Learn about key diagnostic metrics and their uses
+
+Read/Comment:
+
+ * [San Pedro, M.O.Z., Baker, R.S.J.d., Bowers, A.J., Heffernan, N.T. (2013) Predicting College Enrollment from Student Interaction with a Intelligent Tutoring System in Middle School. Proceedings of the 6th International Conference on Educational Data Mining, 177-184.](http://www.columbia.edu/~rsb2162/EDM2013_SBBH.pdf)
+ * [Wu, X., Kumar, V., Quinlan, J.R., Ghosh, J., Yang, Q., Motoda, H., McLachlan, G.J., Ng, A., Liu, B., Yu, P.S., Zhou, Z.-H., Steinbach, M., Hand, D.J. and Steinberg, D. 2007. Top 10 algorithms in data mining. Knowledge and Information Systems. 14, 1 (Dec. 2007), 1–6.](https://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf)
 
