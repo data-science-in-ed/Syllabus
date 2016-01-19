@@ -18,6 +18,8 @@ No previous experience in statistics, computer science or data manipulation will
 
 <A HREF="#unit5">Unit 5: Natural Language Processing</A>
 
+<A HREF="#unit6">Unit 6: Quantified Student</A>
+
 ## <A NAME="unit1:">Unit 1: Introduction (1/28/16 - 2/4/16)
 
 ### Learning Objectives
@@ -200,3 +202,15 @@ No previous experience in statistics, computer science or data manipulation will
 1. Read/Comment:
   * [Crawford, K. and Schultz, J. 2014. Big Data and Due Process: Toward a Framework to Redress Predictive Privacy Harms - Boston College Law Review. Boston College Law Review. LV, 1 (2014).](http://bclawreview.org/files/2014/01/03_crawford_schultz.pdf)
   * [Thompson, J. 2015. Text Mining, Big Data, Unstructured Data. Dell Computing.](http://documents.software.dell.com/Statistics/Textbook/Text-Mining)
+
+# <A NAME="unit6">Unit 6: The Quantified Student
+
+## Week 12 The Quantified Student (4/14/16 - 4/21/16)
+
+ * Have a well defined opinion of the use of biometric data in education
+ * Extract orientation data from a mobile device
+
+1. Read/Comment:
+
+  * [Lee, V. R., & Drake, J. (2013). Quantified Recess: Design of an Activity for Elementary Students Involving Analyses of Their Own Movement Data. In Proceedings of the 12th International Conference on Interaction Design and Children (pp. 273–276). New York, NY, USA: ACM. doi:10.1145/2485760.2485822](http://quantifiedself.com/wp-content/uploads/2014/11/Quantified-recess_-Design-of-an-activity-for-elementary-students.pdf)
+  * [Kamenetz, A. 2015. The Quantified Student: An App That Predicts GPA. NPR.](http://www.npr.org/sections/ed/2015/06/02/409780423/the-quantified-student-an-app-that-predicts-gpa)
