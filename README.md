@@ -197,6 +197,6 @@ No previous experience in statistics, computer science or data manipulation will
  * Perform a basic NLP analysis
  * Develop a well defined opinion on whether students should have a right to understand how they are judged
 
-Read/Comment:
+1. Read/Comment:
   * [Crawford, K. and Schultz, J. 2014. Big Data and Due Process: Toward a Framework to Redress Predictive Privacy Harms - Boston College Law Review. Boston College Law Review. LV, 1 (2014).](http://bclawreview.org/files/2014/01/03_crawford_schultz.pdf)
   * [Thompson, J. 2015. Text Mining, Big Data, Unstructured Data. Dell Computing.](http://documents.software.dell.com/Statistics/Textbook/Text-Mining)
