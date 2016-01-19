@@ -128,10 +128,10 @@ No previous experience in statistics, computer science or data manipulation will
  
  1. Read:
 
- * [Hanneman, R.A. and Riddle, M. Chapter 1: Social Network Data. Introduction to Social Network Methods.](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
+  * [Hanneman, R.A. and Riddle, M. Chapter 1: Social Network Data. Introduction to Social Network Methods.](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
 
 2. Read/Comment:
- * Krueger, K.R. and Moore, B. 2015. New technology “clouds” student data privacy. Phi Delta Kappan. 96, 5 (Feb. 2015), 19–24.
+  * Krueger, K.R. and Moore, B. 2015. New technology “clouds” student data privacy. Phi Delta Kappan. 96, 5 (Feb. 2015), 19–24.
 
 3. Assignment 5a
 
@@ -142,8 +142,8 @@ No previous experience in statistics, computer science or data manipulation will
 
 1. Read/Comment:
 
- * Grunspan, D. Z., Wiggins, B. L., & Goodreau, S. M. (2014). Understanding Classrooms through Social Network Analysis: A Primer for Social Network Analysis in Education Research. CBE-Life Sciences Education, 13(2), 167–178. doi:10.1187/cbe.13-08-0162
- * [Manai, J. 2015. The Learning Analytics Landscape: Tension Between Student Privacy and the Process of Data Mining. Carnegie Foundation for the Advancement of Teaching.](http://www.carnegiefoundation.org/blog/the-learning-analytics-landscape-tension-between-student-privacy-and-the-process-of-data-mining/)
+  * Grunspan, D. Z., Wiggins, B. L., & Goodreau, S. M. (2014). Understanding Classrooms through Social Network Analysis: A Primer for Social Network Analysis in Education Research. CBE-Life Sciences Education, 13(2), 167–178. doi:10.1187/cbe.13-08-0162
+  * [Manai, J. 2015. The Learning Analytics Landscape: Tension Between Student Privacy and the Process of Data Mining. Carnegie Foundation for the Advancement of Teaching.](http://www.carnegiefoundation.org/blog/the-learning-analytics-landscape-tension-between-student-privacy-and-the-process-of-data-mining/)
 
 2. Assignment 5b
 
@@ -157,12 +157,12 @@ No previous experience in statistics, computer science or data manipulation will
 
 1. Read/Comment:
 
- * [Honan, M. (2014, August 11). I Liked Everything I Saw on Facebook for Two Days. Here’s What It Did to Me | Gadget Lab. WIRED. Retrieved August 12, 2014](http://www.wired.com/2014/08/i-liked-everything-i-saw-on-facebook-for-two-days-heres-what-it-did-to-me/)
- * [Farr, C. 2014. Microsoft and Knewton partner up to bring adaptive learning to publishers & schools. VentureBeat.](http://venturebeat.com/2014/03/13/microsoft-and-knewton-partner-up-to-bring-adaptive-learning-to-publishers-schools/)
+  * [Honan, M. (2014, August 11). I Liked Everything I Saw on Facebook for Two Days. Here’s What It Did to Me | Gadget Lab. WIRED. Retrieved August 12, 2014](http://www.wired.com/2014/08/i-liked-everything-i-saw-on-facebook-for-two-days-heres-what-it-did-to-me/)
+  * [Farr, C. 2014. Microsoft and Knewton partner up to bring adaptive learning to publishers & schools. VentureBeat.](http://venturebeat.com/2014/03/13/microsoft-and-knewton-partner-up-to-bring-adaptive-learning-to-publishers-schools/)
 
 2. Read:
 
- * [Zheng, A. 2015. Evaluating Machine Learning Models. O’Reily Media. Chapter 2: Evaluation Metrics p.7-18](http://www.oreilly.com/data/free/evaluating-machine-learning-models.csp?intcmp=il-data-free-lp-lgen_free_reports_page)
+  * [Zheng, A. 2015. Evaluating Machine Learning Models. O’Reily Media. Chapter 2: Evaluation Metrics p.7-18](http://www.oreilly.com/data/free/evaluating-machine-learning-models.csp?intcmp=il-data-free-lp-lgen_free_reports_page)
 
 3. Assignment 6a
 
@@ -174,8 +174,8 @@ No previous experience in statistics, computer science or data manipulation will
 
 1. Read/Comment:
 
- * [San Pedro, M.O.Z., Baker, R.S.J.d., Bowers, A.J., Heffernan, N.T. (2013) Predicting College Enrollment from Student Interaction with a Intelligent Tutoring System in Middle School. Proceedings of the 6th International Conference on Educational Data Mining, 177-184.](http://www.columbia.edu/~rsb2162/EDM2013_SBBH.pdf)
- * [Wu, X., Kumar, V., Quinlan, J.R., Ghosh, J., Yang, Q., Motoda, H., McLachlan, G.J., Ng, A., Liu, B., Yu, P.S., Zhou, Z.-H., Steinbach, M., Hand, D.J. and Steinberg, D. 2007. Top 10 algorithms in data mining. Knowledge and Information Systems. 14, 1 (Dec. 2007), 1–6.](https://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf)
+  * [San Pedro, M.O.Z., Baker, R.S.J.d., Bowers, A.J., Heffernan, N.T. (2013) Predicting College Enrollment from Student Interaction with a Intelligent Tutoring System in Middle School. Proceedings of the 6th International Conference on Educational Data Mining, 177-184.](http://www.columbia.edu/~rsb2162/EDM2013_SBBH.pdf)
+  * [Wu, X., Kumar, V., Quinlan, J.R., Ghosh, J., Yang, Q., Motoda, H., McLachlan, G.J., Ng, A., Liu, B., Yu, P.S., Zhou, Z.-H., Steinbach, M., Hand, D.J. and Steinberg, D. 2007. Top 10 algorithms in data mining. Knowledge and Information Systems. 14, 1 (Dec. 2007), 1–6.](https://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf)
 
 2. Assignment 6b
 
@@ -187,8 +187,8 @@ No previous experience in statistics, computer science or data manipulation will
  * Describe applications of text mining to education
 
 1. Read/Comment:
- * [Nadkarni, P.M., Ohno-Machado, L. and Chapman, W.W. 2011. Natural language processing: an introduction. Journal of the American Medical Informatics Association : JAMIA. 18, 5 (2011), 544–551.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168328/)
- * [Shermis, M. D. (2014). State-of-the-art automated essay scoring: Competition, results, and future directions from a United States demonstration. Assessing Writing, 20, 53–76.](https://s3.amazonaws.com/s3.documentcloud.org/documents/1094637/shermis-aw-final.pdf)
+  * [Nadkarni, P.M., Ohno-Machado, L. and Chapman, W.W. 2011. Natural language processing: an introduction. Journal of the American Medical Informatics Association : JAMIA. 18, 5 (2011), 544–551.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168328/)
+  * [Shermis, M. D. (2014). State-of-the-art automated essay scoring: Competition, results, and future directions from a United States demonstration. Assessing Writing, 20, 53–76.](https://s3.amazonaws.com/s3.documentcloud.org/documents/1094637/shermis-aw-final.pdf)
 
 2. Assignment 7a
 
@@ -198,5 +198,5 @@ No previous experience in statistics, computer science or data manipulation will
  * Develop a well defined opinion on whether students should have a right to understand how they are judged
 
 Read/Comment:
- * [Crawford, K. and Schultz, J. 2014. Big Data and Due Process: Toward a Framework to Redress Predictive Privacy Harms - Boston College Law Review. Boston College Law Review. LV, 1 (2014).](http://bclawreview.org/files/2014/01/03_crawford_schultz.pdf)
- * [Thompson, J. 2015. Text Mining, Big Data, Unstructured Data. Dell Computing.](http://documents.software.dell.com/Statistics/Textbook/Text-Mining)
+  * [Crawford, K. and Schultz, J. 2014. Big Data and Due Process: Toward a Framework to Redress Predictive Privacy Harms - Boston College Law Review. Boston College Law Review. LV, 1 (2014).](http://bclawreview.org/files/2014/01/03_crawford_schultz.pdf)
+  * [Thompson, J. 2015. Text Mining, Big Data, Unstructured Data. Dell Computing.](http://documents.software.dell.com/Statistics/Textbook/Text-Mining)
