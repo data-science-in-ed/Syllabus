@@ -39,7 +39,9 @@ No previous experience in statistics, computer science or data manipulation will
   * Twitter
 
 
-3. [Join Git Organization data-science-in-ed] (https://github.com/data-science-in-ed/)
+
+
+3. [Join Github Organization "data-science-in-ed"](https://github.com/data-science-in-ed/)
 
 4. **Complete survey by 2/4/16** 
 
