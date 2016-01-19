@@ -129,7 +129,7 @@ No previous experience in statistics, computer science or data manipulation will
  * Perform social network analysis and visualize analysis results in R
  * Develop a well defined opinion on how to approach student privacy and data use
 
-1. Read:
+1.Read:
 
  * [Hanneman, R.A. and Riddle, M. Chapter 1: Social Network Data. Introduction to Social Network Methods.](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
 
