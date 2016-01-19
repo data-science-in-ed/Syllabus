@@ -12,9 +12,9 @@ No previous experience in statistics, computer science or data manipulation will
 
 <A HREF="#unit2">Unit 2: Data Sources</A>
 
-<A HREF="#unit3">Unit 3: Networks </A>
+<A HREF="#unit3">Unit 3: Networks</A>
 
-<A HREF="#unit4">Unit 4: Data Manipulation: </A>
+<A HREF="#unit4">Unit 4: Prediction</A>
 
 ## <A NAME="unit1:">Unit 1: Introduction (1/28/16 - 2/4/16)
 
