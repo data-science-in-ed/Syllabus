@@ -64,7 +64,7 @@ No previous experience in statistics, computer science or data manipulation will
   * [Educause 2015. Why Is Measuring Learning So Difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v)
   * [Saturday Morning Breakfast Cereal: 2016.](http://www.smbc-comics.com/index.php?id=3978)
 
-2. Assignment 1: 
+2. Assignment 1: joing Github account to RStudio
 
 ## Week 3 Data Tidying (2/11/16 - 2/18/16)
 
