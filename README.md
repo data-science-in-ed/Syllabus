@@ -156,16 +156,16 @@ No previous experience in statistics, computer science or data manipulation will
  * Understand the basis of predictive inference
  * Develop a well defined opinion of the complexity of adaption
 
-Read/Comment:
+1. Read/Comment:
 
  * [Honan, M. (2014, August 11). I Liked Everything I Saw on Facebook for Two Days. Here’s What It Did to Me | Gadget Lab. WIRED. Retrieved August 12, 2014](http://www.wired.com/2014/08/i-liked-everything-i-saw-on-facebook-for-two-days-heres-what-it-did-to-me/)
  * [Farr, C. 2014. Microsoft and Knewton partner up to bring adaptive learning to publishers & schools. VentureBeat.](http://venturebeat.com/2014/03/13/microsoft-and-knewton-partner-up-to-bring-adaptive-learning-to-publishers-schools/)
 
-Read:
+2. Read:
 
  * [Zheng, A. 2015. Evaluating Machine Learning Models. O’Reily Media. Chapter 2: Evaluation Metrics p.7-18](http://www.oreilly.com/data/free/evaluating-machine-learning-models.csp?intcmp=il-data-free-lp-lgen_free_reports_page)
 
-Assignment 6a
+3. Assignment 6a
 
 ## Week 9 Prediction Modelling (3/24/16 - 3/31/16)
 
@@ -173,9 +173,30 @@ Assignment 6a
  * Learn how to engineer both features and training labels
  * Learn about key diagnostic metrics and their uses
 
-Read/Comment:
+1. Read/Comment:
 
  * [San Pedro, M.O.Z., Baker, R.S.J.d., Bowers, A.J., Heffernan, N.T. (2013) Predicting College Enrollment from Student Interaction with a Intelligent Tutoring System in Middle School. Proceedings of the 6th International Conference on Educational Data Mining, 177-184.](http://www.columbia.edu/~rsb2162/EDM2013_SBBH.pdf)
  * [Wu, X., Kumar, V., Quinlan, J.R., Ghosh, J., Yang, Q., Motoda, H., McLachlan, G.J., Ng, A., Liu, B., Yu, P.S., Zhou, Z.-H., Steinbach, M., Hand, D.J. and Steinberg, D. 2007. Top 10 algorithms in data mining. Knowledge and Information Systems. 14, 1 (Dec. 2007), 1–6.](https://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf)
 
-Assignment 6b
+2. Assignment 6b
+
+## Week 10 Natural Language Processing (3/31/16 - 4/7/16)
+
+ * Describe prominent areas of text mining
+ * Assemble a corpus of documents
+ * Describe applications of text mining to education
+
+1. Read/Comment:
+ * [Nadkarni, P.M., Ohno-Machado, L. and Chapman, W.W. 2011. Natural language processing: an introduction. Journal of the American Medical Informatics Association : JAMIA. 18, 5 (2011), 544–551.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168328/)
+ * [Shermis, M. D. (2014). State-of-the-art automated essay scoring: Competition, results, and future directions from a United States demonstration. Assessing Writing, 20, 53–76.](https://s3.amazonaws.com/s3.documentcloud.org/documents/1094637/shermis-aw-final.pdf)
+
+2. Assignment 7a
+
+## Week 11 Natural Language Processing (4/7/16 - 4/14/16)
+
+ * Perform a basic NLP analysis
+ * Develop a well defined opinion on whether students should have a right to understand how they are judged
+
+Read/Comment:
+ * [Crawford, K. and Schultz, J. 2014. Big Data and Due Process: Toward a Framework to Redress Predictive Privacy Harms - Boston College Law Review. Boston College Law Review. LV, 1 (2014).](http://bclawreview.org/files/2014/01/03_crawford_schultz.pdf)
+ * [Thompson, J. 2015. Text Mining, Big Data, Unstructured Data. Dell Computing.](http://documents.software.dell.com/Statistics/Textbook/Text-Mining)
