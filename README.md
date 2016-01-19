@@ -182,6 +182,7 @@ No previous experience in statistics, computer science or data manipulation will
 
 2. Assignment 6b
 
+# <A NAME="unit5">Unit 5: Natural Language Processing
 ## Week 10 Natural Language Processing (3/31/16 - 4/7/16)
 
  * Describe prominent areas of text mining
@@ -194,7 +195,6 @@ No previous experience in statistics, computer science or data manipulation will
 
 2. Assignment 7a
 
-# <A NAME="unit5">Unit 5: Natural Language Processing
 ## Week 11 Natural Language Processing (4/7/16 - 4/14/16)
 
  * Perform a basic NLP analysis
