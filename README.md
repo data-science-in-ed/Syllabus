@@ -209,5 +209,7 @@ No previous experience in statistics, computer science or data manipulation will
 
  * Have a well defined opinion of the use of biometric data in education
  * Extract orientation data from a mobile device
+ 
+1. Read/Comment
   * [Lee, V. R., & Drake, J. (2013). Quantified Recess: Design of an Activity for Elementary Students Involving Analyses of Their Own Movement Data. In Proceedings of the 12th International Conference on Interaction Design and Children (pp. 273–276). New York, NY, USA: ACM. doi:10.1145/2485760.2485822](http://quantifiedself.com/wp-content/uploads/2014/11/Quantified-recess_-Design-of-an-activity-for-elementary-students.pdf)
   * [Kamenetz, A. 2015. The Quantified Student: An App That Predicts GPA. NPR.](http://www.npr.org/sections/ed/2015/06/02/409780423/the-quantified-student-an-app-that-predicts-gpa)
