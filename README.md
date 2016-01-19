@@ -115,6 +115,8 @@ No previous experience in statistics, computer science or data manipulation will
  * Perform one method from each group of dimensionality reduction methods
  * Be aware of the complexity of Open Data
 
+### Tasks to be completed:
+
 1. Read/Comment:
 
  * Sharma, A. 2014. Why Open Data Matters in Education. Opensource.com.
@@ -129,6 +131,8 @@ No previous experience in statistics, computer science or data manipulation will
  * Define social network analysis and its main analysis methods
  * Perform social network analysis and visualize analysis results in R
  * Develop a well defined opinion on how to approach student privacy and data use
+
+### Tasks to be completed:
  
  1. Read:
 
@@ -144,6 +148,8 @@ No previous experience in statistics, computer science or data manipulation will
  * Describe and interpret the results of social network analysis for the study of learning
  * Describe and critically reflect on approaches to the use of social network analysis for the study of learning
 
+### Tasks to be completed:
+
 1. Read/Comment:
 
   * Grunspan, D. Z., Wiggins, B. L., & Goodreau, S. M. (2014). Understanding Classrooms through Social Network Analysis: A Primer for Social Network Analysis in Education Research. CBE-Life Sciences Education, 13(2), 167–178. doi:10.1187/cbe.13-08-0162
@@ -158,6 +164,8 @@ No previous experience in statistics, computer science or data manipulation will
  * Conduct one form of prediction modeling effectively and appropriately
  * Understand the basis of predictive inference
  * Develop a well defined opinion of the complexity of adaption
+
+### Tasks to be completed:
 
 1. Read/Comment:
 
@@ -176,6 +184,8 @@ No previous experience in statistics, computer science or data manipulation will
  * Learn how to engineer both features and training labels
  * Learn about key diagnostic metrics and their uses
 
+### Tasks to be completed:
+
  1. Read/Comment:
 
   * [San Pedro, M.O.Z., Baker, R.S.J.d., Bowers, A.J., Heffernan, N.T. (2013) Predicting College Enrollment from Student Interaction with a Intelligent Tutoring System in Middle School. Proceedings of the 6th International Conference on Educational Data Mining, 177-184.](http://www.columbia.edu/~rsb2162/EDM2013_SBBH.pdf)
@@ -190,6 +200,8 @@ No previous experience in statistics, computer science or data manipulation will
  * Assemble a corpus of documents
  * Describe applications of text mining to education
 
+### Tasks to be completed:
+
 1. Read/Comment:
   * [Nadkarni, P.M., Ohno-Machado, L. and Chapman, W.W. 2011. Natural language processing: an introduction. Journal of the American Medical Informatics Association : JAMIA. 18, 5 (2011), 544–551.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168328/)
   * [Shermis, M. D. (2014). State-of-the-art automated essay scoring: Competition, results, and future directions from a United States demonstration. Assessing Writing, 20, 53–76.](https://s3.amazonaws.com/s3.documentcloud.org/documents/1094637/shermis-aw-final.pdf)
@@ -200,6 +212,8 @@ No previous experience in statistics, computer science or data manipulation will
 
  * Perform a basic NLP analysis
  * Develop a well defined opinion on whether students should have a right to understand how they are judged
+
+### Tasks to be completed:
 
 1. Read/Comment:
   * [Crawford, K. and Schultz, J. 2014. Big Data and Due Process: Toward a Framework to Redress Predictive Privacy Harms - Boston College Law Review. Boston College Law Review. LV, 1 (2014).](http://bclawreview.org/files/2014/01/03_crawford_schultz.pdf)
@@ -213,6 +227,8 @@ No previous experience in statistics, computer science or data manipulation will
 
  * Have a well defined opinion of the use of biometric data in education
  * Extract orientation data from a mobile device
+
+### Tasks to be completed:
  
 1. Read/Comment
   * [Lee, V. R., & Drake, J. (2013). Quantified Recess: Design of an Activity for Elementary Students Involving Analyses of Their Own Movement Data. In Proceedings of the 12th International Conference on Interaction Design and Children (pp. 273–276). New York, NY, USA: ACM. doi:10.1145/2485760.2485822](http://quantifiedself.com/wp-content/uploads/2014/11/Quantified-recess_-Design-of-an-activity-for-elementary-students.pdf)
@@ -227,6 +243,8 @@ No previous experience in statistics, computer science or data manipulation will
  * Understand basic principals of the grammar of graphics
  * Understand the basic principals of effective data visualization
  * Produce a range of graphical representations using ggplot & D3.js for R
+
+### Tasks to be completed:
 
 1. Read/Watch:
   * [Datacamp 2015. The ggvis R package - How to Work With The Grammar of Graphics - YouTube. Youtube.](https://www.youtube.com/watch?v=rf55oB6xX3w)
