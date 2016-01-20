@@ -58,7 +58,7 @@ No previous experience in statistics, computer science or data manipulation will
 ### Learning Objectives
 
 * Be familiar with a range of data sources, formats and extraction processes
-* Be familiar with R & Github
+* Be familiar with R & Github & markdown
 * Be familiar with the kinds of work done in the fields of LA and EDM
 
 ### Tasks to be completed:
@@ -67,8 +67,9 @@ No previous experience in statistics, computer science or data manipulation will
   * [Siemens, G. and Baker, R.S.J. d. 2012. Learning Analytics and Educational Data Mining: Towards Communication and Collaboration. Proceedings of the 2nd International Conference on Learning Analytics and Knowledge (New York, NY, USA, 2012), 252–254.](http://users.wpi.edu/~rsbaker/LAKs%20reformatting%20v2.pdf)
   * [Educause 2015. Why Is Measuring Learning So Difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v)
   * [Saturday Morning Breakfast Cereal: 2016.](http://www.smbc-comics.com/index.php?id=3978)
+  * [The R Markdown Cheat sheet: 2014.](http://shiny.rstudio.com/articles/rm-cheatsheet.html) 
 
-2. Assignment 1: joing Github account to RStudio
+2. Assignment 1: Github and RStudio
 
 ## Week 3 Data Tidying (2/11/16 - 2/18/16)
 
