@@ -8,6 +8,19 @@ The Internet and mobile computing are changing our relationship to data. Data ca
 
 No previous experience in statistics, computer science or data manipulation will be expected. However, students will be encouraged to get hands on experience, applying methods or technologies to educational problems. Students will be assessed on their understanding of technological or analytical innovations and how they critique the consequences of these innovations within the broader educational context.
 
+## Course Goals
+
+The overarching goal of this course is for students to acquire the knowledge and skills to be intelligent producers and consumers of data science in education. By the end of the course students should:
+ * Systematically develop a line of inquiry utilizing data to make an argument about learning
+ * Be able to evaluate the implications of data science for educational research, policy, and practice 
+
+This necessarily means that students become comfortable with the educational applications of three domain areas: computer science, statistics and the context surrounding data use. There is no expectation for students to become experts in any one of these areas but rather the course will aim to: enhance student competency in identifying issues at the level of data acquisition, data analysis and application of analysis in education.
+
+## Assessment
+
+In EDCT-GE 2550 students will be attempting several data science projects, however, unlike most courses, students will not be asssessed based on how successful they are in completing these projects. Rather students will be assessed on two key components for future sucess: contribution and organization. *Contribution* reflects the extent to which students participate in the course, how often they tweet, whether or not they complete assignments and quizzes, attend class, etc. *Organization* reflects how well students document their process and maintain data and software resources. For example, maintaining a well organized Zotero library with notes, maintaining a well organized Github account and maintaining organized data sets that are labelled appropriately. To do well in EDCT-GE 2550 requires that students finish the course with the resources to sucessfully use data science in education **in the future**.  
+
+
 <A HREF="#unit1">Unit 1: Introduction</A>
 
 <A HREF="#unit2">Unit 2: Data Sources</A>
