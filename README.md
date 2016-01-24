@@ -100,7 +100,7 @@ In EDCT-GE 2550 students will be attempting several data science projects, howev
  * [Data Wrangling Cheatsheet: 2015.](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) 
 
 2. Read/comment:
- * Clow, D. 2014. Data wranglers: human interpreters to help close the feedback loop. Proceedings of the Fourth International Conference on Learning Analytics And Knowledge (2014), 49–53.
+ * [Clow, D. 2014. Data wranglers: human interpreters to help close the feedback loop. Proceedings of the Fourth International Conference on Learning Analytics And Knowledge (2014), 49–53.](http://delivery.acm.org.ezp-prod1.hul.harvard.edu/10.1145/2570000/2567603/p49-clow.pdf?ip=128.103.149.52&id=2567603&acc=ACTIVE%20SERVICE&key=C82FBC3DCC335AD2.4D4702B0C3E38B35.4D4702B0C3E38B35.4D4702B0C3E38B35&CFID=746650746&CFTOKEN=43660250&__acm__=1453662743_2738b2912ee7e971be02bc7d598383be)
 
 3. Assignment 2
  
@@ -119,7 +119,7 @@ In EDCT-GE 2550 students will be attempting several data science projects, howev
 2. Read/Watch:
 
  * [Georgia Tech 2015. Feature Selection. Youtube.](https://www.youtube.com/watch?v=8CpRLplmdqE)
- * Perez-Riverol, Y. 2013. Introduction to Feature Selection for Bioinformaticians Using R, Correlation Matrix Filters, PCA & Backward Selection. R-bloggers.
+ * [Perez-Riverol, Y. 2013. Introduction to Feature Selection for Bioinformaticians Using R, Correlation Matrix Filters, PCA & Backward Selection. R-bloggers.](http://www.r-bloggers.com/introduction-to-feature-selection-for-bioinformaticians-using-r-correlation-matrix-filters-pca-backward-selection/)
  
 3. Assignment 3 
  
@@ -132,7 +132,7 @@ In EDCT-GE 2550 students will be attempting several data science projects, howev
 
 1. Read/Comment:
 
- * Sharma, A. 2014. Why Open Data Matters in Education. Opensource.com.
+ * [Sharma, A. 2014. Why Open Data Matters in Education. Opensource.com.](https://opensource.com/education/14/10/why-open-data-matters-education)
 
 2. Assignment 4
 
@@ -166,7 +166,7 @@ In EDCT-GE 2550 students will be attempting several data science projects, howev
 
 1. Read/Comment:
 
-  * Grunspan, D. Z., Wiggins, B. L., & Goodreau, S. M. (2014). Understanding Classrooms through Social Network Analysis: A Primer for Social Network Analysis in Education Research. CBE-Life Sciences Education, 13(2), 167–178. doi:10.1187/cbe.13-08-0162
+  * [Grunspan, D. Z., Wiggins, B. L., & Goodreau, S. M. (2014). Understanding Classrooms through Social Network Analysis: A Primer for Social Network Analysis in Education Research. CBE-Life Sciences Education, 13(2), 167–178. doi:10.1187/cbe.13-08-0162](http://www.lifescied.org/content/13/2/167.full.pdf)
   * [Manai, J. 2015. The Learning Analytics Landscape: Tension Between Student Privacy and the Process of Data Mining. Carnegie Foundation for the Advancement of Teaching.](http://www.carnegiefoundation.org/blog/the-learning-analytics-landscape-tension-between-student-privacy-and-the-process-of-data-mining/)
 
 2. Assignment 5b
