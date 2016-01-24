@@ -145,7 +145,7 @@ Tasks that need to be completed during the semester:
 
 1. Read/Comment:
 
- * [Sharma, A. 2014. Why Open Data Matters in Education. Opensource.com.](https://opensource.com/education/14/10/why-open-data-matters-education)
+ * [Ridgway, J. and Smith, A. 2013. Open data, official statistics and statistics education: threats, and opportunities for collaboration. Proceedings of the Joint IASEIAOS Satellite Conference “Statistics Education for Progress”, Macao, China (2013).](http://iase-web.org/documents/papers/sat2013/IASE_IAOS_2013_Paper_K3_Ridgway_Smith.pdf)
 
 2. Assignment 4
 
