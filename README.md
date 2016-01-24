@@ -30,6 +30,7 @@ Tasks that need to be completed during the semester:
  * Ask one question on Stack Overflow
  * In person meeting with instructor
  * 8 short assignments (including one group assignment)
+ * Group presentation of group assignment
  * Produce one argument about learning using data from the class
  
 
