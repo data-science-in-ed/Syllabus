@@ -18,7 +18,20 @@ This necessarily means that students become comfortable with the educational app
 
 ## Assessment
 
-In EDCT-GE 2550 students will be attempting several data science projects, however, unlike most courses, students will not be asssessed based on how successful they are in completing these projects. Rather students will be assessed on two key components for future sucess: contribution and organization. **Contribution** reflects the extent to which students participate in the course, how often they tweet, whether or not they complete assignments and quizzes, attend class, etc. **Organization** reflects how well students document their process and maintain data and software resources. For example, maintaining a well organized Zotero library with notes, maintaining a well organized Github account and maintaining organized data sets that are labelled appropriately. To do well in EDCT-GE 2550 requires that students finish the course with the resources to sucessfully use data science in education *in the future*. Do the work and stay organized and all will be well!   
+In EDCT-GE 2550 students will be attempting several data science projects, however, unlike most courses, students will not be asssessed based on how successful they are in completing these projects. Rather students will be assessed on two key components for future sucess: contribution and organization. **Contribution** reflects the extent to which students participate in the course, how often they tweet, whether or not they complete assignments and quizzes, attend class, etc. **Organization** reflects how well students document their process and maintain data and software resources. For example, maintaining a well organized Zotero library with notes, maintaining a well organized Github account and maintaining organized data sets that are labelled appropriately. To do well in EDCT-GE 2550 requires that students finish the course with the resources to sucessfully use data science in education *in the future*. Do the work and stay organized and all will be well!
+
+Tasks that need to be completed during the semester:
+
+ * Attend class
+ * Weekly readings
+ * Comment on readings on Twitter
+ * Weekly in class questionnaire
+ * Maintain documentation of work (Github, R Markdown, Zotero)
+ * Ask one question on Stack Overflow
+ * In person meeting with instructor
+ * 8 short assignments (including one group assignment)
+ * Produce one argument about learning using data from the class
+ 
 
 ## Week-by-week
 
