@@ -60,7 +60,6 @@ Tasks that need to be completed during the semester:
 * Appreciate the importance of tightly defining educational goals
 
 ### Tasks to be completed:
-
 1. Read and comment on by 1/30/16:
   * [Leong, B. and Polonetsky, J. 2015. Why Opting Out of Student Data Collection Isn’t the Solution. EdSurge.](https://www.edsurge.com/news/2015-03-16-why-opting-out-of-student-data-collection-isn-t-the-solution)
   * [Young, J.R. 2014. Why Students Should Own Their Educational Data. The Chronicle of Higher Education Blogs: Wired Campus.](http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329)
