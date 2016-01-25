@@ -60,11 +60,12 @@ Tasks that need to be completed during the semester:
 * Appreciate the importance of tightly defining educational goals
 
 ### Tasks to be completed:
-1. Read and comment on by 1/30/16:
+ 
+ 1. Read and comment on by 1/30/16:
   * [Leong, B. and Polonetsky, J. 2015. Why Opting Out of Student Data Collection Isn’t the Solution. EdSurge.](https://www.edsurge.com/news/2015-03-16-why-opting-out-of-student-data-collection-isn-t-the-solution)
   * [Young, J.R. 2014. Why Students Should Own Their Educational Data. The Chronicle of Higher Education Blogs: Wired Campus.](http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329)
 
-2. Assignment 1a: Set up
+ 2. Assignment 1a: Set up
 
 # <A NAME="unit2">Unit 2: Data Sources & their Manipulation 
 ## Week 2 Data Sources (2/4/16 - 2/11/16)
@@ -77,13 +78,13 @@ Tasks that need to be completed during the semester:
 
 ### Tasks to be completed:
 
-1. Read/watch and comment:
+ 1. Read/watch and comment:
   * [Siemens, G. and Baker, R.S.J. d. 2012. Learning Analytics and Educational Data Mining: Towards Communication and Collaboration. Proceedings of the 2nd International Conference on Learning Analytics and Knowledge (New York, NY, USA, 2012), 252–254.](http://users.wpi.edu/~rsbaker/LAKs%20reformatting%20v2.pdf)
   * [Educause 2015. Why Is Measuring Learning So Difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v)
   * [Saturday Morning Breakfast Cereal: 2016.](http://www.smbc-comics.com/index.php?id=3978)
   * [The R Markdown Cheat sheet: 2014.](http://shiny.rstudio.com/articles/rm-cheatsheet.html) 
 
-2. Assignment 1b: Github and RStudio
+ 2. Assignment 1b: Github and RStudio
 
 ## Week 3 Data Tidying (2/11/16 - 2/18/16)
 
