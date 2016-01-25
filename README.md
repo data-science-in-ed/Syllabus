@@ -61,25 +61,12 @@ Tasks that need to be completed during the semester:
 
 ### Tasks to be completed:
 
-1. Install by 2/4/16:
-  * R
-  * RStudio
-  * Firefox
-  * Zotero plugin for Firefox
-
-2. Create Accounts by 2/4/16:
-  * [Github](www.github.com)
-  * [Zotero](www.zotero.org)
-  * [Twitter](www.twitter.com)
-
-3. **Complete survey by 2/4/16** 
-
-4. Clone [references](https://github.com/data-science-in-ed/references) repository, download Zotero file and [upload into Zotero](https://www.zotero.org/support/getting_stuff_into_your_library) 
-
-5. Read and comment on by 1/30/16:
+1. Read and comment on by 1/30/16:
   * [Leong, B. and Polonetsky, J. 2015. Why Opting Out of Student Data Collection Isn’t the Solution. EdSurge.](https://www.edsurge.com/news/2015-03-16-why-opting-out-of-student-data-collection-isn-t-the-solution)
   * [Young, J.R. 2014. Why Students Should Own Their Educational Data. The Chronicle of Higher Education Blogs: Wired Campus.](http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329)
- 
+
+2. Assignment 1a: Set up
+
 # <A NAME="unit2">Unit 2: Data Sources & their Manipulation 
 ## Week 2 Data Sources (2/4/16 - 2/11/16)
 
@@ -97,7 +84,7 @@ Tasks that need to be completed during the semester:
   * [Saturday Morning Breakfast Cereal: 2016.](http://www.smbc-comics.com/index.php?id=3978)
   * [The R Markdown Cheat sheet: 2014.](http://shiny.rstudio.com/articles/rm-cheatsheet.html) 
 
-2. Assignment 1: Github and RStudio
+2. Assignment 1b: Github and RStudio
 
 ## Week 3 Data Tidying (2/11/16 - 2/18/16)
 
