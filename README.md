@@ -1,5 +1,7 @@
 # Data Science in Education: Syllabus
 
+No assignment, please!!!
+
 * **Course:** [EDCT-GE2550, NYU Steinhardt](http://steinhardt.nyu.edu/alt/ect/courses)
 * **Instructor:** Charles Lang, [charles.lang@nyu.edu](mailto:charles.lang@nyu.edu), @learng00d
 
@@ -266,5 +268,3 @@ Tasks that need to be completed during the semester:
   * [Friendly, M. 2008. A Brief History of Data Visualization. Handbook of Data Visualization. Springer Berlin Heidelberg. 15–56.] (http://download.springer.com.ezp-prod1.hul.harvard.edu/static/pdf/797/chp%253A10.1007%252F978-3-540-33037-0_2.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-540-33037-0_2&token2=exp=1453237938~acl=%2Fstatic%2Fpdf%2F797%2Fchp%25253A10.1007%25252F978-3-540-33037-0_2.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fchapter%252F10.1007%252F978-3-540-33037-0_2*~hmac=f39b47d9779f7d2ef33b7e231c7385fb79662ec5cc43ff39d52e812fe9ca466c)
 
 2. Assignment 8
-
-Please no assignment!!!
