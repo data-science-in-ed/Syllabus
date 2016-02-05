@@ -131,9 +131,6 @@ Tasks that need to be completed during the semester:
 
 ### Tasks to be completed:
 
-1. Read/Comment:
-
- * [Ridgway, J. and Smith, A. 2013. Open data, official statistics and statistics education: threats, and opportunities for collaboration. Proceedings of the Joint IASEIAOS Satellite Conference “Statistics Education for Progress”, Macao, China (2013).](http://iase-web.org/documents/papers/sat2013/IASE_IAOS_2013_Paper_K3_Ridgway_Smith.pdf)
 
 2. Assignment 4
 
@@ -149,12 +146,6 @@ Tasks that need to be completed during the semester:
 ### Tasks to be completed:
  
  1. Read:
-
-  * [Hanneman, R.A. and Riddle, M. Chapter 1: Social Network Data. Introduction to Social Network Methods.](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
-
-2. Read/Comment:
-  * [Krueger, K.R. and Moore, B. 2015. New Technology “Clouds” Student Data Privacy. Phi Delta Kappan. 96, 5 (Feb. 2015), 19–24.](http://www.greeleyschools.org/cms/lib2/CO01001723/Centricity/Domain/2387/New%20technology%20clouds%20student%20data%20privacy.pdf)
-  * [Leong, B. and Polonetsky, J. 2016. Passing the Privacy Test as Student Data Laws Take Effect. EdSurge.](https://www.edsurge.com/news/2016-01-12-passing-the-privacy-test-as-student-data-laws-take-effect?utm_content=bufferc0042&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 3. Assignment 5a
 
@@ -184,13 +175,10 @@ Tasks that need to be completed during the semester:
 
 1. Read/Comment:
 
-  * [Honan, M. (2014, August 11). I Liked Everything I Saw on Facebook for Two Days. Here’s What It Did to Me | Gadget Lab. WIRED. Retrieved August 12, 2014](http://www.wired.com/2014/08/i-liked-everything-i-saw-on-facebook-for-two-days-heres-what-it-did-to-me/)
-  * [Farr, C. 2014. Microsoft and Knewton partner up to bring adaptive learning to publishers & schools. VentureBeat.](http://venturebeat.com/2014/03/13/microsoft-and-knewton-partner-up-to-bring-adaptive-learning-to-publishers-schools/)
-
+ 
 2. Read:
 
-  * [Zheng, A. 2015. Evaluating Machine Learning Models. O’Reily Media. Chapter 2: Evaluation Metrics p.7-18](http://www.oreilly.com/data/free/evaluating-machine-learning-models.csp?intcmp=il-data-free-lp-lgen_free_reports_page)
-
+ 
 3. Assignment 6a
 
 ## Week 9 Prediction Modelling (3/24/16 - 3/31/16)
