@@ -6,7 +6,7 @@
 ## Course Description
 The Internet and mobile computing are changing our relationship to data. Data can be collected from more people, across longer periods of time, and a greater number of variables, at a lower cost and with less effort than ever before. This has brought opportunities and challenges to many domains, but the full impact on education is only beginning to be felt. On the one hand there is a critical mass of educators, technologists and investors who believe that there is great promise in the analysis of this data. On the other, there are concerns about what the utilization of this data may mean for education and society more broadly. Data Science in Education provides an overview of the use of new data cources in education with the aim of developing students’ ability to perform analyses and critically evaluate the technologies and consequences of this emerging field. It covers methods and technologies associated with Data Science, Educational Data Mining and Learning Analytics, as well as discusses the opportunities for education that these methods present and the problems that they may create.
 
-No previous experience in statistics, computer science or data manipulation will be expected. However, students will be encouraged to get hands on experience, applying methods or technologies to educational problems. Students will be assessed on their understanding of technological or analytical innovations and how they critique the consequences of these innovations within the broader educational context.
+No previous experience in statistics, computer science or data manipulation will be expected. However, students will be encouraged to get hands on experience, applying methods or technologies to educational problems. Students will be assessed on their understanding of technological or analytical innovations and how they critique the consequences of these innovations within the broader educational context. 
 
 ## Course Goals
 
@@ -30,7 +30,7 @@ Tasks that need to be completed during the semester:
  * Ask one question on Stack Overflow
  * In person meeting with instructor
  * 8 short assignments (including one group assignment)
- * Group presentation of group assignment
+ * Group presentation of group assignment, 3-5 students each
  * Produce one argument about learning using data from the class
  
 
