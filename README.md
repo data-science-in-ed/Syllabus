@@ -10,6 +10,8 @@ No previous experience in statistics, computer science or data manipulation will
 
 ## Course Goals
 
+To figure out how to communicate using git lingo.
+
 The overarching goal of this course is for students to acquire the knowledge and skills to be intelligent producers and consumers of data science in education. By the end of the course students should:
  * Systematically develop a line of inquiry utilizing data to make an argument about learning
  * Be able to evaluate the implications of data science for educational research, policy, and practice 
