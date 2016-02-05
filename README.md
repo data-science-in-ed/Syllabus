@@ -21,13 +21,13 @@ This necessarily means that students become comfortable with the educational app
 
 ## Assessment
 
-In EDCT-GE 2550 students will be attempting several data science projects, however, unlike most courses, students will not be asssessed based on how successful they are in completing these projects. Rather students will be assessed on two key components for future sucess: contribution and organization. **Contribution** reflects the extent to which students participate in the course, how often they tweet, whether or not they complete assignments and quizzes, attend class, etc. **Organization** reflects how well students document their process and maintain data and software resources. For example, maintaining a well organized Zotero library with notes, maintaining a well organized Github account and maintaining organized data sets that are labelled appropriately. To do well in EDCT-GE 2550 requires that students finish the course with the resources to sucessfully use data science in education *in the future*. Do the work and stay organized and all will be well!
+In EDCT-GE 2550 students will be attempting several awesome data science projects, however, thankfully, unlike most courses, students will not be asssessed based on how successful they are in completing these projects. Rather students will be assessed on two key components for  success in life: contribution and organization. **Contribution** reflects the extent to which students participate in the course, how often they tweet, whether or not they complete assignments and quizzes, attend class, etc. **Organization** reflects how well students document their process and maintain data and software resources. For example, maintaining a well organized Zotero library with notes, maintaining a well organized Github account and maintaining organized data sets that are labelled appropriately. To do well in EDCT-GE 2550 requires that students finish the course with the resources to sucessfully use data science in education *in the future*. Do the work and stay organized and all will be well!
 
 Tasks that need to be completed during the semester:
 
  * Attend class
  * Weekly readings
- * Comment on readings on Twitter
+ * Comment on readings on Twitter, maximum hashtags
  * Weekly in class questionnaire
  * Maintain documentation of work (Github, R Markdown, Zotero)
  * Ask one question on Stack Overflow
@@ -268,4 +268,4 @@ Tasks that need to be completed during the semester:
   * [Datacamp 2015. The ggvis R package - How to Work With The Grammar of Graphics - YouTube. Youtube.](https://www.youtube.com/watch?v=rf55oB6xX3w)
   * [Friendly, M. 2008. A Brief History of Data Visualization. Handbook of Data Visualization. Springer Berlin Heidelberg. 15–56.] (http://download.springer.com.ezp-prod1.hul.harvard.edu/static/pdf/797/chp%253A10.1007%252F978-3-540-33037-0_2.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-540-33037-0_2&token2=exp=1453237938~acl=%2Fstatic%2Fpdf%2F797%2Fchp%25253A10.1007%25252F978-3-540-33037-0_2.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fchapter%252F10.1007%252F978-3-540-33037-0_2*~hmac=f39b47d9779f7d2ef33b7e231c7385fb79662ec5cc43ff39d52e812fe9ca466c)
 
-2. Assignment 8
+2. Pizza party
