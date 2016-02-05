@@ -14,7 +14,7 @@ No previous experience in statistics, computer science or data manipulation will
 ## Course Goals
 
 The overarching goal of this course is for students to acquire the knowledge and skills to be intelligent producers and consumers of data science in education. By the end of the course students should:
- * Systematically develop a line of inquiry utilizing data to make an argument about learning
+ * Systematically develop a line of inquiry utilizing data to make an argument about learning, but to do this we need some data.
  * Be able to evaluate the implications of data science for educational research, policy, and practice 
 
 This necessarily means that students become comfortable with the educational applications of three domain areas: computer science, statistics and the context surrounding data use. There is no expectation for students to become experts in any one of these areas but rather the course will aim to: enhance student competency in identifying issues at the level of data acquisition, data analysis and application of analysis in education.
