@@ -25,6 +25,7 @@ Tasks that need to be completed during the semester:
  * Attend class
  * Weekly readings
  * Comment on readings on Twitter
+ * ACA esta la cosa que edite 
  * Weekly in class questionnaire
  * Maintain documentation of work (Github, R Markdown, Zotero)
  * Ask one question on Stack Overflow
