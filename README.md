@@ -262,7 +262,7 @@ Tasks that need to be completed during the semester:
  * Understand the basic principals of effective data visualization
  * Produce a range of graphical representations using ggplot & D3.js for R
 
-### Tasks to be completed:
+### Tasks to be completed: IMPORTANT
 
 1. Read/Watch:
   * [Datacamp 2015. The ggvis R package - How to Work With The Grammar of Graphics - YouTube. Youtube.](https://www.youtube.com/watch?v=rf55oB6xX3w)
