@@ -2,6 +2,7 @@
 
 * **Course:** [EDCT-GE2550, NYU Steinhardt](http://steinhardt.nyu.edu/alt/ect/courses)
 * **Instructor:** Charles Lang, [charles.lang@nyu.edu](mailto:charles.lang@nyu.edu), @learng00d
+* **Location:** 2 MetroTech, Room 845
 
 ## Course Description
 
