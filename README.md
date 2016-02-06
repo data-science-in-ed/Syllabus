@@ -91,6 +91,8 @@ Tasks that need to be completed during the semester:
 
 ## Week 3 Data Tidying (2/11/16 - 2/18/16)
 
+<img src="http://www.eastcottvets.co.uk/uploads/Animals/gingerkitten.jpg"/>
+
 ### Learning Objectives:
 
  * Be able to perform a data tidying workflow
