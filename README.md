@@ -86,6 +86,8 @@ Tasks that need to be completed during the semester:
   * [Educause 2015. Why Is Measuring Learning So Difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v)
   * [Saturday Morning Breakfast Cereal: 2016.](http://www.smbc-comics.com/index.php?id=3978)
   * [The R Markdown Cheat sheet: 2014.](http://shiny.rstudio.com/articles/rm-cheatsheet.html) 
+  * 
+ 
 
  2. Assignment 1b: Github and RStudio
 
@@ -96,6 +98,8 @@ Tasks that need to be completed during the semester:
  * Be able to perform a data tidying workflow
  * Be able to do basic visualization
  * Understand the importance of workflow and recording workflow
+ * 
+  BS on have to retakes notes in Zotero for week 1
 
 ### Tasks to be completed:
 
