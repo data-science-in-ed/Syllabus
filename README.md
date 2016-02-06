@@ -53,6 +53,8 @@ Tasks that need to be completed during the semester:
 
 <A HREF="#unit7">Unit 7: Advanced Graphics</A>
 
+<A HREF="#unit7">Unit 8: Data Through Dance</A>
+
 ## <A NAME="unit1:">Unit 1: Introduction (1/28/16 - 2/4/16)
 
 ### Learning Objectives
