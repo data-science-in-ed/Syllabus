@@ -1,7 +1,7 @@
 # Data Science in Education: Syllabus
 
 * **Course:** [EDCT-GE2550, NYU Steinhardt](http://steinhardt.nyu.edu/alt/ect/courses)
-* **Instructor:** Charles Lang, [charles.lang@nyu.edu](mailto:charles.lang@nyu.edu), @learng00d
+* **Instructor:** Charles and The Chocolate Factory Lang, [charles.lang@nyu.edu](mailto:charles.lang@nyu.edu), @learng00d
 
 ## Course Description
 
