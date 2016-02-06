@@ -26,6 +26,7 @@ In EDCT-GE 2550 students will be attempting several data science projects, howev
 Tasks that need to be completed during the semester:
 
  * Attend class
+ * Go to a bar after class
  * Weekly readings
  * Comment on readings on Twitter
  * Weekly in class questionnaire
