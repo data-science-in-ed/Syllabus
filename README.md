@@ -105,7 +105,7 @@ Tasks that need to be completed during the semester:
  * [Data Wrangling Cheatsheet: 2015.](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) 
 
 2. Read/comment:
- * [Clow, D. 2014. Data wranglers: human interpreters to help close the feedback loop. Proceedings of the Fourth International Conference on Learning Analytics And Knowledge (2014), 49–53.](http://delivery.acm.org.ezp-prod1.hul.harvard.edu/10.1145/2570000/2567603/p49-clow.pdf?ip=128.103.149.52&id=2567603&acc=ACTIVE%20SERVICE&key=C82FBC3DCC335AD2.4D4702B0C3E38B35.4D4702B0C3E38B35.4D4702B0C3E38B35&CFID=746650746&CFTOKEN=43660250&__acm__=1453662743_2738b2912ee7e971be02bc7d598383be)
+ * [Clow, D. 2014. Data wranglers: human interpreters to help close the feedback loop. Proceedings of the Fourth International Conference on Learning Analytics And Knowledge (2014), 49–53.](http://oro.open.ac.uk/40608/2/Clow-DataWranglers-final.pdf)
 
 3. Assignment 2
  
