@@ -119,7 +119,7 @@ Tasks that need to be completed during the semester:
 
 1. Read/Comment:
 
- * [Kucirkova, N. and FitzGerald, E. 2015. Zuckerberg is Ploughing Billions into “Personalised Learning” – Why? The Conversation.](http://theconversation.com/zuckerberg-is-ploughing-billions-into-personalised-learning-why-5194)
+ * [Kucirkova, N. and FitzGerald, E. 2015. Zuckerberg is Ploughing Billions into “Personalised Learning” – Why? The Conversation.](https://theconversation.com/zuckerberg-is-ploughing-billions-into-personalised-learning-why-51940)
  
 2. Read/Watch:
 
