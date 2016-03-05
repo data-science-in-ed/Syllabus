@@ -152,7 +152,7 @@ Tasks that need to be completed during the semester:
 
 ### Tasks to be completed:
 
- 1. Read/Comment:
+ 1.Read/Comment:
   * [Hanneman, R.A. and Riddle, M. Chapter 1: Social Network Data. Introduction to Social Network Methods.](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
 
   * [Krueger, K.R. and Moore, B. 2015. New Technology “Clouds” Student Data Privacy. Phi Delta Kappan. 96, 5 (Feb. 2015), 19–24.](http://www.greeleyschools.org/cms/lib2/CO01001723/Centricity/Domain/2387/New%20technology%20clouds%20student%20data%20privacy.pdf)
