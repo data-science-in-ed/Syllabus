@@ -157,7 +157,7 @@ Tasks that need to be completed during the semester:
  * [Krueger, K.R. and Moore, B. 2015. New Technology “Clouds” Student Data Privacy. Phi Delta Kappan. 96, 5 (Feb. 2015), 19–24.](http://www.greeleyschools.org/cms/lib2/CO01001723/Centricity/Domain/2387/New%20technology%20clouds%20student%20data%20privacy.pdf)
  * [Leong, B. and Polonetsky, J. 2016. Passing the Privacy Test as Student Data Laws Take Effect. EdSurge.](https://www.edsurge.com/news/2016-01-12-passing-the-privacy-test-as-student-data-laws-take-effect?utm_content=bufferc0042&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
-2. Assignment 6a
+2. Assignment 6
 
 ## Week 7 Social Network Analysis (3/10/16 - 3/17/16)
 
@@ -171,7 +171,7 @@ Tasks that need to be completed during the semester:
   * [Grunspan, D. Z., Wiggins, B. L., & Goodreau, S. M. (2014). Understanding Classrooms through Social Network Analysis: A Primer for Social Network Analysis in Education Research. CBE-Life Sciences Education, 13(2), 167–178. doi:10.1187/cbe.13-08-0162](http://www.lifescied.org/content/13/2/167.full.pdf)
   * [Manai, J. 2015. The Learning Analytics Landscape: Tension Between Student Privacy and the Process of Data Mining. Carnegie Foundation for the Advancement of Teaching.](http://www.carnegiefoundation.org/blog/the-learning-analytics-landscape-tension-between-student-privacy-and-the-process-of-data-mining/)
 
-2. Assignment 6b
+2. Assignment 7
 
 # <A NAME="unit4">Unit 4: Prediction
 
@@ -192,7 +192,7 @@ Tasks that need to be completed during the semester:
 
   * [Zheng, A. 2015. Evaluating Machine Learning Models. O’Reily Media. Chapter 2: Evaluation Metrics p.7-18](http://www.oreilly.com/data/free/evaluating-machine-learning-models.csp?intcmp=il-data-free-lp-lgen_free_reports_page)
 
-3. Assignment 7a
+3. Assignment 8
 
 ## Week 9 Prediction Modelling (3/24/16 - 3/31/16)
 
@@ -207,7 +207,7 @@ Tasks that need to be completed during the semester:
   * [San Pedro, M.O.Z., Baker, R.S.J.d., Bowers, A.J., Heffernan, N.T. (2013) Predicting College Enrollment from Student Interaction with a Intelligent Tutoring System in Middle School. Proceedings of the 6th International Conference on Educational Data Mining, 177-184.](http://www.columbia.edu/~rsb2162/EDM2013_SBBH.pdf)
   * [Wu, X., Kumar, V., Quinlan, J.R., Ghosh, J., Yang, Q., Motoda, H., McLachlan, G.J., Ng, A., Liu, B., Yu, P.S., Zhou, Z.-H., Steinbach, M., Hand, D.J. and Steinberg, D. 2007. Top 10 algorithms in data mining. Knowledge and Information Systems. 14, 1 (Dec. 2007), 1–6.](https://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf)
 
-2. Assignment 7b
+2. Assignment 9
 
 # <A NAME="unit5">Unit 5: Natural Language Processing
 ## Week 10 Natural Language Processing (3/31/16 - 4/7/16)
@@ -222,7 +222,7 @@ Tasks that need to be completed during the semester:
   * [Nadkarni, P.M., Ohno-Machado, L. and Chapman, W.W. 2011. Natural language processing: an introduction. Journal of the American Medical Informatics Association : JAMIA. 18, 5 (2011), 544–551.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168328/)
   * [Shermis, M. D. (2014). State-of-the-art automated essay scoring: Competition, results, and future directions from a United States demonstration. Assessing Writing, 20, 53–76.](https://s3.amazonaws.com/s3.documentcloud.org/documents/1094637/shermis-aw-final.pdf)
 
-2. Assignment 8a
+2. Assignment 10
 
 ## Week 11 Natural Language Processing (4/7/16 - 4/14/16)
 
@@ -235,7 +235,7 @@ Tasks that need to be completed during the semester:
   * [Crawford, K. and Schultz, J. 2014. Big Data and Due Process: Toward a Framework to Redress Predictive Privacy Harms - Boston College Law Review. Boston College Law Review. LV, 1 (2014).](http://bclawreview.org/files/2014/01/03_crawford_schultz.pdf)
   * [Thompson, J. 2015. Text Mining, Big Data, Unstructured Data. Dell Computing.](http://documents.software.dell.com/Statistics/Textbook/Text-Mining)
 
-2. Assignment 8b
+2. Assignment 11
 
 # <A NAME="unit6">Unit 6: The Quantified Student
 
@@ -251,7 +251,7 @@ Tasks that need to be completed during the semester:
   * [Kamenetz, A. 2015. The Quantified Student: An App That Predicts GPA. NPR.](http://www.npr.org/sections/ed/2015/06/02/409780423/the-quantified-student-an-app-that-predicts-gpa)
   * [Meyer, R. (2016, February 25). The Quantified Welp. The Atlantic.](http://www.theatlantic.com/technology/archive/2016/02/the-quantified-welp/470874/) 
 
-2. Assignment 9
+2. Assignment 12
 
 # <A NAME="unit7">Unit 7: Advanced Graphics
 
@@ -267,4 +267,4 @@ Tasks that need to be completed during the semester:
   * [Datacamp 2015. The ggvis R package - How to Work With The Grammar of Graphics - YouTube. Youtube.](https://www.youtube.com/watch?v=rf55oB6xX3w)
   * [Friendly, M. 2008. A Brief History of Data Visualization. Handbook of Data Visualization. Springer Berlin Heidelberg. 15–56.] (http://download.springer.com.ezp-prod1.hul.harvard.edu/static/pdf/797/chp%253A10.1007%252F978-3-540-33037-0_2.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-540-33037-0_2&token2=exp=1453237938~acl=%2Fstatic%2Fpdf%2F797%2Fchp%25253A10.1007%25252F978-3-540-33037-0_2.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fchapter%252F10.1007%252F978-3-540-33037-0_2*~hmac=f39b47d9779f7d2ef33b7e231c7385fb79662ec5cc43ff39d52e812fe9ca466c)
 
-2. Assignment 10
+2. Assignment 13
