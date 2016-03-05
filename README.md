@@ -151,16 +151,14 @@ Tasks that need to be completed during the semester:
  * Develop a well defined opinion on how to approach student privacy and data use
 
 ### Tasks to be completed:
- 
- 1. Read:
 
+ 1. Read/Comment:
   * [Hanneman, R.A. and Riddle, M. Chapter 1: Social Network Data. Introduction to Social Network Methods.](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
 
-2. Read/Comment:
   * [Krueger, K.R. and Moore, B. 2015. New Technology “Clouds” Student Data Privacy. Phi Delta Kappan. 96, 5 (Feb. 2015), 19–24.](http://www.greeleyschools.org/cms/lib2/CO01001723/Centricity/Domain/2387/New%20technology%20clouds%20student%20data%20privacy.pdf)
   * [Leong, B. and Polonetsky, J. 2016. Passing the Privacy Test as Student Data Laws Take Effect. EdSurge.](https://www.edsurge.com/news/2016-01-12-passing-the-privacy-test-as-student-data-laws-take-effect?utm_content=bufferc0042&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
-3. Assignment 6a
+2. Assignment 6a
 
 ## Week 7 Social Network Analysis (3/10/16 - 3/17/16)
 
