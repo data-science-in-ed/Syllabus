@@ -1,28 +1,28 @@
-# Data Science in Education: Syllabus
+# Core Methods in Educational Data Mining: Syllabus
 
-* **Course:** [EDCT-GE2550, NYU Steinhardt](http://steinhardt.nyu.edu/alt/ect/courses)
+* **Course:** HUDK-4050, Teachers College, Columbia (http://www.columbia.edu/~rsb2162/EDM2015/index.html)
 * **Instructor:** Charles Lang, [charles.lang@nyu.edu](mailto:charles.lang@nyu.edu), @learng00d
-* **Location:** 2 MetroTech, Room 845
+* **Day/Time:** Tuesdays/Thursdays, 11:00pm - 12:40pm
+* **Location:** GDH 535
+* **Instructor Office Hours:** Thursdays, 1:00pm - 3:00pm  
 
 ## Course Description
 
-New class motto: "If its not messing up, its not technology"
+The Internet and mobile computing are changing our relationship to data. Data can be collected from more people, across longer periods of time, and a greater number of variables, at a lower cost and with less effort than ever before. This has brought opportunities and challenges to many domains, but the full impact on education is only beginning to be felt. On the one hand there is a critical mass of educators, technologists and investors who believe that there is great promise in the analysis of this data. On the other, there are concerns about what the utilization of this data may mean for education and society more broadly. Core Methods in Educational Data Mining provides an overview of the use of new data sources in education with the aim of developing students’ ability to perform analyses and critically evaluate their application in this emerging field. It covers methods and technologies associated with Data Science, Educational Data Mining and Learning Analytics, as well as discusses the opportunities for education that these methods present and the problems that they may create.
 
-The Internet and mobile computing are changing our relationship to data. Data can be collected from more people, across longer periods of time, and a greater number of variables, at a lower cost and with less effort than ever before. This has brought opportunities and challenges to many domains, but the full impact on education is only beginning to be felt. On the one hand there is a critical mass of educators, technologists and investors who believe that there is great promise in the analysis of this data. On the other, there are concerns about what the utilization of this data may mean for education and society more broadly. Data Science in Education provides an overview of the use of new data cources in education with the aim of developing students’ ability to perform analyses and critically evaluate the technologies and consequences of this emerging field. It covers methods and technologies associated with Data Science, Educational Data Mining and Learning Analytics, as well as discusses the opportunities for education that these methods present and the problems that they may create.
-
-No previous experience in statistics, computer science or data manipulation will be expected. However, students will be encouraged to get hands-on experience, applying methods or technologies to educational problems. Students will be assessed on their understanding of technological or analytical innovations and how they critique the consequences of these innovations within the broader educational context. 
+Prerequisite: HUDM 5122, HUDM 5126, or approved statistics or computer science data mining course. 
 
 ## Course Goals
 
-The overarching goal of this course is for students to acquire the knowledge and skills to be intelligent producers and consumers of data science in education. By the end of the course students should:
+The overarching goal of this course is for students to acquire the knowledge and skills to be intelligent producers and consumers of data mining in education. By the end of the course students should:
  * Systematically develop a line of inquiry utilizing data to make an argument about learning
  * Be able to evaluate the implications of data science for educational research, policy, and practice 
 
-This necessarily means that students become comfortable with the educational applications of three domain areas: computer science, statistics and the context surrounding data use. There is no expectation for students to become experts in any one of these areas but rather the course will aim to: enhance student competency in identifying issues at the level of data acquisition, data analysis and application of analysis in education.
+This necessarily means that students become comfortable with the educational applications of three domain areas: computer science, statistics and the context surrounding data use. There is no expectation for students to become experts in any one of these areas but rather the course will aim to: enhance student competency in identifying issues at the level of data acquisition, data analysis and application of analyses in education.
 
 ## Assessment
 
-In EDCT-GE 2550 students will be attempting several data science projects, however, unlike most courses, students will not be asssessed based on how successful they are in completing these projects. Rather students will be assessed on two key components for future sucess: contribution and organization. **Contribution** reflects the extent to which students participate in the course, how often they tweet, whether or not they complete assignments and quizzes, attend class, etc. **Organization** reflects how well students document their process and maintain data and software resources. For example, maintaining a well organized Zotero library with notes, maintaining a well organized Github account and maintaining organized data sets that are labelled appropriately. To do well in EDCT-GE 2550 requires that students finish the course with the resources to sucessfully use data science in education *in the future*. Do the work and stay organized and all will be well!
+In EDCT-GE 2550 students will be attempting several data science projects, however, unlike most courses, students will not be asssessed based on how successful they are in completing these projects. Rather students will be assessed on two key components that will contribute to their future sucess in the field: contribution and organization. **Contribution** reflects the extent to which students participate in the course, whether or not students complete assignments and quizzes, attend class, etc. **Organization** reflects how well students document their process and maintain data and software resources. For example, maintaining a well organized bibliographic library with notes, maintaining a well organized Github account and maintaining organized data sets that are labelled appropriately. To do well in HUDM 4050 requires that students finish the course with the resources to sucessfully use data science in education *in the future*. Do the work and stay organized and all will be well!
 
 Tasks that need to be completed during the semester:
 
