@@ -2,7 +2,7 @@
 
 * **Course:** [HUDK-4050, Teachers College, Columbia] (http://www.columbia.edu/~rsb2162/EDM2015/index.html)
 * **Instructor:** Charles Lang, [charles.lang@nyu.edu](mailto:charles.lang@nyu.edu), @learng00d
-* **Day/Time:** Tuesdays/Thursdays, 11:00pm - 12:40pm or by [appointment](mailto:charles.lang@nyu.edu)  
+* **Day/Time:** Tuesdays/Thursdays, 11:00pm - 12:40pm or [by appointment](mailto:charles.lang@nyu.edu)  
 * **Location:** GDH 535
 * **Instructor Office Hours:** Thursdays, 1:00pm - 3:00pm  
 
