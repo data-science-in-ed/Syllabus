@@ -5,7 +5,7 @@
 * **Day/Time:** Tuesdays/Thursdays, 11:00am - 12:40pm  
 * **Location:** GDH 535
 * **Instructor Office Hours:** Thursdays, 1:00pm - 3:00pm or [by appointment](mailto:charles.lang@nyu.edu)
-*  **Prerequisite:** HUDM 5122 or HUDM 5126 or approved statistics or computer science data mining course. 
+*  **Prerequisite:** HUDM 5122 *or* HUDM 5126 *or* approved statistics/computer science data mining course. 
 
 ## Course Description
 
