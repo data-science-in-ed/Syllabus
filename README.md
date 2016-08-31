@@ -5,12 +5,11 @@
 * **Day/Time:** Tuesdays/Thursdays, 11:00am - 12:40pm  
 * **Location:** GDH 535
 * **Instructor Office Hours:** Thursdays, 1:00pm - 3:00pm or [by appointment](mailto:charles.lang@nyu.edu)
+*  **Prerequisite:** HUDM 5122 or HUDM 5126 or approved statistics or computer science data mining course. 
 
 ## Course Description
 
 The Internet and mobile computing are changing our relationship to data. Data can be collected from more people, across longer periods of time, and a greater number of variables, at a lower cost and with less effort than ever before. This has brought opportunities and challenges to many domains, but the full impact on education is only beginning to be felt. On the one hand there is a critical mass of educators, technologists and investors who believe that there is great promise in the analysis of this data. On the other, there are concerns about what the utilization of this data may mean for education and society more broadly. Core Methods in Educational Data Mining provides an overview of the use of new data sources in education with the aim of developing students’ ability to perform analyses and critically evaluate their application in this emerging field. It covers methods and technologies associated with Data Science, Educational Data Mining and Learning Analytics, as well as discusses the opportunities for education that these methods present and the problems that they may create.
-
-Prerequisite: HUDM 5122, HUDM 5126, or approved statistics or computer science data mining course. 
 
 ## Course Goals
 
@@ -268,3 +267,16 @@ Tasks that need to be completed during the semester:
   * [Friendly, M. 2008. A Brief History of Data Visualization. Handbook of Data Visualization. Springer Berlin Heidelberg. 15–56.] (http://download.springer.com.ezp-prod1.hul.harvard.edu/static/pdf/797/chp%253A10.1007%252F978-3-540-33037-0_2.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-540-33037-0_2&token2=exp=1453237938~acl=%2Fstatic%2Fpdf%2F797%2Fchp%25253A10.1007%25252F978-3-540-33037-0_2.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fchapter%252F10.1007%252F978-3-540-33037-0_2*~hmac=f39b47d9779f7d2ef33b7e231c7385fb79662ec5cc43ff39d52e812fe9ca466c)
 
 2. Assignment 13
+
+## Fine Print
+
+1. All examinations, papers, and other graded work and assignments are to be completed in conformance with the [Academic Integrity Policy](http://www.tc.columbia.edu/administration/diversity/index.asp? Id=Civility+Resources+and+Policies&Info=Civility+Resources+and+Policies&Area=Studen t+Miscon duct+Policy). Students who intentionally submit work either not their own or without clear attribution to the original source, fabricate data or other information, engage in cheating, or misrepresentation of academic records may be subject to charges. Sanctions may include dismissal from the college for violation of the TC principles of academic and professional integrity fundamental to the purpose of the College.
+
+2. The College will make reasonable accommodations for persons with documented disabilities. Students are encouraged to contact the Office of Access and Services for Individuals with Disabilities for information about registration (166 Thorndike Hall). Services are available only to students who are registered and submit appropriate documentation. As your instructor, I am happy to discuss specific needs with you as well.
+
+3. The grade of Incomplete will be assigned only when the course attendance requirement has been met but, for reasons satisfactory to the instructor, the granting of a final grade has been postponed because certain course assignments are outstanding. If the outstanding assignments are completed within one calendar year from the date of the close of term in which the grade of Incomplete was received and a final grade submitted, the final grade will be recorded on the permanent transcript, replacing the grade of Incomplete, with a transcript notation indicating the date that the grade of Incomplete was replaced by a final grade. If the outstanding work is not completed within one calendar year from the date of the close of term in which the grade of Incomplete was received, the grade will remain as a permanent Incomplete on the transcript. In such instances, if the course is a required course or part of an approved program of study, students will be required to re-enroll in the course including repayment of all tuition and fee charges for the new registration and satisfactorily complete all course requirements. If the required course is not offered in subsequent terms, the student should speak with the faculty advisor or Program Coordinator about their options for fulfilling the degree requirement. Doctoral students with six or more credits with grades of Incomplete included on their program of study will not be allowed to sit for the certification exam.
+
+4. Teachers College students have the responsibility for activating the Columbia University Network ID (UNI) and a free TC Gmail account. As official communications from the College – e.g., information on graduation, announcements of closing due to severe storm, flu epidemic, transportation disruption, etc. -- will be sent to the student’s TC Gmail account, students are responsible for either reading email there, or, for utilizing the mail forwarding option to forward mail from their account to an email address which they will monitor.
+
+5. It is the policy of Teachers College to respect its members’ observance of their major religious holidays. Students should notify instructors at the beginning of the semester about their wishes to observe holidays on days when class sessions are scheduled. Where academic scheduling conflicts prove unavoidable, no student will be penalized for absence due to religious reasons, and alternative means will be sought for satisfying the academic requirements involved. If a suitable arrangement cannot be worked out between the student and the instructor, students and instructors should consult the appropriate department chair or director. If an additional appeal is needed, it may be taken to the Provost.
+
