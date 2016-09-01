@@ -32,6 +32,7 @@ Weekly:
  * Weekly readings
  * Comment on readings on Twitter
  * Maintain documentation of work (Github, R Markdown, Zotero)
+
 One time only:
  * Ask one question on Stack Overflow
  * In person meeting with instructor
