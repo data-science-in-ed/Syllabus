@@ -4,20 +4,22 @@
 * **Instructor:** Charles Lang, [charles.lang@nyu.edu](mailto:charles.lang@nyu.edu), @learng00d
 * **Day/Time:** Tuesdays/Thursdays, 11:00am - 12:40pm  
 * **Location:** GDH 535
-* **Instructor Office Hours:** Thursdays, 1:00pm - 3:00pm or [by appointment](mailto:charles.lang@nyu.edu)
-*  **Prerequisite:** HUDM 5122 *or* HUDM 5126 *or* approved statistics/computer science data mining course. 
+* **Instructor Office Hours:** Thursdays, 1:00pm - 3:00pm or [by appointment](mailto:charles.lang@nyu.edu) in GDH 540
+*  **Prerequisite:** HUDM 5122 *or* HUDM 5126 *or* approved statistics/computer science data mining course.
+*  **Credits:** 3
 
 ## Course Description
 
-The Internet and mobile computing are changing our relationship to data. Data can be collected from more people, across longer periods of time, and a greater number of variables, at a lower cost and with less effort than ever before. This has brought opportunities and challenges to many domains, but the full impact on education is only beginning to be felt. On the one hand there is a critical mass of educators, technologists and investors who believe that there is great promise in the analysis of this data. On the other, there are concerns about what the utilization of this data may mean for education and society more broadly. Core Methods in Educational Data Mining provides an overview of the use of new data sources in education with the aim of developing students’ ability to perform analyses and critically evaluate their application in this emerging field. It covers methods and technologies associated with Data Science, Educational Data Mining and Learning Analytics, as well as discusses the opportunities for education that these methods present and the problems that they may create.
+The Internet and mobile computing are changing our relationship to data. Data can be collected from more people, across longer periods of time, and a greater number of variables, at a lower cost and with less effort than ever before. This has brought opportunities and challenges to many domains, but the full impact on education is only beginning to be felt. Core Methods in Educational Data Mining provides an overview of the use of new data sources in education with the aim of developing students’ ability to perform analyses and critically evaluate their application in this emerging field. It covers methods and technologies associated with Data Science, Educational Data Mining and Learning Analytics, as well as discusses the opportunities for education that these methods present and the problems that they may create.
 
 ## Course Goals
 
 The overarching goal of this course is for students to acquire the knowledge and skills to be intelligent producers and consumers of data mining in education. By the end of the course students should:
+
  * Systematically develop a line of inquiry utilizing data to make an argument about learning
  * Be able to evaluate the implications of data science for educational research, policy, and practice 
 
-This necessarily means that students become comfortable with the educational applications of three domain areas: computer science, statistics and the context surrounding data use. There is no expectation for students to become experts in any one of these areas but rather the course will aim to: enhance student competency in identifying issues at the level of data acquisition, data analysis and application of analyses in education.
+This necessarily means that students become comfortable with the educational applications of three domain areas: computer science, statistics and the context surrounding data use. There is no expectation for students to become experts in any one of these areas but rather the course will aim to: enhance student competency in identifying issues at the level of data acquisition, data analysis and application of analyses to the educational enterprise.
 
 ## Assessment
 
@@ -25,17 +27,17 @@ In EDCT-GE 2550 students will be attempting several data science projects, howev
 
 Tasks that need to be completed during the semester:
 
+Weekly:
  * Attend class
  * Weekly readings
  * Comment on readings on Twitter
- * Weekly in class questionnaire
  * Maintain documentation of work (Github, R Markdown, Zotero)
+One time only:
  * Ask one question on Stack Overflow
  * In person meeting with instructor
  * 8 short assignments (including one group assignment)
  * Group presentation of group assignment, 3-5 students each
- * Produce one argument about learning using data from the class
- 
+ * Submit Zotero file with semester's notes
 
 ## Week-by-week
 
