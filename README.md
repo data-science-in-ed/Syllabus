@@ -44,42 +44,27 @@ One time only:
 
 <A HREF="#unit1">Unit 1: Introduction</A>
 
-<A HREF="#unit2">Unit 2: Data Sources</A>
+<A HREF="#unit2">Unit 2: Data Sources & Their Manipulation</A>
 
-<A HREF="#unit3">Unit 3: Networks</A>
+<A HREF="#unit3">Unit 3: Structure Discovery</A>
 
 <A HREF="#unit4">Unit 4: Prediction</A>
 
-<A HREF="#unit5">Unit 5: Natural Language Processing</A>
+## <A NAME="unit1:">Unit 1: Introduction
 
-<A HREF="#unit6">Unit 6: Quantified Student</A>
-
-<A HREF="#unit7">Unit 7: Advanced Graphics</A>
-
-## <A NAME="unit1:">Unit 1: Introduction (1/28/16 - 2/4/16)
-
+## Class 1 Introduction (9/7/16)
 ### Learning Objectives
 
 * Be familiar with course philosophy, logic & structure
 * Install and be familiar with the software to be used in the course
-* Consider informed consent and its complexity in education technology
 * Appreciate the importance of tightly defining educational goals
-
-### Tasks to be completed:
- 
- 1. Read and comment on by 1/30/16:
-  * [Leong, B. and Polonetsky, J. 2015. Why Opting Out of Student Data Collection Isn’t the Solution. EdSurge.](https://www.edsurge.com/news/2015-03-16-why-opting-out-of-student-data-collection-isn-t-the-solution)
-  * [Young, J.R. 2014. Why Students Should Own Their Educational Data. The Chronicle of Higher Education Blogs: Wired Campus.](http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329)
 
  2. Assignment 1: Set up
 
-# <A NAME="unit2">Unit 2: Data Sources & their Manipulation 
-## Week 2 Data Sources (2/4/16 - 2/11/16)
+## Class 2 Data Sources (9/13/16)
 
 ### Learning Objectives
 
-* Be familiar with a range of data sources, formats and extraction processes
-* Be familiar with R & Github & markdown
 * Be familiar with the kinds of work done in the fields of LA and EDM
 
 ### Tasks to be completed:
@@ -90,9 +75,23 @@ One time only:
   * [Saturday Morning Breakfast Cereal: 2016.](http://www.smbc-comics.com/index.php?id=3978)
   * [The R Markdown Cheat sheet: 2014.](http://shiny.rstudio.com/articles/rm-cheatsheet.html) 
 
- 2. Assignment 2: Github and RStudio
+ 
+## Class 3 Data Sources (9/15/16)
 
-## Week 3 Data Tidying (2/11/16 - 2/18/16)
+* Be familiar with a range of data sources, formats and extraction processes
+* Be familiar with R & Github & markdown
+
+### Tasks to be completed:
+
+ 1. Read/watch and comment:
+ 
+* [The R Markdown Cheat sheet: 2014.](http://shiny.rstudio.com/articles/rm-cheatsheet.html) 
+
+ 2. Assignment 1 Due
+
+## <A NAME="unit1:">Unit 2: Data Sources & their Manipulation
+
+## Class 4 Data Sources (9/20/16)
 
 ### Learning Objectives:
 
