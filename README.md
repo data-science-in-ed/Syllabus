@@ -7,6 +7,7 @@
 * **Instructor Office Hours:** Thursdays, 1:00pm - 3:00pm or [by appointment](mailto:charles.lang@nyu.edu) in GDH 540
 *  **Prerequisite:** HUDM 5122 *or* HUDM 5126 *or* approved statistics/computer science data mining course.
 *  **Credits:** 3
+*  **Required Technology:** Laptop with RStudio installed, Phone with Sensor Kinetics Pro installed
 
 ## Course Description
 
@@ -39,6 +40,7 @@ One time only:
  * 8 short assignments (including one group assignment)
  * Group presentation of group assignment, 3-5 students each
  * Submit Zotero file with semester's notes
+ * *Record a tutorial session*
 
 ## Week-by-week
 
