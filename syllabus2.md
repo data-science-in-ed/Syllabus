@@ -61,8 +61,6 @@ One time only:
 * Install and be familiar with the software to be used in the course
 * Appreciate the importance of tightly defining educational goals
 
- 2. Assignment 1: Set up
-
 ## Class 2 Data Sources (9/13/16)
 
 ### Learning Objectives
@@ -77,6 +75,7 @@ One time only:
   * [Saturday Morning Breakfast Cereal: 2016.](http://www.smbc-comics.com/index.php?id=3978)
   * [The R Markdown Cheat sheet: 2014.](http://shiny.rstudio.com/articles/rm-cheatsheet.html) 
 
+2. Assignment 1: Set up
  
 ## Class 3 Data Sources (9/15/16)
 
