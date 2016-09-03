@@ -133,7 +133,7 @@ Read:
 
 # <A NAME="unit1:">Unit 3: Structure Discovery
 
-## Class 8 - Visualization (9/27/16)
+## Class 8 - Visualization (10/4/16)
 
 ### Learning Objectives:
 
@@ -144,8 +144,126 @@ Read:
 Read:
 * [Kay, J., Maisonneuve, N., Yacef, K., & Reimann, P. (2006). The Big Five and Visualisations of Team Work Activity. In M. Ikeda, K. D. Ashley, & T.-W. Chan (Eds.), Intelligent Tutoring Systems (pp. 197–206). Springer Berlin Heidelberg.](https://link.springer.com/chapter/10.1007/11774303_20)
 
+## Class 9 - Visualization (10/6/16)
+
+### Learning Objectives:
+
+ * 
+
 Watch:
-* Chapter 6 in Baker, R. (2014). Big Data in Education: [video 1]((https://youtu.be/Mr17Z0nZUQc), [video 3](https://youtu.be/oTiixxmh9-Q), [video 4](https://youtu.be/WI1AVcpCYgk)
+* Chapter 6 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/Mr17Z0nZUQc), [video 3](https://youtu.be/oTiixxmh9-Q), [video 4](https://youtu.be/WI1AVcpCYgk)
+
+## Class 10 - Networks (10/11/16)
+
+### Learning Objectives:
+
+ * 
+
+### Tasks to be completed:
+
+Read/Comment:
+* [Hanneman, R.A. and Riddle, M. Chapter 1: Social Network Data. Introduction to Social Network Methods.](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
+
+## Class 11 - Networks (10/13/16)
+
+### Learning Objectives:
+
+ * 
+
+### Tasks to be completed:
+
+Read/Comment:
+* [Grunspan, D. Z., Wiggins, B. L., & Goodreau, S. M. (2014). Understanding Classrooms through Social Network Analysis: A Primer for Social Network Analysis in Education Research. CBE-Life Sciences Education, 13(2), 167–178.](http://www.lifescied.org/content/13/2/167.full.pdf)
+
+Due: Assignment 2 - Social Network
+
+## Class 12 - Clustering (10/18/16)
+
+### Learning Objectives:
+
+ * 
+
+### Tasks to be completed:
+
+Read/Comment:
+* [Bowers, A.J. (2010) Analyzing the Longitudinal K-12 Grading Histories of Entire Cohorts of Students: Grades, Data Driven Decision Making, Dropping Out and Hierarchical Cluster Analysis. Practical Assessment, Research & Evaluation (PARE), 15(7), 1-18.](http://pareonline.net/pdf/v15n7.pdf)
+
+## Class 13 - Clustering (10/20/16)
+
+### Learning Objectives:
+
+ * 
+
+### Tasks to be completed:
+
+Watch:
+* Chapter 7 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/mgXm3AwLxP8), [video 2](https://youtu.be/B9dvJYwBfmk)
+
+Due: Assignment 3 - Clustering
+
+## Class 14 - Principal Component Analysis (10/20/16)
+
+### Learning Objectives:
+
+ * 
+
+### Tasks to be completed:
+
+Read/Comment:
+* [Konstan, J. A., Walker, J. D., Brooks, D. C., Brown, K., & Ekstrand, M. D. (2015). Teaching Recommender Systems at Large Scale: Evaluation and Lessons Learned from a Hybrid MOOC. ACM Trans. Comput.-Hum. Interact., 22(2), 10:1–10:23.](https://dl.acm.org/citation.cfm?id=2728171)
+
+## Class 15 - Principal Component Analysis (10/20/16)
+
+### Learning Objectives:
+
+ * 
+
+### Tasks to be completed:
+
+Watch:
+* [Georgia Tech 2015. Feature Selection. Youtube.](https://www.youtube.com/watch?v=8CpRLplmdqE)
+
+Due: Assignment 4 - Principal Component Analysis
+
+## Class 16 - Domain Structure Discovery (11/8/16)
+
+### Learning Objectives:
+
+ * 
+
+### Tasks to be completed:
+
+Read/Comment:
+* [Matsuda, N., Furukawa, T., Bier, N., & Faloutsos, C. (2015). Machine Beats Experts: Automatic Discovery of Skill Models for Data-Driven Online Course Refinement. International Educational Data Mining Society.](http://eric.ed.gov/?id=ED560513) 
+
+## Class 17 - Domain Structure Discovery (11/10/16)
+
+### Learning Objectives:
+
+ * 
+
+### Tasks to be completed:
+
+Watch:
+* Chapter 7 in Baker, R. (2014). Big Data in Education:[video 6](https://youtu.be/oFSV6-opnws)
+ 
+
+## Class 18 - Domain Structure Discovery (11/10/16)
+
+### Learning Objectives:
+
+ * 
+
+### Tasks to be completed:
+
+Watch:
+* Chapter 7 in Baker, R. (2014). Big Data in Education:[video 6](https://youtu.be/oFSV6-opnws)
+
+Due: Assignment 5 - Q-Matrices
+
+# <A NAME="unit1:">Unit 4: Prediction
+
+
 
 
 ## Fine Print
