@@ -7,7 +7,7 @@
 * **Instructor Office Hours:** Thursdays, 1:00pm - 3:00pm or [by appointment](mailto:charles.lang@nyu.edu) in GDH 540
 *  **Prerequisite:** HUDM 5122 *or* HUDM 5126 *or* approved statistics/computer science data mining course.
 *  **Credits:** 3
-*  **Required Technology:** Laptop with RStudio installed, Phone with Sensor Kinetics Pro installed
+*  **Required Technology:** Laptop with RStudio installed, Phone with the Sensor Kinetics Pro app installed
 
 ## Course Description
 
@@ -69,11 +69,11 @@ One time only:
 
 ### Tasks to be completed:
 
- 1. Read/watch and comment:
+Read/watch and comment:
   * [Siemens, G. and Baker, R.S.J. d. 2012. Learning Analytics and Educational Data Mining: Towards Communication and Collaboration. Proceedings of the 2nd International Conference on Learning Analytics and Knowledge (New York, NY, USA, 2012), 252–254.](http://users.wpi.edu/~rsbaker/LAKs%20reformatting%20v2.pdf)
   * [Educause 2015. Why Is Measuring Learning So Difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v)
 
-2. Due: Assignment 1 - Set up
+Due: Assignment 1 - Set up
  
 ## Class 3 - Data Sources (9/15/16)
 
@@ -96,7 +96,7 @@ One time only:
 
 ### Tasks to be completed:
 
-2. Read/comment:
+Read/comment:
 * [Leong, B. and Polonetsky, J. 2016. Passing the Privacy Test as Student Data Laws Take Effect. EdSurge.](https://www.edsurge.com/news/2016-01-12-passing-the-privacy-test-as-student-data-laws-take-effect?utm_content=bufferc0042&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Young, J.R. 2014. Why Students Should Own Their Educational Data. The Chronicle of Higher Education Blogs: Wired Campus.](http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329)
 * [Ridgway, J. and Smith, A. 2013. Open data, official statistics and statistics education: threats, and opportunities for collaboration. Proceedings of the Joint IASEIAOS Satellite Conference “Statistics Education for Progress”, Macao, China (2013).](http://iase-web.org/documents/papers/sat2013/IASE_IAOS_2013_Paper_K3_Ridgway_Smith.pdf)
@@ -109,7 +109,7 @@ One time only:
 
 ### Tasks to be completed:
 
-2. Read/Comment:
+Read/Comment:
 * [Greller, W., & Drachsler, H. (2012). Translating Learning into Numbers: A Generic Framework for Learning Analytics. Journal of Educational Technology & Society, 15(3), 42–57.](https://www.jstor.org/stable/jeductechsoci.15.3.42?seq=1#page_scan_tab_contents)
 * [Saturday Morning Breakfast Cereal: 2016.](http://www.smbc-comics.com/index.php?id=3978)
 
@@ -117,7 +117,7 @@ One time only:
 
 ## Class 6 - Data Wrangling (9/27/16)
 
-2. Read/Comment:
+Read/Comment:
 * [Clow, D. 2014. Data wranglers: human interpreters to help close the feedback loop. Proceedings of the Fourth International Conference on Learning Analytics And Knowledge (2014), 49–53.](http://oro.open.ac.uk/40608/2/Clow-DataWranglers-final.pdf)
 
 ## Class 7 - Data Wrangling (9/29/16)
@@ -128,7 +128,7 @@ One time only:
 
 ### Tasks to be completed:
 
-1. Read:
+Read:
 * [Data Wrangling Cheatsheet: 2015.](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 
 # <A NAME="unit1:">Unit 3: Structure Discovery
@@ -137,12 +137,15 @@ One time only:
 
 ### Learning Objectives:
 
- * Be able to perform a data tidying workflow
+ * 
 
 ### Tasks to be completed:
 
-1. Read:
+Read:
+* [Kay, J., Maisonneuve, N., Yacef, K., & Reimann, P. (2006). The Big Five and Visualisations of Team Work Activity. In M. Ikeda, K. D. Ashley, & T.-W. Chan (Eds.), Intelligent Tutoring Systems (pp. 197–206). Springer Berlin Heidelberg.](https://link.springer.com/chapter/10.1007/11774303_20)
 
+Watch:
+* Chapter 6 in Baker, R. (2014). Big Data in Education: [video 1]((https://youtu.be/Mr17Z0nZUQc), [video 3](https://youtu.be/oTiixxmh9-Q), [video 4](https://youtu.be/WI1AVcpCYgk)
 
 
 ## Fine Print
