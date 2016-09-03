@@ -52,16 +52,16 @@ One time only:
 
 <A HREF="#unit4">Unit 4: Prediction</A>
 
-## <A NAME="unit1:">Unit 1: Introduction
+# <A NAME="unit1:">Unit 1: Introduction
 
-## Class 1 Introduction (9/7/16)
+## Class 1 - Introduction (9/7/16)
 ### Learning Objectives
 
 * Be familiar with course philosophy, logic & structure
 * Install and be familiar with the software to be used in the course
 * Appreciate the importance of tightly defining educational goals
 
-## Class 2 Data Sources (9/13/16)
+## Class 2 - LA, EDM and the Learning Sciences (9/13/16)
 
 ### Learning Objectives
 
@@ -72,12 +72,10 @@ One time only:
  1. Read/watch and comment:
   * [Siemens, G. and Baker, R.S.J. d. 2012. Learning Analytics and Educational Data Mining: Towards Communication and Collaboration. Proceedings of the 2nd International Conference on Learning Analytics and Knowledge (New York, NY, USA, 2012), 252–254.](http://users.wpi.edu/~rsbaker/LAKs%20reformatting%20v2.pdf)
   * [Educause 2015. Why Is Measuring Learning So Difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v)
-  * [Saturday Morning Breakfast Cereal: 2016.](http://www.smbc-comics.com/index.php?id=3978)
-  * [The R Markdown Cheat sheet: 2014.](http://shiny.rstudio.com/articles/rm-cheatsheet.html) 
 
-2. Assignment 1: Set up
+2. Due: Assignment 1 - Set up
  
-## Class 3 Data Sources (9/15/16)
+## Class 3 - Data Sources (9/15/16)
 
 * Be familiar with a range of data sources, formats and extraction processes
 * Be familiar with R & Github & markdown
@@ -88,188 +86,64 @@ One time only:
  
 * [The R Markdown Cheat sheet: 2014.](http://shiny.rstudio.com/articles/rm-cheatsheet.html) 
 
- 2. Assignment 1 Due
+# <A NAME="unit1:">Unit 2: Data Sources & Their Manipulation
 
-## <A NAME="unit1:">Unit 2: Data Sources & their Manipulation
-
-## Class 4 Data Sources (9/20/16)
+## Class 4 - Data Wrangling (9/20/16)
 
 ### Learning Objectives:
 
- * Be able to perform a data tidying workflow
- * Be able to do basic visualization
  * Understand the importance of workflow and recording workflow
 
 ### Tasks to be completed:
 
-1. Read/watch:
- * [Poulson, B. Up and Running with R. Lynda.com. Section 3 - 4](http://www.lynda.com/R-tutorials/Up-Running-R/120612-2.html?org=nyu.edu)
- * [Data Wrangling Cheatsheet: 2015.](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) 
-
 2. Read/comment:
- * [Clow, D. 2014. Data wranglers: human interpreters to help close the feedback loop. Proceedings of the Fourth International Conference on Learning Analytics And Knowledge (2014), 49–53.](http://oro.open.ac.uk/40608/2/Clow-DataWranglers-final.pdf)
-
-3. Assignment 3
+* [Leong, B. and Polonetsky, J. 2016. Passing the Privacy Test as Student Data Laws Take Effect. EdSurge.](https://www.edsurge.com/news/2016-01-12-passing-the-privacy-test-as-student-data-laws-take-effect?utm_content=bufferc0042&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [Young, J.R. 2014. Why Students Should Own Their Educational Data. The Chronicle of Higher Education Blogs: Wired Campus.](http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329)
+* [Ridgway, J. and Smith, A. 2013. Open data, official statistics and statistics education: threats, and opportunities for collaboration. Proceedings of the Joint IASEIAOS Satellite Conference “Statistics Education for Progress”, Macao, China (2013).](http://iase-web.org/documents/papers/sat2013/IASE_IAOS_2013_Paper_K3_Ridgway_Smith.pdf)
  
-## Week 4: Personalization through Features (2/18/16 - 2/25/16)
+## Class 5 - Data Wrangling (9/22/16)
 
- * Understand why dimensionality reduction is necessary
- * Be familiar with broad groups of dimensionality reduction (feature transformation, feature selection, feature extraction)
- * Understand the complexity of personalization in education
- 
-### Tasks to be completed:
+### Learning Objectives:
 
-1. Read/Comment:
-
- * [Kucirkova, N. and FitzGerald, E. 2015. Zuckerberg is Ploughing Billions into “Personalised Learning” – Why? The Conversation.](https://theconversation.com/zuckerberg-is-ploughing-billions-into-personalised-learning-why-51940)
- 
-2. Read/Watch:
-
- * [Georgia Tech 2015. Feature Selection. Youtube.](https://www.youtube.com/watch?v=8CpRLplmdqE)
- * [Perez-Riverol, Y. 2013. Introduction to Feature Selection for Bioinformaticians Using R, Correlation Matrix Filters, PCA & Backward Selection. R-bloggers.](http://www.r-bloggers.com/introduction-to-feature-selection-for-bioinformaticians-using-r-correlation-matrix-filters-pca-backward-selection/)
- 
-3. Assignment 4 
- 
-## Week 5: Dimension Reduction (2/25/16 - 3/3/16)
-
- * Perform one method from each group of dimensionality reduction methods
- * Be aware of the complexity of Open Data
+ * Be able to perform a data tidying workflow
 
 ### Tasks to be completed:
 
-1. Read/Comment:
+2. Read/Comment:
+* [Greller, W., & Drachsler, H. (2012). Translating Learning into Numbers: A Generic Framework for Learning Analytics. Journal of Educational Technology & Society, 15(3), 42–57.](https://www.jstor.org/stable/jeductechsoci.15.3.42?seq=1#page_scan_tab_contents)
+* [Saturday Morning Breakfast Cereal: 2016.](http://www.smbc-comics.com/index.php?id=3978)
 
- * [Ridgway, J. and Smith, A. 2013. Open data, official statistics and statistics education: threats, and opportunities for collaboration. Proceedings of the Joint IASEIAOS Satellite Conference “Statistics Education for Progress”, Macao, China (2013).](http://iase-web.org/documents/papers/sat2013/IASE_IAOS_2013_Paper_K3_Ridgway_Smith.pdf)
+* [Data Wrangling Cheatsheet: 2015.](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 
-2. Assignment 5
+## Class 6 - Data Wrangling (9/27/16)
 
-# <A NAME="unit3">Unit 3: Networks 
-## Week 6 Introduction to Networks (3/3/16 - 3/10/16)
+2. Read/Comment:
+* [Clow, D. 2014. Data wranglers: human interpreters to help close the feedback loop. Proceedings of the Fourth International Conference on Learning Analytics And Knowledge (2014), 49–53.](http://oro.open.ac.uk/40608/2/Clow-DataWranglers-final.pdf)
 
-### Learning Objectives
+## Class 7 - Data Wrangling (9/29/16)
 
- * Define social network analysis and its main analysis methods
- * Perform social network analysis and visualize analysis results in R
- * Develop a well defined opinion on how to approach student privacy and data use
+### Learning Objectives:
 
-### Tasks to be completed:
-
-1. Read/Comment:
- * [Hanneman, R.A. and Riddle, M. Chapter 1: Social Network Data. Introduction to Social Network Methods.](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
- * [Krueger, K.R. and Moore, B. 2015. New Technology “Clouds” Student Data Privacy. Phi Delta Kappan. 96, 5 (Feb. 2015), 19–24.](http://www.greeleyschools.org/cms/lib2/CO01001723/Centricity/Domain/2387/New%20technology%20clouds%20student%20data%20privacy.pdf)
- * [Leong, B. and Polonetsky, J. 2016. Passing the Privacy Test as Student Data Laws Take Effect. EdSurge.](https://www.edsurge.com/news/2016-01-12-passing-the-privacy-test-as-student-data-laws-take-effect?utm_content=bufferc0042&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-
-2. Assignment 6
-
-## Week 7 Social Network Analysis (3/10/16 - 3/17/16)
-
- * Describe and interpret the results of social network analysis for the study of learning
- * Describe and critically reflect on approaches to the use of social network analysis for the study of learning
+ * Be able to perform a data tidying workflow
 
 ### Tasks to be completed:
 
-1. Read/Comment:
+1. Read:
+* [Data Wrangling Cheatsheet: 2015.](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 
-  * [Grunspan, D. Z., Wiggins, B. L., & Goodreau, S. M. (2014). Understanding Classrooms through Social Network Analysis: A Primer for Social Network Analysis in Education Research. CBE-Life Sciences Education, 13(2), 167–178. doi:10.1187/cbe.13-08-0162](http://www.lifescied.org/content/13/2/167.full.pdf)
-  * [Manai, J. 2015. The Learning Analytics Landscape: Tension Between Student Privacy and the Process of Data Mining. Carnegie Foundation for the Advancement of Teaching.](http://www.carnegiefoundation.org/blog/the-learning-analytics-landscape-tension-between-student-privacy-and-the-process-of-data-mining/)
+# <A NAME="unit1:">Unit 3: Structure Discovery
 
-2. Assignment 7
+## Class 8 - Visualization (9/27/16)
 
-# <A NAME="unit4">Unit 4: Prediction
+### Learning Objectives:
 
-## Week 8 Prediction Modelling (3/17/16 - 3/24/16)
-
- * Conduct one form of prediction modeling effectively and appropriately
- * Understand the basis of predictive inference
- * Develop a well defined opinion of the complexity of adaption
+ * Be able to perform a data tidying workflow
 
 ### Tasks to be completed:
 
-1. Read/Comment:
+1. Read:
 
-  * [Honan, M. (2014, August 11). I Liked Everything I Saw on Facebook for Two Days. Here’s What It Did to Me | Gadget Lab. WIRED. Retrieved August 12, 2014](http://www.wired.com/2014/08/i-liked-everything-i-saw-on-facebook-for-two-days-heres-what-it-did-to-me/)
-  * [Farr, C. 2014. Microsoft and Knewton partner up to bring adaptive learning to publishers & schools. VentureBeat.](http://venturebeat.com/2014/03/13/microsoft-and-knewton-partner-up-to-bring-adaptive-learning-to-publishers-schools/)
 
-2. Read:
-
-  * [Zheng, A. 2015. Evaluating Machine Learning Models. O’Reily Media. Chapter 2: Evaluation Metrics p.7-18](http://www.oreilly.com/data/free/evaluating-machine-learning-models.csp?intcmp=il-data-free-lp-lgen_free_reports_page)
-
-3. Assignment 8
-
-## Week 9 Prediction Modelling (3/24/16 - 3/31/16)
-
- * Understand core uses of prediction modeling in intelligent tutors
- * Learn how to engineer both features and training labels
- * Learn about key diagnostic metrics and their uses
-
-### Tasks to be completed:
-
- 1. Read/Comment:
-
-  * [San Pedro, M.O.Z., Baker, R.S.J.d., Bowers, A.J., Heffernan, N.T. (2013) Predicting College Enrollment from Student Interaction with a Intelligent Tutoring System in Middle School. Proceedings of the 6th International Conference on Educational Data Mining, 177-184.](http://www.columbia.edu/~rsb2162/EDM2013_SBBH.pdf)
-  * [Wu, X., Kumar, V., Quinlan, J.R., Ghosh, J., Yang, Q., Motoda, H., McLachlan, G.J., Ng, A., Liu, B., Yu, P.S., Zhou, Z.-H., Steinbach, M., Hand, D.J. and Steinberg, D. 2007. Top 10 algorithms in data mining. Knowledge and Information Systems. 14, 1 (Dec. 2007), 1–6.](https://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf)
-
-2. Assignment 9
-
-# <A NAME="unit5">Unit 5: Natural Language Processing
-## Week 10 Natural Language Processing (3/31/16 - 4/7/16)
-
- * Describe prominent areas of text mining
- * Assemble a corpus of documents
- * Describe applications of text mining to education
-
-### Tasks to be completed:
-
-1. Read/Comment:
-  * [Nadkarni, P.M., Ohno-Machado, L. and Chapman, W.W. 2011. Natural language processing: an introduction. Journal of the American Medical Informatics Association : JAMIA. 18, 5 (2011), 544–551.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168328/)
-  * [Shermis, M. D. (2014). State-of-the-art automated essay scoring: Competition, results, and future directions from a United States demonstration. Assessing Writing, 20, 53–76.](https://s3.amazonaws.com/s3.documentcloud.org/documents/1094637/shermis-aw-final.pdf)
-
-2. Assignment 10
-
-## Week 11 Natural Language Processing (4/7/16 - 4/14/16)
-
- * Perform a basic NLP analysis
- * Develop a well defined opinion on whether students should have a right to understand how they are judged
-
-### Tasks to be completed:
-
-1. Read/Comment:
-  * [Crawford, K. and Schultz, J. 2014. Big Data and Due Process: Toward a Framework to Redress Predictive Privacy Harms - Boston College Law Review. Boston College Law Review. LV, 1 (2014).](http://bclawreview.org/files/2014/01/03_crawford_schultz.pdf)
-  * [Thompson, J. 2015. Text Mining, Big Data, Unstructured Data. Dell Computing.](http://documents.software.dell.com/Statistics/Textbook/Text-Mining)
-
-2. Assignment 11
-
-# <A NAME="unit6">Unit 6: The Quantified Student
-
-## Week 12 The Quantified Student (4/14/16 - 4/21/16)
-
- * Have a well defined opinion of the use of biometric data in education
- * Extract orientation data from a mobile device
-
-### Tasks to be completed:
- 
-1. Read/Comment
-  * [Lee, V. R., & Drake, J. (2013). Quantified Recess: Design of an Activity for Elementary Students Involving Analyses of Their Own Movement Data. In Proceedings of the 12th International Conference on Interaction Design and Children (pp. 273–276). New York, NY, USA: ACM. doi:10.1145/2485760.2485822](http://quantifiedself.com/wp-content/uploads/2014/11/Quantified-recess_-Design-of-an-activity-for-elementary-students.pdf)
-  * [Kamenetz, A. 2015. The Quantified Student: An App That Predicts GPA. NPR.](http://www.npr.org/sections/ed/2015/06/02/409780423/the-quantified-student-an-app-that-predicts-gpa)
-  * [Meyer, R. (2016, February 25). The Quantified Welp. The Atlantic.](http://www.theatlantic.com/technology/archive/2016/02/the-quantified-welp/470874/) 
-
-2. Assignment 12
-
-# <A NAME="unit7">Unit 7: Advanced Graphics
-
-## Week 13 Advanced Graphics (4/21/16 - 4/28/16)
-
- * Understand basic principals of the grammar of graphics
- * Understand the basic principals of effective data visualization
- * Produce a range of graphical representations using ggplot & D3.js for R
-
-### Tasks to be completed: IMPORTANT
-
-1. Read/Watch:
-  * [Datacamp 2015. The ggvis R package - How to Work With The Grammar of Graphics - YouTube. Youtube.](https://www.youtube.com/watch?v=rf55oB6xX3w)
-  * [Friendly, M. 2008. A Brief History of Data Visualization. Handbook of Data Visualization. Springer Berlin Heidelberg. 15–56.] (http://download.springer.com.ezp-prod1.hul.harvard.edu/static/pdf/797/chp%253A10.1007%252F978-3-540-33037-0_2.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-540-33037-0_2&token2=exp=1453237938~acl=%2Fstatic%2Fpdf%2F797%2Fchp%25253A10.1007%25252F978-3-540-33037-0_2.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fchapter%252F10.1007%252F978-3-540-33037-0_2*~hmac=f39b47d9779f7d2ef33b7e231c7385fb79662ec5cc43ff39d52e812fe9ca466c)
-
-2. Assignment 13
 
 ## Fine Print
 
