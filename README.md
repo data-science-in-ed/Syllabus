@@ -86,7 +86,7 @@ Due: Assignment 1 - Set up
  
 * [The R Markdown Cheat sheet: 2014.](http://shiny.rstudio.com/articles/rm-cheatsheet.html) 
 
-# <A NAME="unit2:">Unit 2: Data Sources & Their Manipulation
+# <A NAME="unit2">Unit 2: Data Sources & their Manipulation
 
 ## Class 4 - Data Wrangling (9/20/16)
 
