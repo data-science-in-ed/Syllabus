@@ -248,7 +248,21 @@ Watch:
 * Chapter 7 in Baker, R. (2014). Big Data in Education:[video 6](https://youtu.be/oFSV6-opnws)
  
 
-## Class 18 - Domain Structure Discovery (11/10/16)
+# <A NAME="unit1:">Unit 4: Prediction
+
+## Class 18 - Prediction (11/8/16)
+
+### Learning Objectives:
+
+ * 
+
+### Tasks to be completed:
+
+Read/Comment:
+* [Kucirkova, N. and FitzGerald, E. 2015. Zuckerberg is Ploughing Billions into “Personalised Learning” – Why? The Conversation.](https://theconversation.com/zuckerberg-is-ploughing-billions-into-personalised-learning-why-51940)
+* [San Pedro, M.O.Z., Baker, R.S.J.d., Bowers, A.J., Heffernan, N.T. (2013) Predicting College Enrollment from Student Interaction with a Intelligent Tutoring System in Middle School. Proceedings of the 6th International Conference on Educational Data Mining, 177-184.](http://www.columbia.edu/~rsb2162/EDM2013_SBBH.pdf)
+
+## Class 19 - Prediction (11/10/16)
 
 ### Learning Objectives:
 
@@ -257,12 +271,97 @@ Watch:
 ### Tasks to be completed:
 
 Watch:
-* Chapter 7 in Baker, R. (2014). Big Data in Education:[video 6](https://youtu.be/oFSV6-opnws)
+* Chapter 1 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/dc5Nx3tyR8g)
 
-Due: Assignment 5 - Q-Matrices
+## Class 20 - Classification (11/15/16)
 
-# <A NAME="unit1:">Unit 4: Prediction
+### Learning Objectives:
 
+ * 
+
+### Tasks to be completed:
+
+Read/Comment:
+
+* [Cortez, P., & Silva, A. M. G. (2008). Using data mining to predict secondary school student performance. In Proceedings of 5th Annual Future Business Technology Conference. Porto, Spain: EUROSIS.](http://hdl.handle.net/1822/8024)
+* [Baker, R.S.J.d., Corbett, A.T., Roll, I., Koedinger, K.R. (2008) Developing a Generalizable Detector of When Students Game the System. User Modeling and User-Adapted Interaction, 18, 3, 287-314.](https://link.springer.com/article/10.1007/s11257-007-9045-6)
+
+## Class 21 - Classification (11/17/16)
+
+### Learning Objectives:
+
+ * 
+
+### Tasks to be completed:
+
+Watch:
+* Chapter 1 in Baker, R. (2014). Big Data in Education: [video 3](https://youtu.be/k9Z4ibzH-1s) & [video 4](https://youtu.be/8X0UlMShss4)
+
+## Class 22 - Data Jam (11/22/16)
+
+### Learning Objectives:
+
+ * Practice of methods learned so far using real world data
+
+### Tasks to be completed:
+
+* Analysis of data ad generation of model
+
+## Class 23 - Diagnostic Metrics (11/29/16)
+
+### Learning Objectives:
+
+ * Understand and apply the following diagnostic metrics to models: Kappa, A', correlation, RMSE, ROC
+
+### Tasks to be completed:
+
+Read:
+* [Zheng, A. 2015. Evaluating Machine Learning Models. O’Reily Media. Chapter 2: Evaluation Metrics p.7-18](http://www.oreilly.com/data/free/evaluating-machine-learning-models.csp?intcmp=il-data-free-lp-lgen_free_reports_page)
+
+Watch:
+* Chapter 2 in Baker, R. (2014). Big Data in Education: [video 2](https://youtu.be/fGMFYTHhcHg), [video 3](https://youtu.be/9PDwRdyb6Sw) and [video 4](https://youtu.be/7r3hfJW1gz0)
+
+## Class 24 - Diagnostic Metrics (12/1/16)
+
+### Learning Objectives:
+
+ * Understand over-fitting and institute cross-validation 
+
+### Tasks to be completed:
+
+Watch:
+* Chapter 2 in Baker, R. (2014). Big Data in Education: [video 5](https://youtu.be/1P34cxpEdKA)
+* [Georgia Tech 2015. Cross Validation. Youtube.](https://youtu.be/sFO2ff-gTh0)
+
+## Class 25 - Knowledge Tracing (12/6/16)
+
+### Learning Objectives:
+
+ * Understand Bayesian Knowledge Tracing 
+
+### Tasks to be completed:
+
+Read:
+[Corbett, A.T., Anderson, J.R. (1995) Knowledge Tracing: Modeling the Acquisition of Procedural Knowledge. User Modeling and User-Adapted Interaction, 4, 253-278.](https://link.springer.com/article/10.1007/BF01099821)
+
+## Class 26 - Knowledge Tracing (12/8/16)
+
+### Learning Objectives:
+
+ * Understand Bayesian Knowledge Tracing 
+
+### Tasks to be completed:
+
+Watch:
+* Chapter 4 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/_7CtthPZJ70)
+
+## Class 27 - Class Presentations (12/13/16)
+
+## Class 28 - Class Presentations (12/15/16)
+
+## Class 28 - Data Jam (12/20/16)
+
+## Class 28 - Data Jam (12/22/16)
 
 
 
