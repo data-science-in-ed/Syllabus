@@ -86,7 +86,7 @@ Due: Assignment 1 - Set up
  
 * [The R Markdown Cheat sheet: 2014.](http://shiny.rstudio.com/articles/rm-cheatsheet.html) 
 
-# <A NAME="unit1:">Unit 2: Data Sources & Their Manipulation
+# <A NAME="unit2:">Unit 2: Data Sources & Their Manipulation
 
 ## Class 4 - Data Wrangling (9/20/16)
 
@@ -131,7 +131,7 @@ Read/Comment:
 Read:
 * [Data Wrangling Cheatsheet: 2015.](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 
-# <A NAME="unit1:">Unit 3: Structure Discovery
+# <A NAME="unit3:">Unit 3: Structure Discovery
 
 ## Class 8 - Visualization (10/4/16)
 
@@ -248,7 +248,7 @@ Watch:
 * Chapter 7 in Baker, R. (2014). Big Data in Education:[video 6](https://youtu.be/oFSV6-opnws)
  
 
-# <A NAME="unit1:">Unit 4: Prediction
+# <A NAME="unit4:">Unit 4: Prediction
 
 ## Class 18 - Prediction (11/8/16)
 
