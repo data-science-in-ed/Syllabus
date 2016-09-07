@@ -98,8 +98,7 @@ Due: Assignment 1 - Set up
 
 Read/comment:
 * [Leong, B. and Polonetsky, J. 2016. Passing the Privacy Test as Student Data Laws Take Effect. EdSurge.](https://www.edsurge.com/news/2016-01-12-passing-the-privacy-test-as-student-data-laws-take-effect?utm_content=bufferc0042&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-* [Young, J.R. 2014. Why Students Should Own Their Educational Data. The Chronicle of Higher Education Blogs: Wired Campus.](http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329)
-* [Ridgway, J. and Smith, A. 2013. Open data, official statistics and statistics education: threats, and opportunities for collaboration. Proceedings of the Joint IASEIAOS Satellite Conference “Statistics Education for Progress”, Macao, China (2013).](http://iase-web.org/documents/papers/sat2013/IASE_IAOS_2013_Paper_K3_Ridgway_Smith.pdf)
+* [Greller, W., & Drachsler, H. (2012). Translating Learning into Numbers: A Generic Framework for Learning Analytics. Journal of Educational Technology & Society, 15(3), 42–57.](https://www.jstor.org/stable/jeductechsoci.15.3.42?seq=1#page_scan_tab_contents)
  
 ## Class 5 - Data Wrangling (9/22/16)
 
@@ -109,8 +108,7 @@ Read/comment:
 
 ### Tasks to be completed:
 
-Read/Comment:
-* [Greller, W., & Drachsler, H. (2012). Translating Learning into Numbers: A Generic Framework for Learning Analytics. Journal of Educational Technology & Society, 15(3), 42–57.](https://www.jstor.org/stable/jeductechsoci.15.3.42?seq=1#page_scan_tab_contents)
+Read:
 * [Saturday Morning Breakfast Cereal: 2016.](http://www.smbc-comics.com/index.php?id=3978)
 
 * [Data Wrangling Cheatsheet: 2015.](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
@@ -119,12 +117,14 @@ Read/Comment:
 
 Read/Comment:
 * [Clow, D. 2014. Data wranglers: human interpreters to help close the feedback loop. Proceedings of the Fourth International Conference on Learning Analytics And Knowledge (2014), 49–53.](http://oro.open.ac.uk/40608/2/Clow-DataWranglers-final.pdf)
+* [Young, J.R. 2014. Why Students Should Own Their Educational Data. The Chronicle of Higher Education Blogs: Wired Campus.](http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329)
 
 ## Class 7 - Data Wrangling (9/29/16)
 
 ### Learning Objectives:
 
  * Be able to perform a data tidying workflow
+ * Be familiar with a range of data manipulation commands
 
 ### Tasks to be completed:
 
@@ -137,7 +137,8 @@ Read:
 
 ### Learning Objectives:
 
- * 
+ * Understand the place of data visualization in the data analysis cycle
+ * Be familiar with a range of data simulation commands
 
 ### Tasks to be completed:
 
@@ -148,7 +149,7 @@ Read:
 
 ### Learning Objectives:
 
- * 
+ * Be able to generate basic visualizations during on-the-fly analysis
 
 Watch:
 * Chapter 6 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/Mr17Z0nZUQc), [video 3](https://youtu.be/oTiixxmh9-Q), [video 4](https://youtu.be/WI1AVcpCYgk)
@@ -157,23 +158,24 @@ Watch:
 
 ### Learning Objectives:
 
- * 
-
-### Tasks to be completed:
-
-Read/Comment:
-* [Hanneman, R.A. and Riddle, M. Chapter 1: Social Network Data. Introduction to Social Network Methods.](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
-
-## Class 11 - Networks (10/13/16)
-
-### Learning Objectives:
-
- * 
+ * Understand the basic premise of graph theory applied to social networks
 
 ### Tasks to be completed:
 
 Read/Comment:
 * [Grunspan, D. Z., Wiggins, B. L., & Goodreau, S. M. (2014). Understanding Classrooms through Social Network Analysis: A Primer for Social Network Analysis in Education Research. CBE-Life Sciences Education, 13(2), 167–178.](http://www.lifescied.org/content/13/2/167.full.pdf)
+
+## Class 11 - Networks (10/13/16)
+
+### Learning Objectives:
+
+ * Conceptualize a data structure suitable for network analysis, generate a network and produce basic summary metrics
+
+### Tasks to be completed:
+
+Read/Comment:
+
+* [Hanneman, R.A. and Riddle, M. Chapter 1: Social Network Data. Introduction to Social Network Methods.](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
 
 Due: Assignment 2 - Social Network
 
@@ -181,7 +183,7 @@ Due: Assignment 2 - Social Network
 
 ### Learning Objectives:
 
- * 
+ * Understand the basic principle and algorithm behind cluster analysis
 
 ### Tasks to be completed:
 
@@ -192,7 +194,7 @@ Read/Comment:
 
 ### Learning Objectives:
 
- * 
+ * Create a suitable data structure and perform clustering on a sample
 
 ### Tasks to be completed:
 
@@ -205,7 +207,8 @@ Due: Assignment 3 - Clustering
 
 ### Learning Objectives:
 
- * 
+ * Be familiar with the basic ideas behind dimension reduction and the reasons for needing it
+ * Understand the basic principles behind Principal Component Analysis
 
 ### Tasks to be completed:
 
@@ -216,7 +219,7 @@ Read/Comment:
 
 ### Learning Objectives:
 
- * 
+ * Perform principal component analysis 
 
 ### Tasks to be completed:
 
@@ -229,7 +232,7 @@ Due: Assignment 4 - Principal Component Analysis
 
 ### Learning Objectives:
 
- * 
+ * Be familiar with the range of strategies for mapping domains and skills
 
 ### Tasks to be completed:
 
@@ -240,7 +243,7 @@ Read/Comment:
 
 ### Learning Objectives:
 
- * 
+ * Be familiar with the Q-matrix method
 
 ### Tasks to be completed:
 
@@ -254,7 +257,7 @@ Watch:
 
 ### Learning Objectives:
 
- * 
+ * Understand why prediction is desireable goal, the various meanings of the word and general strategies employed across statistics, machine learning and experimental psychology
 
 ### Tasks to be completed:
 
@@ -266,7 +269,7 @@ Read/Comment:
 
 ### Learning Objectives:
 
- * 
+ * Employ a linear prediction model 
 
 ### Tasks to be completed:
 
@@ -277,7 +280,7 @@ Watch:
 
 ### Learning Objectives:
 
- * 
+ * Understand the concept of classification and its relationship to modeling
 
 ### Tasks to be completed:
 
@@ -290,7 +293,7 @@ Read/Comment:
 
 ### Learning Objectives:
 
- * 
+ * Implement a CART model
 
 ### Tasks to be completed:
 
@@ -337,7 +340,7 @@ Watch:
 
 ### Learning Objectives:
 
- * Understand Bayesian Knowledge Tracing 
+ * Understand the concepts behind Bayesian Knowledge Tracing 
 
 ### Tasks to be completed:
 
