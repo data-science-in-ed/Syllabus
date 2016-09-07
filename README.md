@@ -1,7 +1,7 @@
 # Core Methods in Educational Data Mining: Syllabus
 
 * **Course:** [HUDK 4050, Teachers College, Columbia] (http://www.columbia.edu/~rsb2162/EDM2015/index.html)
-* **Instructor:** Charles Lang, [charles.lang@nyu.edu](mailto:charles.lang@nyu.edu), @learng00d
+* **Instructor:** Charles Lang, [lang2@tc.columbia.edu](lang2@tc.columbia.edu), @learng00d
 * **Day/Time:** Tuesdays/Thursdays, 11:00am - 12:40pm  
 * **Location:** GDH 535
 * **Instructor Office Hours:** Thursdays, 1:00pm - 3:00pm or [by appointment](mailto:charles.lang@nyu.edu) in GDH 540
