@@ -4,7 +4,7 @@
 * **Instructor:** Charles Lang, [lang2@tc.columbia.edu](lang2@tc.columbia.edu), @learng00d, #TCLA16
 * **Day/Time:** Tuesdays/Thursdays, 11:00am - 12:40pm  
 * **Location:** GDH 535
-* **Instructor Office Hours:** Thursdays, 1:00pm - 3:00pm or [by appointment](mailto:lang2@tc.columbia.edu) in GDH 540
+* **Instructor Office Hours:** Thursdays, 1:00pm - 3:00pm or [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ) in GDH 540
 *  **Prerequisite:** HUDM 5122 *or* HUDM 5126 *or* approved statistics/computer science data mining course.
 *  **Credits:** 3
 *  **Required Technology:** Laptop with RStudio installed, Phone with the Sensor Kinetics Pro app installed
