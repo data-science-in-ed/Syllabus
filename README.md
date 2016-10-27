@@ -203,7 +203,7 @@ Watch:
 
 Due: Assignment 3 - Clustering
 
-## Class 14 - Principal Component Analysis (10/20/16)
+## Class 14 - Principal Component Analysis (10/25/16)
 
 ### Learning Objectives:
 
@@ -215,7 +215,7 @@ Due: Assignment 3 - Clustering
 Read/Comment:
 * [Konstan, J. A., Walker, J. D., Brooks, D. C., Brown, K., & Ekstrand, M. D. (2015). Teaching Recommender Systems at Large Scale: Evaluation and Lessons Learned from a Hybrid MOOC. ACM Trans. Comput.-Hum. Interact., 22(2), 10:1–10:23.](https://dl.acm.org/citation.cfm?id=2728171)
 
-## Class 15 - Principal Component Analysis (10/20/16)
+## Class 15 - Principal Component Analysis (10/27/16)
 
 ### Learning Objectives:
 
@@ -228,7 +228,7 @@ Watch:
 
 Due: Assignment 4 - Principal Component Analysis
 
-## Class 16 - Domain Structure Discovery (11/8/16)
+## Class 16 - Domain Structure Discovery (11/1/16)
 
 ### Learning Objectives:
 
@@ -239,7 +239,7 @@ Due: Assignment 4 - Principal Component Analysis
 Read/Comment:
 * [Matsuda, N., Furukawa, T., Bier, N., & Faloutsos, C. (2015). Machine Beats Experts: Automatic Discovery of Skill Models for Data-Driven Online Course Refinement. International Educational Data Mining Society.](http://eric.ed.gov/?id=ED560513) 
 
-## Class 17 - Domain Structure Discovery (11/10/16)
+## Class 17 - Domain Structure Discovery (11/3/16)
 
 ### Learning Objectives:
 
