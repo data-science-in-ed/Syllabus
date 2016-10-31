@@ -276,6 +276,8 @@ Read/Comment:
 Watch:
 * Chapter 1 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/dc5Nx3tyR8g)
 
+Due: Assignment 5 - Prediction
+
 ## Class 20 - Classification (11/15/16)
 
 ### Learning Objectives:
@@ -310,6 +312,8 @@ Watch:
 
 * Analysis of data ad generation of model
 
+Due: Assignment 6 - CART Models
+
 ## Class 23 - Diagnostic Metrics (11/29/16)
 
 ### Learning Objectives:
@@ -336,6 +340,8 @@ Watch:
 * Chapter 2 in Baker, R. (2014). Big Data in Education: [video 5](https://youtu.be/1P34cxpEdKA)
 * [Georgia Tech 2015. Cross Validation. Youtube.](https://youtu.be/sFO2ff-gTh0)
 
+Due: Assignment 7 - Diagnostic Metrics
+
 ## Class 25 - Knowledge Tracing (12/6/16)
 
 ### Learning Objectives:
@@ -357,6 +363,8 @@ Read:
 
 Watch:
 * Chapter 4 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/_7CtthPZJ70)
+
+Due: Assignment 8 - Quatified Student
 
 ## Class 27 - Class Presentations (12/13/16)
 
