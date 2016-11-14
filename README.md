@@ -364,15 +364,15 @@ Read:
 Watch:
 * Chapter 4 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/_7CtthPZJ70)
 
-Due: Assignment 8 - Quatified Student
+## Class 27 - Work Session: Assignment 8, Group Project (12/13/16)
 
-## Class 27 - Class Presentations (12/13/16)
+## Class 28 - Work Session: Assignment 8, Group Project (12/15/16)
 
-## Class 28 - Class Presentations (12/15/16)
+Due: Assignment 8 - Quantified Student
 
-## Class 28 - Data Jam (12/20/16)
+## Class 28 - Rate video presentations (12/20/16)
 
-## Class 28 - Data Jam (12/22/16)
+## Class 28 - Rate video presentations (12/22/16)
 
 
 
