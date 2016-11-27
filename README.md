@@ -314,7 +314,13 @@ Watch:
 
 Due: Assignment 6 - CART Models
 
-## Class 23 - Diagnostic Metrics (11/29/16)
+## Class 23 - New Classrooms Site Visit (11/29/16)
+
+
+
+
+
+## Class 24 - Diagnostic Metrics (12/1/16)
 
 ### Learning Objectives:
 
@@ -327,20 +333,8 @@ Read:
 
 Watch:
 * Chapter 2 in Baker, R. (2014). Big Data in Education: [video 2](https://youtu.be/fGMFYTHhcHg), [video 3](https://youtu.be/9PDwRdyb6Sw) and [video 4](https://youtu.be/7r3hfJW1gz0)
-
-## Class 24 - Diagnostic Metrics (12/1/16)
-
-### Learning Objectives:
-
- * Understand over-fitting and institute cross-validation 
-
-### Tasks to be completed:
-
-Watch:
 * Chapter 2 in Baker, R. (2014). Big Data in Education: [video 5](https://youtu.be/1P34cxpEdKA)
 * [Georgia Tech 2015. Cross Validation. Youtube.](https://youtu.be/sFO2ff-gTh0)
-
-Due: Assignment 7 - Diagnostic Metrics
 
 ## Class 25 - Knowledge Tracing (12/6/16)
 
@@ -363,6 +357,8 @@ Read:
 
 Watch:
 * Chapter 4 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/_7CtthPZJ70)
+
+Due: Assignment 7 - Diagnostic Metrics
 
 ## Class 27 - Work Session: Assignment 8, Group Project (12/13/16)
 
