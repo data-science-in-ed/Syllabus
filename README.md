@@ -365,9 +365,9 @@ Due: Assignment 7 - Diagnostic Metrics
 
 Due: Assignment 8 - Quantified Student
 
-## Class 28 - Rate video presentations (12/14/17)
+## Class 29 - Rate video presentations (12/14/17)
 
-## Class 28 - Rate video presentations (12/19/17)
+## Class 30 - Rate video presentations (12/19/17)
 
 
 
