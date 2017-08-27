@@ -1,7 +1,7 @@
 # Core Methods in Educational Data Mining: Syllabus
 
 * **Course:** [HUDK 4050, Teachers College, Columbia] (http://www.columbia.edu/~rsb2162/EDM2015/index.html)
-* **Instructor:** Charles Lang, [lang2@tc.columbia.edu](lang2@tc.columbia.edu), @learng00d, #TCLA16
+* **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](lang2@tc.columbia.edu), @learng00d
 * **Day/Time:** Tuesdays/Thursdays, 11:00am - 12:40pm  
 * **Location:** GDH 535
 * **Instructor Office Hours:** Thursdays, 1:00pm - 3:00pm or [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ) in GDH 540
@@ -31,7 +31,7 @@ Tasks that need to be completed during the semester:
 Weekly:
  * Attend class
  * Weekly readings
- * Comment on readings on Twitter
+ * Compete Swirl course
  * Maintain documentation of work (Github, R Markdown, Zotero)
 
 One time only:
@@ -39,8 +39,7 @@ One time only:
  * In person meeting with instructor
  * 8 short assignments (including one group assignment)
  * Group presentation of group assignment, 3-5 students each
- * Submit Zotero file with semester's notes
- * *Record a tutorial session*
+ * Submit Zotero file with semester's notes  
 
 ## Week-by-week
 
@@ -143,7 +142,9 @@ Read:
 ### Tasks to be completed:
 
 Read:
-* [Kay, J., Maisonneuve, N., Yacef, K., & Reimann, P. (2006). The Big Five and Visualisations of Team Work Activity. In M. Ikeda, K. D. Ashley, & T.-W. Chan (Eds.), Intelligent Tutoring Systems (pp. 197–206). Springer Berlin Heidelberg.](https://link.springer.com/chapter/10.1007/11774303_20)
+* [Gelman, A. & Niemi, J. (2011). Statistical graphics: making information clear – and beautiful, *Significance*, The Rotal Statistical Society: London](http://www.stat.columbia.edu/~gelman/research/published/niemi.pdf)  
+* [Wainer, H. (1984). How to display data badly, *The American Statistician*, 38(2), 137-147](http://rci.rutgers.edu/%7Eroos/Courses/grstat502/wainer.pdf)  
+
 
 ## Class 9 - Visualization (10/6/16)
 
@@ -151,8 +152,9 @@ Read:
 
  * Be able to generate basic visualizations during on-the-fly analysis
 
-Watch:
-* Chapter 6 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/Mr17Z0nZUQc), [video 3](https://youtu.be/oTiixxmh9-Q), [video 4](https://youtu.be/WI1AVcpCYgk)
+Read:
+* [Gelman, A., & Unwin, A. (2012). Infovis and Statistical Graphics: Different Goals, Different Looks (with discussion)](http://www.stat.columbia.edu/~gelman/research/published/vis14.pdf)  
+* [Fung, K. (2014). Junkcharts Trifecta Checkup: The Definitive Guide](http://junkcharts.typepad.com/junk_charts/junk-charts-trifecta-checkup-the-definitive-guide.html)  
 
 ## Class 10 - Networks (10/11/16)
 
@@ -162,7 +164,7 @@ Watch:
 
 ### Tasks to be completed:
 
-Read/Comment:
+Read:
 * [Grunspan, D. Z., Wiggins, B. L., & Goodreau, S. M. (2014). Understanding Classrooms through Social Network Analysis: A Primer for Social Network Analysis in Education Research. CBE-Life Sciences Education, 13(2), 167–178.](http://www.lifescied.org/content/13/2/167.full.pdf)
 
 ## Class 11 - Networks (10/13/16)
