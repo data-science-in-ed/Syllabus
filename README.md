@@ -68,12 +68,12 @@ One time only:
 
 ### Tasks to be completed:
 
-Read/watch and comment:
+Read/watch:
   * [Siemens, G. and Baker, R.S.J. d. 2012. Learning Analytics and Educational Data Mining: Towards Communication and Collaboration. Proceedings of the 2nd International Conference on Learning Analytics and Knowledge (New York, NY, USA, 2012), 252–254.](http://users.wpi.edu/~rsbaker/LAKs%20reformatting%20v2.pdf)
   * [Educause 2015. Why Is Measuring Learning So Difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v)
 
 Due: Assignment 1 - Set up
- 
+
 ## Class 3 - Data Sources (9/15/16)
 
 * Be familiar with a range of data sources, formats and extraction processes
@@ -81,9 +81,11 @@ Due: Assignment 1 - Set up
 
 ### Tasks to be completed:
 
- 1. Read/watch and comment:
- 
-* [The R Markdown Cheat sheet: 2014.](http://shiny.rstudio.com/articles/rm-cheatsheet.html) 
+Read/watch: 
+* [The R Markdown Cheat sheet: 2014.](http://shiny.rstudio.com/articles/rm-cheatsheet.html)
+
+Swirl:
+* Unit 1 - Introduction
 
 # <A NAME="unit2">Unit 2: Data Sources & their Manipulation
 
@@ -95,7 +97,7 @@ Due: Assignment 1 - Set up
 
 ### Tasks to be completed:
 
-Read/comment:
+Read:
 * [Leong, B. and Polonetsky, J. 2016. Passing the Privacy Test as Student Data Laws Take Effect. EdSurge.](https://www.edsurge.com/news/2016-01-12-passing-the-privacy-test-as-student-data-laws-take-effect?utm_content=bufferc0042&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Greller, W., & Drachsler, H. (2012). Translating Learning into Numbers: A Generic Framework for Learning Analytics. Journal of Educational Technology & Society, 15(3), 42–57.](https://www.jstor.org/stable/jeductechsoci.15.3.42?seq=1#page_scan_tab_contents)
  
@@ -114,7 +116,7 @@ Read:
 
 ## Class 6 - Data Wrangling (9/27/16)
 
-Read/Comment:
+Read:
 * [Clow, D. 2014. Data wranglers: human interpreters to help close the feedback loop. Proceedings of the Fourth International Conference on Learning Analytics And Knowledge (2014), 49–53.](http://oro.open.ac.uk/40608/2/Clow-DataWranglers-final.pdf)
 * [Young, J.R. 2014. Why Students Should Own Their Educational Data. The Chronicle of Higher Education Blogs: Wired Campus.](http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329)
 
@@ -130,6 +132,9 @@ Read/Comment:
 Read:
 * [Data Wrangling Cheatsheet: 2015.](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 
+Swirl:
+* Unit 2 - Data Sources & Manipulation  
+
 # <A NAME="unit3">Unit 3: Structure Discovery
 
 ## Class 8 - Visualization (10/4/16)
@@ -142,7 +147,7 @@ Read:
 ### Tasks to be completed:
 
 Read:
-* [Gelman, A. & Niemi, J. (2011). Statistical graphics: making information clear – and beautiful, *Significance*, The Rotal Statistical Society: London](http://www.stat.columbia.edu/~gelman/research/published/niemi.pdf)  
+* [Gelman, A., & Niemi, J. (2011). Statistical graphics: making information clear – and beautiful, *Significance*, September, 134-136](http://www.stat.columbia.edu/~gelman/research/published/niemi.pdf)  
 * [Wainer, H. (1984). How to display data badly, *The American Statistician*, 38(2), 137-147](http://rci.rutgers.edu/%7Eroos/Courses/grstat502/wainer.pdf)  
 
 
@@ -175,7 +180,7 @@ Read:
 
 ### Tasks to be completed:
 
-Read/Comment:
+Read:
 
 * [Hanneman, R.A. and Riddle, M. Chapter 1: Social Network Data. Introduction to Social Network Methods.](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
 
@@ -189,7 +194,7 @@ Due: Assignment 2 - Social Network
 
 ### Tasks to be completed:
 
-Read/Comment:
+Read:
 * [Bowers, A.J. (2010) Analyzing the Longitudinal K-12 Grading Histories of Entire Cohorts of Students: Grades, Data Driven Decision Making, Dropping Out and Hierarchical Cluster Analysis. Practical Assessment, Research & Evaluation (PARE), 15(7), 1-18.](http://pareonline.net/pdf/v15n7.pdf)
 
 ## Class 13 - Clustering (10/20/16)
@@ -214,7 +219,7 @@ Due: Assignment 3 - Clustering
 
 ### Tasks to be completed:
 
-Read/Comment:
+Read:
 * [Konstan, J. A., Walker, J. D., Brooks, D. C., Brown, K., & Ekstrand, M. D. (2015). Teaching Recommender Systems at Large Scale: Evaluation and Lessons Learned from a Hybrid MOOC. ACM Trans. Comput.-Hum. Interact., 22(2), 10:1–10:23.](https://dl.acm.org/citation.cfm?id=2728171)
 
 ## Class 15 - Principal Component Analysis (10/27/16)
@@ -238,7 +243,7 @@ Due: Assignment 4 - Principal Component Analysis
 
 ### Tasks to be completed:
 
-Read/Comment:
+Read:
 * [Matsuda, N., Furukawa, T., Bier, N., & Faloutsos, C. (2015). Machine Beats Experts: Automatic Discovery of Skill Models for Data-Driven Online Course Refinement. International Educational Data Mining Society.](http://eric.ed.gov/?id=ED560513) 
 
 ## Class 17 - Domain Structure Discovery (11/3/16)
@@ -251,7 +256,9 @@ Read/Comment:
 
 Watch:
 * Chapter 7 in Baker, R. (2014). Big Data in Education:[video 6](https://youtu.be/oFSV6-opnws)
- 
+
+Swirl:
+* Unit 3 - Structure Discovery
 
 # <A NAME="unit4">Unit 4: Prediction
 
@@ -263,7 +270,7 @@ Watch:
 
 ### Tasks to be completed:
 
-Read/Comment:
+Read:
 * [Kucirkova, N. and FitzGerald, E. 2015. Zuckerberg is Ploughing Billions into “Personalised Learning” – Why? The Conversation.](https://theconversation.com/zuckerberg-is-ploughing-billions-into-personalised-learning-why-51940)
 * [San Pedro, M.O.Z., Baker, R.S.J.d., Bowers, A.J., Heffernan, N.T. (2013) Predicting College Enrollment from Student Interaction with a Intelligent Tutoring System in Middle School. Proceedings of the 6th International Conference on Educational Data Mining, 177-184.](http://www.columbia.edu/~rsb2162/EDM2013_SBBH.pdf)
 
@@ -288,7 +295,7 @@ Due: Assignment 5 - Prediction
 
 ### Tasks to be completed:
 
-Read/Comment:
+Read:
 
 * [Cortez, P., & Silva, A. M. G. (2008). Using data mining to predict secondary school student performance. In Proceedings of 5th Annual Future Business Technology Conference. Porto, Spain: EUROSIS.](http://hdl.handle.net/1822/8024)
 * [Baker, R.S.J.d., Corbett, A.T., Roll, I., Koedinger, K.R. (2008) Developing a Generalizable Detector of When Students Game the System. User Modeling and User-Adapted Interaction, 18, 3, 287-314.](https://link.springer.com/article/10.1007/s11257-007-9045-6)
@@ -320,8 +327,6 @@ Due: Assignment 6 - CART Models
 
 
 
-
-
 ## Class 24 - Diagnostic Metrics (12/1/16)
 
 ### Learning Objectives:
@@ -348,6 +353,9 @@ Watch:
 
 Read:
 [Corbett, A.T., Anderson, J.R. (1995) Knowledge Tracing: Modeling the Acquisition of Procedural Knowledge. User Modeling and User-Adapted Interaction, 4, 253-278.](https://link.springer.com/article/10.1007/BF01099821)
+
+Swirl:
+* Unit 4 - Prediction
 
 ## Class 26 - Knowledge Tracing (12/8/16)
 
