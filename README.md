@@ -98,7 +98,7 @@ Swirl:
 ### Tasks to be completed:
 
 Read:
-* [Leong, B. and Polonetsky, J. 2016. Passing the Privacy Test as Student Data Laws Take Effect. EdSurge.](https://www.edsurge.com/news/2016-01-12-passing-the-privacy-test-as-student-data-laws-take-effect?utm_content=bufferc0042&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [Prinsloo, P., & Slade, S. (2017). Ethics and Learning Analytics: Charting the (Un)Charted. In The Handbook of Learning Analytics (1st ed., pp. 49–57). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter4/)
 * [Greller, W., & Drachsler, H. (2012). Translating Learning into Numbers: A Generic Framework for Learning Analytics. Journal of Educational Technology & Society, 15(3), 42–57.](https://www.jstor.org/stable/jeductechsoci.15.3.42?seq=1#page_scan_tab_contents)
  
 ## Class 5 - Data Wrangling (9/21/17)
@@ -150,6 +150,7 @@ Swirl:
 ### Tasks to be completed:
 
 Read:
+* [Klerkx, J., Verbert, K., & Duval, E. (2017). Learning Analytics Dashboards. In The Handbook of Learning Analytics (1st ed., pp. 143–150). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter12/)
 * [Gelman, A., & Niemi, J. (2011). Statistical graphics: making information clear – and beautiful, *Significance*, September, 134-136](http://www.stat.columbia.edu/~gelman/research/published/niemi.pdf)  
 * [Wainer, H. (1984). How to display data badly, *The American Statistician*, 38(2), 137-147](http://rci.rutgers.edu/%7Eroos/Courses/grstat502/wainer.pdf)  
 
@@ -275,7 +276,7 @@ Swirl:
 
 Read:
 * [Kucirkova, N. and FitzGerald, E. 2015. Zuckerberg is Ploughing Billions into “Personalised Learning” – Why? The Conversation.](https://theconversation.com/zuckerberg-is-ploughing-billions-into-personalised-learning-why-51940)
-* [San Pedro, M.O.Z., Baker, R.S.J.d., Bowers, A.J., Heffernan, N.T. (2013) Predicting College Enrollment from Student Interaction with a Intelligent Tutoring System in Middle School. Proceedings of the 6th International Conference on Educational Data Mining, 177-184.](http://www.columbia.edu/~rsb2162/EDM2013_SBBH.pdf)
+* [Brooks, C., & Thompson, C. (2017). Predictive Modelling in Teaching and Learning. In The Handbookf of Learning Analytics (1st ed., pp. 61–68). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter5/)
 
 ## Class 21 - Prediction (11/16/17)
 
@@ -300,8 +301,7 @@ Due: Assignment 5 - Prediction
 
 Read:
 
-* [Cortez, P., & Silva, A. M. G. (2008). Using data mining to predict secondary school student performance. In Proceedings of 5th Annual Future Business Technology Conference. Porto, Spain: EUROSIS.](http://hdl.handle.net/1822/8024)
-* [Baker, R.S.J.d., Corbett, A.T., Roll, I., Koedinger, K.R. (2008) Developing a Generalizable Detector of When Students Game the System. User Modeling and User-Adapted Interaction, 18, 3, 287-314.](https://link.springer.com/article/10.1007/s11257-007-9045-6)
+* [Liu, R., & Koedinger, K. (2017). Going Beyond Better Data Prediction to Create Explanatory Models of Educational Data. In The Handbook of Learning Analytics (1st ed., pp. 69–76). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter6/)
 
 ## Class 23 - Classification (11/23/17)
 
