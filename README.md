@@ -81,7 +81,8 @@ Due: Assignment 1 - Set up
 
 ### Tasks to be completed:
 
-Read/watch: 
+Read:
+* [Bergner, Y. (2017). Measurement and its Uses in Learning Analytics. In C. Lang, G. Siemens, A. F. Wise, & D. Gaševic (Eds.), The Handbook of Learning Analytics (1st ed., pp. 34–48). Vamcouver, BC: Society for Learning Analytics Research.](http://solaresearch.org/hla-17/hla17-chapter1)
 * [The R Markdown Cheat sheet: 2014.](http://shiny.rstudio.com/articles/rm-cheatsheet.html)
 
 Swirl:
@@ -98,7 +99,7 @@ Swirl:
 ### Tasks to be completed:
 
 Read:
-* [Prinsloo, P., & Slade, S. (2017). Ethics and Learning Analytics: Charting the (Un)Charted. In The Handbook of Learning Analytics (1st ed., pp. 49–57). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter4/)
+* [Prinsloo, P., & Slade, S. (2017). Ethics and Learning Analytics: Charting the (Un)Charted. In C. Lang, G. Siemens, A. F. Wise, & D. Gaševic (Eds.), The Handbook of Learning Analytics (1st ed., pp. 49–57). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter4/)
 * [Greller, W., & Drachsler, H. (2012). Translating Learning into Numbers: A Generic Framework for Learning Analytics. Journal of Educational Technology & Society, 15(3), 42–57.](https://www.jstor.org/stable/jeductechsoci.15.3.42?seq=1#page_scan_tab_contents)
  
 ## Class 5 - Data Wrangling (9/21/17)
@@ -150,7 +151,7 @@ Swirl:
 ### Tasks to be completed:
 
 Read:
-* [Klerkx, J., Verbert, K., & Duval, E. (2017). Learning Analytics Dashboards. In The Handbook of Learning Analytics (1st ed., pp. 143–150). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter12/)
+* [Klerkx, J., Verbert, K., & Duval, E. (2017). Learning Analytics Dashboards. In C. Lang, G. Siemens, A. F. Wise, & D. Gaševic (Eds.),The Handbook of Learning Analytics (1st ed., pp. 143–150). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter12/)
 * [Gelman, A., & Niemi, J. (2011). Statistical graphics: making information clear – and beautiful, *Significance*, September, 134-136](http://www.stat.columbia.edu/~gelman/research/published/niemi.pdf)  
 * [Wainer, H. (1984). How to display data badly, *The American Statistician*, 38(2), 137-147](http://rci.rutgers.edu/%7Eroos/Courses/grstat502/wainer.pdf)  
 
