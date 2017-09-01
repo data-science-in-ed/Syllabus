@@ -364,7 +364,7 @@ Watch:
 
 ## Class 28 - Work Session: Assignment 8, Group Project (12/12/17)
 
-##### Due: Assignment 8 - Quantified Student
+#### Due: Assignment 8 - Quantified Student
 
 ## Class 29 - Rate video presentations (12/14/17)
 
