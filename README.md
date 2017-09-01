@@ -72,7 +72,7 @@ Read/watch:
   * [Siemens, G. and Baker, R.S.J. d. 2012. Learning Analytics and Educational Data Mining: Towards Communication and Collaboration. Proceedings of the 2nd International Conference on Learning Analytics and Knowledge (New York, NY, USA, 2012), 252–254.](http://users.wpi.edu/~rsbaker/LAKs%20reformatting%20v2.pdf)
   * [Educause 2015. Why Is Measuring Learning So Difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v)
 
-Due: Assignment 1 - Set up
+#### Due: Assignment 1 - Set up
 
 ## Class 3 - Data Sources (9/14/17)
 
@@ -189,7 +189,7 @@ Read:
 
 * [Hanneman, R.A. and Riddle, M. Chapter 1: Social Network Data. Introduction to Social Network Methods.](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
 
-Due: Assignment 2 - Social Network
+#### Due: Assignment 2 - Social Network
 
 ## Class 14 - Clustering (10/24/17)
 
@@ -213,7 +213,7 @@ Read:
 Watch:
 * Chapter 7 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/mgXm3AwLxP8), [video 2](https://youtu.be/B9dvJYwBfmk)
 
-Due: Assignment 3 - Clustering
+#### Due: Assignment 3 - Clustering
 
 ## Class 16 - Principal Component Analysis (10/31/17)
 
@@ -238,7 +238,7 @@ Read:
 Watch:
 * [Georgia Tech 2015. Feature Selection. Youtube.](https://www.youtube.com/watch?v=8CpRLplmdqE)
 
-Due: Assignment 4 - Principal Component Analysis
+##### Due: Assignment 4 - Principal Component Analysis
 
 ## Class 18 - Domain Structure Discovery (11/7/17)
 
@@ -290,7 +290,7 @@ Read:
 Watch:
 * Chapter 1 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/dc5Nx3tyR8g)
 
-Due: Assignment 5 - Prediction
+#### Due: Assignment 5 - Prediction
 
 ## Class 22 - Classification (11/21/17)
 
@@ -331,7 +331,7 @@ Watch:
 * Chapter 2 in Baker, R. (2014). Big Data in Education: [video 5](https://youtu.be/1P34cxpEdKA)
 * [Georgia Tech 2015. Cross Validation. Youtube.](https://youtu.be/sFO2ff-gTh0)
 
-Due: Assignment 6 - CART Models
+#### Due: Assignment 6 - CART Models
 
 ## Class 25 - Knowledge Tracing (11/30/17)
 
@@ -358,13 +358,13 @@ Swirl:
 Watch:
 * Chapter 4 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/_7CtthPZJ70)
 
-Due: Assignment 7 - Diagnostic Metrics
+##### Due: Assignment 7 - Diagnostic Metrics
 
 ## Class 27 - Work Session: Assignment 8, Group Project (12/7/17)
 
 ## Class 28 - Work Session: Assignment 8, Group Project (12/12/17)
 
-Due: Assignment 8 - Quantified Student
+##### Due: Assignment 8 - Quantified Student
 
 ## Class 29 - Rate video presentations (12/14/17)
 
