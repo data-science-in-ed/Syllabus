@@ -350,9 +350,11 @@ Swirl:
 
 ## Class 30 - Rate video presentations (12/19/17)
 
+## EVERYTHING DUE - 12/21/17
 
+----------------------------------------------------
 
-## Fine Print
+# Fine Print
 
 1. All examinations, papers, and other graded work and assignments are to be completed in conformance with the [Academic Integrity Policy](http://www.tc.columbia.edu/administration/diversity/index.asp? Id=Civility+Resources+and+Policies&Info=Civility+Resources+and+Policies&Area=Studen t+Miscon duct+Policy). Students who intentionally submit work either not their own or without clear attribution to the original source, fabricate data or other information, engage in cheating, or misrepresentation of academic records may be subject to charges. Sanctions may include dismissal from the college for violation of the TC principles of academic and professional integrity fundamental to the purpose of the College.
 
