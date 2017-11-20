@@ -304,18 +304,7 @@ Read:
 
 * [Liu, R., & Koedinger, K. (2017). Going Beyond Better Data Prediction to Create Explanatory Models of Educational Data. In The Handbook of Learning Analytics (1st ed., pp. 69–76). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter6/)
 
-## Class 23 - Classification (11/23/17)
-
-### Learning Objectives:
-
- * Implement a CART model
-
-### Tasks to be completed:
-
-Watch:
-* Chapter 1 in Baker, R. (2014). Big Data in Education: [video 3](https://youtu.be/k9Z4ibzH-1s) & [video 4](https://youtu.be/8X0UlMShss4)
-
-## Class 24 - Diagnostic Metrics (11/28/17)
+## Class 23 - Diagnostic Metrics (11/28/17)
 
 ### Learning Objectives:
 
@@ -347,16 +336,7 @@ Read:
 Swirl:
 * Unit 4 - Prediction
 
-## Class 26 - Knowledge Tracing (12/5/17)
-
-### Learning Objectives:
-
- * Understand Bayesian Knowledge Tracing 
-
-### Tasks to be completed:
-
-Watch:
-* Chapter 4 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/_7CtthPZJ70)
+## Class 26 - Formative Test II (12/5/17)
 
 ##### Due: Assignment 7 - Diagnostic Metrics
 
