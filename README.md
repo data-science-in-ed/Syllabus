@@ -6,7 +6,7 @@
 * **Location:** GDH 285
 * **Instructor Office Hours:** Thursdays, 3:00pm - 5:00pm in GDH 454
 
-**[Please make an appointment to attend office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ)** 
+**[Please make an appointment to attend office hours here](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ)** 
 
 **If no appointments are available or you cannot attend those that are please send an email to charles.lang@tc.columbia.edu and CC amy@x.ai**   
 
