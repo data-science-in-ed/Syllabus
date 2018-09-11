@@ -84,7 +84,7 @@ Read/watch:
 ### Tasks to be completed:
 
 Read:
-* [Bergner, Y. (2017). Measurement and its Uses in Learning Analytics. In C. Lang, G. Siemens, A. F. Wise, & D. Gaševic (Eds.), The Handbook of Learning Analytics (1st ed., pp. 34–48). Vamcouver, BC: Society for Learning Analytics Research.](http://solaresearch.org/hla-17/hla17-chapter1)
+* [Bergner, Y. (2017). Measurement and its Uses in Learning Analytics. In C. Lang, G. Siemens, A. F. Wise, & D. Gaševic (Eds.), The Handbook of Learning Analytics (1st ed., pp. 34–48). Vancouver, BC: Society for Learning Analytics Research.](http://solaresearch.org/hla-17/hla17-chapter1)
 * [The R Markdown Cheat sheet: 2014.](http://shiny.rstudio.com/articles/rm-cheatsheet.html)
 
 Swirl:
