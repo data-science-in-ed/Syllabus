@@ -35,6 +35,7 @@ Weekly:
  * Weekly readings
  * Compete Swirl course
  * Maintain documentation of work (Github, R Markdown, Zotero)
+ * Ask or answer a question on Vectr
 
 One time only:
  * Ask one question on Stack Overflow
