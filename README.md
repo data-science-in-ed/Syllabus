@@ -35,13 +35,14 @@ Weekly:
  * Weekly readings
  * Compete Swirl course
  * Maintain documentation of work (Github, R Markdown, Zotero)
+ * Ask or answer questions on Vectr (about an article)
 
 One time only:
  * Ask one question on Stack Overflow
  * In person meeting with instructor
  * 8 short assignments (including one group assignment)
  * Group presentation of group assignment, 3-5 students each
- * Submit Zotero file with semester's notes  
+
 
 ## Week-by-week
 
