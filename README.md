@@ -56,14 +56,14 @@ One time only:
 
 # <A NAME="unit1:">Unit 1: Introduction
 
-## Class 1 - Introduction (9/7/17)
+## Class 1 - Introduction (9/6/18)
 ### Learning Objectives
 
 * Be familiar with course philosophy, logic & structure
 * Install and be familiar with the software to be used in the course
 * Appreciate the importance of tightly defining educational goals
 
-## Class 2 - LA, EDM and the Learning Sciences (9/12/17)
+## Class 2 - LA, EDM and the Learning Sciences (9/11/18)
 
 ### Learning Objectives
 
@@ -77,7 +77,7 @@ Read/watch:
 
 #### Due: Assignment 1 - Set up
 
-## Class 3 - Data Sources (9/14/17)
+## Class 3 - Data Sources (9/13/18)
 
 * Be familiar with a range of data sources, formats and extraction processes
 * Be familiar with R & Github & markdown
@@ -93,7 +93,7 @@ Swirl:
 
 # <A NAME="unit2">Unit 2: Data Sources & their Manipulation
 
-## Class 4 - Data Wrangling (9/19/17)
+## Class 4 - Data Wrangling (9/18/18)
 
 ### Learning Objectives:
 
@@ -105,7 +105,7 @@ Read:
 * [Prinsloo, P., & Slade, S. (2017). Ethics and Learning Analytics: Charting the (Un)Charted. In C. Lang, G. Siemens, A. F. Wise, & D. Gaševic (Eds.), The Handbook of Learning Analytics (1st ed., pp. 49–57). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter4/)
 * [Greller, W., & Drachsler, H. (2012). Translating Learning into Numbers: A Generic Framework for Learning Analytics. Journal of Educational Technology & Society, 15(3), 42–57.](https://www.jstor.org/stable/jeductechsoci.15.3.42?seq=1#page_scan_tab_contents)
  
-## Class 5 - Data Wrangling (9/21/17)
+## Class 5 - Data Wrangling (9/20/18)
 
 ### Learning Objectives:
 
@@ -118,13 +118,13 @@ Read:
 
 * [Data Wrangling Cheatsheet: 2015.](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 
-## Class 6 - Data Wrangling (9/26/17)
+## Class 6 - Data Wrangling (9/25/18)
 
 Read:
 * [Clow, D. 2014. Data wranglers: human interpreters to help close the feedback loop. Proceedings of the Fourth International Conference on Learning Analytics And Knowledge (2014), 49–53.](http://oro.open.ac.uk/40608/2/Clow-DataWranglers-final.pdf)
 * [Young, J.R. 2014. Why Students Should Own Their Educational Data. The Chronicle of Higher Education Blogs: Wired Campus.](http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329)
 
-## Class 7 - Data Wrangling (9/28/17)
+## Class 7 - Data Wrangling (9/27/18)
 
 ### Learning Objectives:
 
@@ -140,11 +140,11 @@ Swirl:
 
 # <A NAME="unit3">Unit 3: Structure Discovery
 
-## Class 8 - Ed Pioneers Class Visit (10/3/17)
+## Class 8 - Ed Pioneers Class Visit (10/2/18)
 
-## Class 9 - Check-in Exam (10/5/17)
+## Class 9 - Check-in Exam (10/4/18)
 
-## Class 10 - Visualization (10/10/17)
+## Class 10 - Visualization (10/9/18)
 
 ### Learning Objectives:
 
@@ -159,7 +159,7 @@ Read:
 * [Wainer, H. (1984). How to display data badly, *The American Statistician*, 38(2), 137-147](http://rci.rutgers.edu/%7Eroos/Courses/grstat502/wainer.pdf)  
 
 
-## Class 11 - Visualization (10/12/17)
+## Class 11 - Visualization (10/11/18)
 
 ### Learning Objectives:
 
@@ -169,7 +169,7 @@ Read:
 * [Gelman, A., & Unwin, A. (2012). Infovis and Statistical Graphics: Different Goals, Different Looks (with discussion)](http://www.stat.columbia.edu/~gelman/research/published/vis14.pdf)  
 * [Fung, K. (2014). Junkcharts Trifecta Checkup: The Definitive Guide](http://junkcharts.typepad.com/junk_charts/junk-charts-trifecta-checkup-the-definitive-guide.html)  
 
-## Class 12 - Networks (10/17/17)
+## Class 12 - Networks (10/16/18)
 
 ### Learning Objectives:
 
@@ -180,7 +180,7 @@ Read:
 Read:
 * [Grunspan, D. Z., Wiggins, B. L., & Goodreau, S. M. (2014). Understanding Classrooms through Social Network Analysis: A Primer for Social Network Analysis in Education Research. CBE-Life Sciences Education, 13(2), 167–178.](http://www.lifescied.org/content/13/2/167.full.pdf)
 
-## Class 13 - Networks (10/19/17)
+## Class 13 - Networks (10/18/18)
 
 ### Learning Objectives:
 
@@ -194,7 +194,7 @@ Read:
 
 #### Due: Assignment 2 - Social Network
 
-## Class 14 - Clustering (10/24/17)
+## Class 14 - Clustering (10/23/18)
 
 ### Learning Objectives:
 
@@ -205,7 +205,7 @@ Read:
 Read:
 * [Bowers, A.J. (2010) Analyzing the Longitudinal K-12 Grading Histories of Entire Cohorts of Students: Grades, Data Driven Decision Making, Dropping Out and Hierarchical Cluster Analysis. Practical Assessment, Research & Evaluation (PARE), 15(7), 1-18.](http://pareonline.net/pdf/v15n7.pdf)
 
-## Class 15 - Clustering (10/26/17)
+## Class 15 - Clustering (10/25/18)
 
 ### Learning Objectives:
 
@@ -218,7 +218,7 @@ Watch:
 
 #### Due: Assignment 3 - Clustering
 
-## Class 16 - Principal Component Analysis (10/31/17)
+## Class 16 - Principal Component Analysis (10/30/18)
 
 ### Learning Objectives:
 
@@ -230,7 +230,7 @@ Watch:
 Read:
 * [Konstan, J. A., Walker, J. D., Brooks, D. C., Brown, K., & Ekstrand, M. D. (2015). Teaching Recommender Systems at Large Scale: Evaluation and Lessons Learned from a Hybrid MOOC. ACM Trans. Comput.-Hum. Interact., 22(2), 10:1–10:23.](https://dl.acm.org/citation.cfm?id=2728171)
 
-## Class 17 - Principal Component Analysis (11/2/17)
+## Class 17 - Principal Component Analysis (11/1/18)
 
 ### Learning Objectives:
 
@@ -243,7 +243,7 @@ Watch:
 
 ##### Due: Assignment 4 - Principal Component Analysis
 
-## Class 18 - Domain Structure Discovery (11/7/17)
+## Class 18 - Domain Structure Discovery (11/6/18)
 
 ### Learning Objectives:
 
@@ -254,7 +254,7 @@ Watch:
 Read:
 * [Matsuda, N., Furukawa, T., Bier, N., & Faloutsos, C. (2015). Machine Beats Experts: Automatic Discovery of Skill Models for Data-Driven Online Course Refinement. International Educational Data Mining Society.](http://eric.ed.gov/?id=ED560513) 
 
-## Class 19 - Domain Structure Discovery (11/9/17)
+## Class 19 - Domain Structure Discovery (11/8/18)
 
 ### Learning Objectives:
 
@@ -270,7 +270,7 @@ Swirl:
 
 # <A NAME="unit4">Unit 4: Prediction
 
-## Class 20 - Prediction (11/14/17)
+## Class 20 - Prediction (11/13/18)
 
 ### Learning Objectives:
 
@@ -282,7 +282,7 @@ Read:
 * [Kucirkova, N. and FitzGerald, E. 2015. Zuckerberg is Ploughing Billions into “Personalised Learning” – Why? The Conversation.](https://theconversation.com/zuckerberg-is-ploughing-billions-into-personalised-learning-why-51940)
 * [Brooks, C., & Thompson, C. (2017). Predictive Modelling in Teaching and Learning. In The Handbookf of Learning Analytics (1st ed., pp. 61–68). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter5/)
 
-## Class 21 - Prediction (11/16/17)
+## Class 21 - Prediction (11/15/18)
 
 ### Learning Objectives:
 
@@ -295,7 +295,7 @@ Watch:
 
 #### Due: Assignment 5 - Prediction
 
-## Class 22 - Classification (11/21/17)
+## Class 22 - Classification (11/20/18)
 
 ### Learning Objectives:
 
@@ -307,7 +307,7 @@ Read:
 
 * [Liu, R., & Koedinger, K. (2017). Going Beyond Better Data Prediction to Create Explanatory Models of Educational Data. In The Handbook of Learning Analytics (1st ed., pp. 69–76). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter6/)
 
-## Class 23 - Classification (11/23/17)
+## Class 23 - Classification (11/22/18)
 
 ### Learning Objectives:
 
@@ -318,7 +318,7 @@ Read:
 Watch:
 * Chapter 1 in Baker, R. (2014). Big Data in Education: [video 3](https://youtu.be/k9Z4ibzH-1s) & [video 4](https://youtu.be/8X0UlMShss4)
 
-## Class 24 - Diagnostic Metrics (11/28/17)
+## Class 24 - Diagnostic Metrics (11/27/18)
 
 ### Learning Objectives:
 
@@ -336,7 +336,7 @@ Watch:
 
 #### Due: Assignment 6 - CART Models
 
-## Class 25 - Knowledge Tracing (11/30/17)
+## Class 25 - Knowledge Tracing (11/29/18)
 
 ### Learning Objectives:
 
@@ -350,7 +350,7 @@ Read:
 Swirl:
 * Unit 4 - Prediction
 
-## Class 26 - Knowledge Tracing (12/5/17)
+## Class 26 - Knowledge Tracing (12/4/18)
 
 ### Learning Objectives:
 
@@ -363,15 +363,15 @@ Watch:
 
 ##### Due: Assignment 7 - Diagnostic Metrics
 
-## Class 27 - Work Session: Assignment 8, Group Project (12/7/17)
+## Class 27 - Work Session: Assignment 8, Group Project (12/6/18)
 
-## Class 28 - Work Session: Assignment 8, Group Project (12/12/17)
+## Class 28 - Work Session: Assignment 8, Group Project (12/11/18)
 
 #### Due: Assignment 8 - Quantified Student
 
-## Class 29 - Rate video presentations (12/14/17)
+## Class 29 - Rate video presentations (12/13/18)
 
-## Class 30 - Rate video presentations (12/19/17)
+## Class 30 - Rate video presentations (12/18/18)
 
 
 
