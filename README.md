@@ -3,7 +3,7 @@
 * **Course:** [HUDK 4050, Teachers College, Columbia](http://www.columbia.edu/~rsb2162/EDM2015/index.html)
 * **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](lang2@tc.columbia.edu), @learng00d
 * **Day/Time:** Tuesdays/Thursdays, 5:10pm - 6:50pm  
-* **Location:** GDH 285
+* **Location:** GDH 363
 * **Instructor Office Hours:** Thursdays, 3:00pm - 5:00pm in GDH 454 - **[Please make an appointment to attend office hours here](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ)** 
 **(If no appointments are available or you cannot attend those that are please send an email to charles.lang@tc.columbia.edu and CC amy@x.ai)**   
 
@@ -26,7 +26,7 @@ This necessarily means that students become comfortable with the educational app
 
 ## Assessment
 
-In EDCT-GE 2550 students will be attempting several data science projects, however, unlike most courses, students will not be asssessed based on how successful they are in completing these projects. Rather students will be assessed on two key components that will contribute to their future sucess in the field: contribution and organization. **Contribution** reflects the extent to which students participate in the course, whether or not students complete assignments and quizzes, attend class, etc. **Organization** reflects how well students document their process and maintain data and software resources. For example, maintaining a well organized bibliographic library with notes, maintaining a well organized Github account and maintaining organized data sets that are labelled appropriately. To do well in HUDM 4050 requires that students finish the course with the resources to sucessfully use data science in education *in the future*. Do the work and stay organized and all will be well!
+In HUDK 4050 students will be attempting several data science projects, however, unlike most courses, students will not be asssessed based on how successful they are in completing these projects. Rather students will be assessed on two key components that will contribute to their future sucess in the field: contribution and organization. **Contribution** reflects the extent to which students participate in the course, whether or not students complete assignments and quizzes, attend class, etc. **Organization** reflects how well students document their process and maintain data and software resources. For example, maintaining a well organized bibliographic library with notes, maintaining a well organized Github account and maintaining organized data sets that are labelled appropriately. To do well in HUDK 4050 requires that students finish the course with the resources to sucessfully use data science in education *in the future*. Do the work and stay organized and all will be well!
 
 Tasks that need to be completed during the semester:
 
