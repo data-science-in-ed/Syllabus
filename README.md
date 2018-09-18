@@ -104,7 +104,7 @@ Read:
 * [Prinsloo, P., & Slade, S. (2017). Ethics and Learning Analytics: Charting the (Un)Charted. In C. Lang, G. Siemens, A. F. Wise, & D. Gaševic (Eds.), The Handbook of Learning Analytics (1st ed., pp. 49–57). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter4/)
 * [Greller, W., & Drachsler, H. (2012). Translating Learning into Numbers: A Generic Framework for Learning Analytics. Journal of Educational Technology & Society, 15(3), 42–57.](https://www.jstor.org/stable/jeductechsoci.15.3.42?seq=1#page_scan_tab_contents)
  
-## Class 5 - Data Wrangling (9/20/17)
+## Class 5 - Data Wrangling (9/20/18)
 
 ### Learning Objectives:
 
