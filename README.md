@@ -1,12 +1,14 @@
-# Core Methods in Educational Data Mining: Syllabus
+# Core Methods in Educational Data Mining: Syllabus 
 
 Introducation class
 
 * **Course:** [HUDK 4050, Teachers College, Columbia](http://www.columbia.edu/~rsb2162/EDM2015/index.html)
 * **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](lang2@tc.columbia.edu), @learng00d
-* **Day/Time:** Tuesdays/Thursdays, 11:00am - 12:40pm  
-* **Location:** GDH 535
-* **Instructor Office Hours:** Thursdays, 1:00pm - 3:00pm or [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ) in GDH 540
+* **Day/Time:** Tuesdays/Thursdays, 5:10pm - 6:50pm  
+* **Location:** GDH 363
+* **Instructor Office Hours:** Thursdays, 3:00pm - 5:00pm in GDH 454 - **[Please make an appointment to attend office hours here](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ)** 
+**(If no appointments are available or you cannot attend those that are please send an email to charles.lang@tc.columbia.edu and CC amy@x.ai)**   
+
 *  **Prerequisite:** HUDM 5122 *or* HUDM 5126 *or* approved statistics/computer science data mining course.
 *  **Credits:** 3
 *  **Required Technology:** Laptop with RStudio installed, Phone with the Sensor Kinetics Pro app installed
@@ -26,14 +28,14 @@ This necessarily means that students become comfortable with the educational app
 
 ## Assessment
 
-In EDCT-GE 2550 students will be attempting several data science projects, however, unlike most courses, students will not be asssessed based on how successful they are in completing these projects. Rather students will be assessed on two key components that will contribute to their future sucess in the field: contribution and organization. **Contribution** reflects the extent to which students participate in the course, whether or not students complete assignments and quizzes, attend class, etc. **Organization** reflects how well students document their process and maintain data and software resources. For example, maintaining a well organized bibliographic library with notes, maintaining a well organized Github account and maintaining organized data sets that are labelled appropriately. To do well in HUDM 4050 requires that students finish the course with the resources to sucessfully use data science in education *in the future*. Do the work and stay organized and all will be well!
+In HUDK4050 students will be attempting several data science projects, however, unlike most courses, students will not be asssessed based on how successful they are in completing these projects. Rather students will be assessed on two key components that will contribute to their future sucess in the field: contribution and organization. **Contribution** reflects the extent to which students participate in the course, whether or not students complete assignments and quizzes, attend class, etc. **Organization** reflects how well students document their process and maintain data and software resources. For example, maintaining a well organized bibliographic library with notes, maintaining a well organized Github account and maintaining organized data sets that are labelled appropriately. To do well in HUDK 4050 requires that students finish the course with the resources to sucessfully use data science in education *in the future*. Do the work and stay organized and all will be well!
 
 Tasks that need to be completed during the semester:
 
 Weekly:
  * Attend class
  * Weekly readings
- * Compete Swirl course
+ * Complete Swirl course
  * Maintain documentation of work (Github, R Markdown, Zotero)
  * Ask or answer questions on Vectr (about an article)
 
@@ -205,7 +207,9 @@ Read:
 Read:
 * [Bowers, A.J. (2010) Analyzing the Longitudinal K-12 Grading Histories of Entire Cohorts of Students: Grades, Data Driven Decision Making, Dropping Out and Hierarchical Cluster Analysis. Practical Assessment, Research & Evaluation (PARE), 15(7), 1-18.](http://pareonline.net/pdf/v15n7.pdf)
 
+
 ## Class 15 - Clustering (10/25/18)
+
 
 ### Learning Objectives:
 
@@ -307,6 +311,7 @@ Read:
 
 * [Liu, R., & Koedinger, K. (2017). Going Beyond Better Data Prediction to Create Explanatory Models of Educational Data. In The Handbook of Learning Analytics (1st ed., pp. 69–76). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter6/)
 
+
 ## Class 23 - Classification (11/22/18)
 
 ### Learning Objectives:
@@ -350,6 +355,7 @@ Read:
 Swirl:
 * Unit 4 - Prediction
 
+
 ## Class 26 - Knowledge Tracing (12/4/18)
 
 ### Learning Objectives:
@@ -373,9 +379,11 @@ Watch:
 
 ## Class 30 - Rate video presentations (12/18/18)
 
+## EVERYTHING DUE - 12/20/18
 
+----------------------------------------------------
 
-## Fine Print
+# Fine Print
 
 1. All examinations, papers, and other graded work and assignments are to be completed in conformance with the [Academic Integrity Policy](http://www.tc.columbia.edu/administration/diversity/index.asp? Id=Civility+Resources+and+Policies&Info=Civility+Resources+and+Policies&Area=Studen t+Miscon duct+Policy). Students who intentionally submit work either not their own or without clear attribution to the original source, fabricate data or other information, engage in cheating, or misrepresentation of academic records may be subject to charges. Sanctions may include dismissal from the college for violation of the TC principles of academic and professional integrity fundamental to the purpose of the College.
 
