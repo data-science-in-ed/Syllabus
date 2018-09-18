@@ -33,7 +33,7 @@ Tasks that need to be completed during the semester:
 Weekly:
  * Attend class
  * Weekly readings
- * Compete Swirl course
+ * Complete Swirl course
  * Maintain documentation of work (Github, R Markdown, Zotero)
 
 One time only:
