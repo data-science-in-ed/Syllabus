@@ -196,8 +196,7 @@ Read:
 
 #### Due: Assignment 2 - Social Network
 
-## Class 14 - Clustering (10/23/18)
-
+## Class 14 - Clustering (10/23/17)
 ### Learning Objectives:
 
  * Understand the basic principle and algorithm behind cluster analysis
@@ -207,9 +206,7 @@ Read:
 Read:
 * [Bowers, A.J. (2010) Analyzing the Longitudinal K-12 Grading Histories of Entire Cohorts of Students: Grades, Data Driven Decision Making, Dropping Out and Hierarchical Cluster Analysis. Practical Assessment, Research & Evaluation (PARE), 15(7), 1-18.](http://pareonline.net/pdf/v15n7.pdf)
 
-
-## Class 15 - Clustering (10/25/18)
-
+## Class 15 - Clustering (10/25/17)
 
 ### Learning Objectives:
 
