@@ -1,5 +1,7 @@
 # Core Methods in Educational Data Mining: Syllabus 
 
+Introducation class
+
 * **Course:** [HUDK 4050, Teachers College, Columbia](http://www.columbia.edu/~rsb2162/EDM2015/index.html)
 * **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](lang2@tc.columbia.edu), @learng00d
 * **Day/Time:** Tuesdays/Thursdays, 5:10pm - 6:50pm  
@@ -35,13 +37,14 @@ Weekly:
  * Weekly readings
  * Complete Swirl course
  * Maintain documentation of work (Github, R Markdown, Zotero)
+ * Ask or answer questions on Vectr (about an article)
 
 One time only:
  * Ask one question on Stack Overflow
  * In person meeting with instructor
  * 8 short assignments (including one group assignment)
  * Group presentation of group assignment, 3-5 students each
- * Submit Zotero file with semester's notes  
+
 
 ## Week-by-week
 
@@ -193,7 +196,7 @@ Read:
 
 #### Due: Assignment 2 - Social Network
 
-## Class 14 - Clustering (10/22/18)
+## Class 14 - Clustering (10/23/18)
 
 ### Learning Objectives:
 
@@ -204,7 +207,9 @@ Read:
 Read:
 * [Bowers, A.J. (2010) Analyzing the Longitudinal K-12 Grading Histories of Entire Cohorts of Students: Grades, Data Driven Decision Making, Dropping Out and Hierarchical Cluster Analysis. Practical Assessment, Research & Evaluation (PARE), 15(7), 1-18.](http://pareonline.net/pdf/v15n7.pdf)
 
-## Class 15 - Clustering (10/24/18)
+
+## Class 15 - Clustering (10/25/18)
+
 
 ### Learning Objectives:
 
@@ -306,7 +311,19 @@ Read:
 
 * [Liu, R., & Koedinger, K. (2017). Going Beyond Better Data Prediction to Create Explanatory Models of Educational Data. In The Handbook of Learning Analytics (1st ed., pp. 69–76). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter6/)
 
-## Class 23 - Diagnostic Metrics (11/27/18)
+
+## Class 23 - Classification (11/22/18)
+
+### Learning Objectives:
+
+ * Implement a CART model
+
+### Tasks to be completed:
+
+Watch:
+* Chapter 1 in Baker, R. (2014). Big Data in Education: [video 3](https://youtu.be/k9Z4ibzH-1s) & [video 4](https://youtu.be/8X0UlMShss4)
+
+## Class 24 - Diagnostic Metrics (11/27/18)
 
 ### Learning Objectives:
 
@@ -338,13 +355,23 @@ Read:
 Swirl:
 * Unit 4 - Prediction
 
-## Class 26 - Formative Test II (12/4/18)
+
+## Class 26 - Knowledge Tracing (12/4/18)
+
+### Learning Objectives:
+
+ * Understand Bayesian Knowledge Tracing 
+
+### Tasks to be completed:
+
+Watch:
+* Chapter 4 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/_7CtthPZJ70)
 
 ##### Due: Assignment 7 - Diagnostic Metrics
 
-## Class 27 - Work Session: Assignment 8, Group Project (12/6/17)
+## Class 27 - Work Session: Assignment 8, Group Project (12/6/18)
 
-## Class 28 - Work Session: Assignment 8, Group Project (12/11/17)
+## Class 28 - Work Session: Assignment 8, Group Project (12/11/18)
 
 #### Due: Assignment 8 - Quantified Student
 
