@@ -55,7 +55,7 @@ One time only:
 
 # <A NAME="unit1:">Unit 1: Introduction
 
-## Class 1 - Introduction (9/6/17)
+## Class 1 - Introduction (9/6/18)
 ### Learning Objectives
 
 * Be familiar with course philosophy, logic & structure
