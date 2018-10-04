@@ -143,24 +143,16 @@ Swirl:
 
 # <A NAME="unit3">Unit 3: Structure Discovery
 
-## Class 8 - Ed Pioneers Class Visit (10/2/18)
+## Class 8 - Teachley Class Visit (10/2/18)
 
-## Class 9 - Check-in Exam (10/4/18)
+## Class 9 - Start Social Networks (10/4/18)
 
-## Class 10 - Visualization (10/9/18)
+## Class 10 - Check-in Exam (10/9/18)
 
 ### Learning Objectives:
 
  * Understand the place of data visualization in the data analysis cycle
  * Be familiar with a range of data simulation commands
-
-### Tasks to be completed:
-
-Read:
-* [Klerkx, J., Verbert, K., & Duval, E. (2017). Learning Analytics Dashboards. In C. Lang, G. Siemens, A. F. Wise, & D. Gaševic (Eds.),The Handbook of Learning Analytics (1st ed., pp. 143–150). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter12/)
-* [Gelman, A., & Niemi, J. (2011). Statistical graphics: making information clear – and beautiful, *Significance*, September, 134-136](http://www.stat.columbia.edu/~gelman/research/published/niemi.pdf)  
-* [Wainer, H. (1984). How to display data badly, *The American Statistician*, 38(2), 137-147](http://rci.rutgers.edu/%7Eroos/Courses/grstat502/wainer.pdf)  
-
 
 ## Class 11 - Visualization (10/11/18)
 
