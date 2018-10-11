@@ -75,7 +75,7 @@ One time only:
 ### Tasks to be completed:
 
 Read/watch:
-  * [Siemens, G. and Baker, R.S.J. d. 2012. Learning Analytics and Educational Data Mining: Towards Communication and Collaboration. Proceedings of the 2nd International Conference on Learning Analytics and Knowledge (New York, NY, USA, 2012), 252–254.](http://users.wpi.edu/~rsbaker/LAKs%20reformatting%20v2.pdf)
+  * [Siemens, George. and Baker, Ryan S.J. d. 2012. Learning Analytics and Educational Data Mining: Towards Communication and Collaboration. Proceedings of the 2nd International Conference on Learning Analytics and Knowledge (New York, NY, USA, 2012), 252–254.](http://users.wpi.edu/~rsbaker/LAKs%20reformatting%20v2.pdf)
   * [Educause 2015. Why Is Measuring Learning So Difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v)
 
 #### Due: Assignment 1 - Set up
@@ -88,7 +88,7 @@ Read/watch:
 ### Tasks to be completed:
 
 Read:
-* [Bergner, Y. (2017). Measurement and its Uses in Learning Analytics. In C. Lang, G. Siemens, A. F. Wise, & D. Gaševic (Eds.), The Handbook of Learning Analytics (1st ed., pp. 34–48). Vancouver, BC: Society for Learning Analytics Research.](http://solaresearch.org/hla-17/hla17-chapter1)
+* [Bergner, Yoav. (2017). Measurement and its Uses in Learning Analytics. In C. Lang, G. Siemens, A. F. Wise, & D. Gaševic (Eds.), The Handbook of Learning Analytics (1st ed., pp. 34–48). Vancouver, BC: Society for Learning Analytics Research.](http://solaresearch.org/hla-17/hla17-chapter1)
 * [The R Markdown Cheat sheet: 2014.](http://shiny.rstudio.com/articles/rm-cheatsheet.html)
 
 Swirl:
@@ -105,8 +105,8 @@ Swirl:
 ### Tasks to be completed:
 
 Read:
-* [Prinsloo, P., & Slade, S. (2017). Ethics and Learning Analytics: Charting the (Un)Charted. In C. Lang, G. Siemens, A. F. Wise, & D. Gaševic (Eds.), The Handbook of Learning Analytics (1st ed., pp. 49–57). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter4/)
-* [Greller, W., & Drachsler, H. (2012). Translating Learning into Numbers: A Generic Framework for Learning Analytics. Journal of Educational Technology & Society, 15(3), 42–57.](https://www.jstor.org/stable/jeductechsoci.15.3.42?seq=1#page_scan_tab_contents)
+* [Prinsloo, Paul, & Slade, Sharon (2017). Ethics and Learning Analytics: Charting the (Un)Charted. In C. Lang, G. Siemens, A. F. Wise, & D. Gaševic (Eds.), The Handbook of Learning Analytics (1st ed., pp. 49–57). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter4/)
+* [Greller, Wendy, & Drachsler, Hendrik. (2012). Translating Learning into Numbers: A Generic Framework for Learning Analytics. Journal of Educational Technology & Society, 15(3), 42–57.](https://www.jstor.org/stable/jeductechsoci.15.3.42?seq=1#page_scan_tab_contents)
  
 ## Class 5 - Data Wrangling (9/20/18)
 
@@ -124,8 +124,8 @@ Read:
 ## Class 6 - Data Wrangling (9/25/18)
 
 Read:
-* [Clow, D. 2014. Data wranglers: human interpreters to help close the feedback loop. Proceedings of the Fourth International Conference on Learning Analytics And Knowledge (2014), 49–53.](http://oro.open.ac.uk/40608/2/Clow-DataWranglers-final.pdf)
-* [Young, J.R. 2014. Why Students Should Own Their Educational Data. The Chronicle of Higher Education Blogs: Wired Campus.](http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329)
+* [Clow, Doug. 2014. Data wranglers: human interpreters to help close the feedback loop. Proceedings of the Fourth International Conference on Learning Analytics And Knowledge (2014), 49–53.](http://oro.open.ac.uk/40608/2/Clow-DataWranglers-final.pdf)
+* [Young, Jeffrey R. 2014. Why Students Should Own Their Educational Data. The Chronicle of Higher Education Blogs: Wired Campus.](http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329)
 
 ## Class 7 - Data Wrangling (9/27/18)
 
