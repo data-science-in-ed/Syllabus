@@ -213,8 +213,6 @@ Read:
 Watch:
 * Chapter 7 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/mgXm3AwLxP8), [video 2](https://youtu.be/B9dvJYwBfmk)
 
-#### Due: Assignment 3 - Clustering
-
 ## Class 16 - Principal Component Analysis (10/30/18)
 
 ### Learning Objectives:
@@ -238,8 +236,6 @@ Read:
 Watch:
 * [Georgia Tech 2015. Feature Selection. Youtube.](https://www.youtube.com/watch?v=8CpRLplmdqE)
 
-##### Due: Assignment 4 - Principal Component Analysis
-
 ## Class 18 - Domain Structure Discovery (11/6/18)
 
 ### Learning Objectives:
@@ -250,6 +246,8 @@ Watch:
 
 Read:
 * [Matsuda, N., Furukawa, T., Bier, N., & Faloutsos, C. (2015). Machine Beats Experts: Automatic Discovery of Skill Models for Data-Driven Online Course Refinement. International Educational Data Mining Society.](http://eric.ed.gov/?id=ED560513) 
+
+#### Due: Assignment 3 - Clustering
 
 ## Class 19 - Domain Structure Discovery (11/8/18)
 
@@ -268,6 +266,8 @@ Swirl:
 # <A NAME="unit4">Unit 4: Prediction
 
 ## Class 20 - Prediction (11/13/18)
+
+##### Due: Assignment 4 - Principal Component Analysis
 
 ### Learning Objectives:
 
@@ -290,8 +290,6 @@ Read:
 Watch:
 * Chapter 1 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/dc5Nx3tyR8g)
 
-#### Due: Assignment 5 - Prediction
-
 ## Class 22 - Classification (11/20/18)
 
 ### Learning Objectives:
@@ -304,6 +302,7 @@ Read:
 
 * [Liu, R., & Koedinger, K. (2017). Going Beyond Better Data Prediction to Create Explanatory Models of Educational Data. In The Handbook of Learning Analytics (1st ed., pp. 69–76). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter6/)
 
+#### Due: Assignment 5 - Prediction
 
 ## Class 23 - Classification (11/22/18)
 
@@ -332,8 +331,6 @@ Watch:
 * Chapter 2 in Baker, R. (2014). Big Data in Education: [video 5](https://youtu.be/1P34cxpEdKA)
 * [Georgia Tech 2015. Cross Validation. Youtube.](https://youtu.be/sFO2ff-gTh0)
 
-#### Due: Assignment 6 - CART Models
-
 ## Class 25 - Knowledge Tracing (11/29/18)
 
 ### Learning Objectives:
@@ -360,13 +357,13 @@ Swirl:
 Watch:
 * Chapter 4 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/_7CtthPZJ70)
 
-##### Due: Assignment 7 - Diagnostic Metrics
+#### Due: Assignment 6 - CART Models
 
 ## Class 27 - Work Session: Assignment 8, Group Project (12/6/18)
 
 ## Class 28 - Work Session: Assignment 8, Group Project (12/11/18)
 
-#### Due: Assignment 8 - Quantified Student
+##### Due: Assignment 7 - Diagnostic Metrics
 
 ## Class 29 - Rate video presentations (12/13/18)
 
