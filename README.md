@@ -223,6 +223,7 @@ Watch:
 ### Tasks to be completed:
 
 Read:
+* [Visually Explained](http://setosa.io/ev/principal-component-analysis/)
 * [Konstan, J. A., Walker, J. D., Brooks, D. C., Brown, K., & Ekstrand, M. D. (2015). Teaching Recommender Systems at Large Scale: Evaluation and Lessons Learned from a Hybrid MOOC. ACM Trans. Comput.-Hum. Interact., 22(2), 10:1–10:23.](https://dl.acm.org/citation.cfm?id=2728171)
 
 ## Class 17 - Principal Component Analysis (11/1/18)
