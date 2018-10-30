@@ -333,6 +333,8 @@ Watch:
 
 ## Class 25 - Knowledge Tracing (11/29/18)
 
+### Vectr Class Visit
+
 ### Learning Objectives:
 
  * Understand the concepts behind Bayesian Knowledge Tracing 
