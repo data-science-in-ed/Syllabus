@@ -278,7 +278,7 @@ Swirl:
 
 Read:
 * [Kucirkova, N. and FitzGerald, E. 2015. Zuckerberg is Ploughing Billions into “Personalised Learning” – Why? The Conversation.](https://theconversation.com/zuckerberg-is-ploughing-billions-into-personalised-learning-why-51940)
-* [Brooks, C., & Thompson, C. (2017). Predictive Modelling in Teaching and Learning. In The Handbookf of Learning Analytics (1st ed., pp. 61–68). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter5/)
+* [Brooks, C., & Thompson, C. (2017). Predictive Modelling in Teaching and Learning. In The Handbook of Learning Analytics (1st ed., pp. 61–68). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter5/)
 
 ## Class 21 - Prediction (11/15/18)
 
