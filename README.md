@@ -36,7 +36,7 @@ Tasks that need to be completed during the semester:
 Weekly:
  * Attend class
  * Weekly readings
- * Complete Swirl course
+ * --Complete Swirl course--
  * Maintain documentation of work (Github, R Markdown)
  * Ask or answer questions on Vectr (about an article)
 
