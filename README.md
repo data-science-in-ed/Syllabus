@@ -37,7 +37,7 @@ Weekly:
  * Attend class
  * Weekly readings
  * Complete Swirl course
- * Maintain documentation of work (Github, R Markdown, Zotero)
+ * Maintain documentation of work (Github, R Markdown)
  * Ask or answer questions on Vectr (about an article)
 
 One time only:
