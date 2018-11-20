@@ -305,7 +305,7 @@ Read:
 
 #### Due: Assignment 5 - Prediction
 
-## Class 23 - Classification (11/22/18)
+## Class 23 - Classification (11/22/18) - Thanksgiving No Class
 
 ### Learning Objectives:
 
