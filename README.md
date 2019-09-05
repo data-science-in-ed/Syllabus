@@ -4,7 +4,7 @@ Introduction class
 
 * **Course:** [HUDK 4050, Teachers College, Columbia](http://www.columbia.edu/~rsb2162/EDM2015/index.html)
 * **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](lang2@tc.columbia.edu), Twitter: @learng00d
-* **Course Assistants:** Anna Lizarov, [al38684@tc.columbia.edu](al3868@tc.columbia.edu)
+* **Course Assistants:** Anna Lizarov, [al38684@tc.columbia.edu](al3868@tc.columbia.edu), Aidi Bian, [ab4499@tc.columbia.edu](ab4499@tc.columbia.edu)
 * **Day/Time:** Tuesdays/Thursdays, 5:10pm - 6:50pm  
 * **Location:** GDH 363
 * **Instructor Office Hours:** Thursdays, 3:00pm - 5:00pm in GDH 454 - **[Please make an appointment to attend office hours here](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ)** 
