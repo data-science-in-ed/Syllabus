@@ -36,13 +36,13 @@ Tasks that need to be completed during the semester:
 Weekly:
  * Attend class
  * Weekly readings
- * ~~Complete Swirl course~~
+ * Notes on weekly readings
+ * Complete Swirl course
  * Maintain documentation of work (Github, R Markdown)
- * Ask or answer questions on Vectr (about an article)
 
 One time only:
  * Ask one question on Stack Overflow
- * In person meeting with instructor
+ * Attend office hours once
  * 8 short assignments (including one group assignment)
  * Group presentation of group assignment, 3-5 students each
 
