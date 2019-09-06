@@ -78,7 +78,7 @@ Read/watch:
   * [Siemens, George. and Baker, Ryan S.J. d. 2012. Learning Analytics and Educational Data Mining: Towards Communication and Collaboration. Proceedings of the 2nd International Conference on Learning Analytics and Knowledge (New York, NY, USA, 2012), 252–254.](http://www.upenn.edu/learninganalytics/ryanbaker/LAKs%20reformatting%20v2.pdf)
   
 Read chapter 1-3:
-  * [Grolemund, Garrett. 2014. Hands-On Programming with R] (https://d1b10bmlvqabco.cloudfront.net/attach/ighbo26t3ua52t/igp9099yy4v10/igz7vp4w5su9/OReilly_HandsOn_Programming_with_R_2014.pdf)
+  * [Grolemund, Garrett. 2014. Hands-On Programming with R](https://d1b10bmlvqabco.cloudfront.net/attach/ighbo26t3ua52t/igp9099yy4v10/igz7vp4w5su9/OReilly_HandsOn_Programming_with_R_2014.pdf)
 
 #### Due: Assignment 1 - Set up
 
