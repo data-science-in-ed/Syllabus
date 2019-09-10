@@ -1,0 +1,1368 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="#item_45">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1531-7714"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bowers</foaf:surname>
+                        <foaf:givenname>Alex J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1360"/>
+        <link:link rdf:resource="#item_2231"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>data</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>data analysis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Decision Making</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Dropouts</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Elementary School Students</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Grades (Scholastic)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Identification</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>MULTIVARIATE analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>School Districts</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Secondary School Students</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:date>2010/05/00</dc:date>
+        <dcterms:dateSubmitted>2014-09-24 19:31:29</dcterms:dateSubmitted>
+        <z:libraryCatalog>ERIC</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>School personnel currently lack an effective method to pattern and visually interpret disaggregated achievement data collected on students as a means to help inform decision making. This study, through the examination of longitudinal K-12 teacher assigned grading histories for entire cohorts of students from a school district (n=188), demonstrates a novel application of hierarchical cluster analysis and pattern visualization in which all data points collected on every student in a cohort can be patterned, visualized and interpreted to aid in data driven decision making by teachers and administrators. Additionally, as a proof-of-concept study, overall schooling outcomes, such as student dropout or taking a college entrance exam, are identified from the data patterns and compared to past methods of dropout identification as one example of the usefulness of the method. Hierarchical cluster analysis correctly identified over 80% of the students who dropped out using the entire student grade history patterns from either K-12 or K-8. (Contains 5 figures.)</dcterms:abstract>
+        <dc:title>Analyzing the Longitudinal K-12 Grading Histories of Entire Cohorts of Students: Grades, Data Driven Decision Making, Dropping out and Hierarchical Cluster Analysis</dc:title>
+        <z:shortTitle>Analyzing the Longitudinal K-12 Grading Histories of Entire Cohorts of Students</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1531-7714">
+        <prism:volume>15</prism:volume>
+        <prism:number>7</prism:number>
+        <dc:title>Practical Assessment, Research &amp; Evaluation</dc:title>
+        <dc:identifier>ISSN 1531-7714</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_1360">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="/Users/cwmlang_old/Documents/References/Bowers_2010_Analyzing the Longitudinal K-12 Grading Histories of Entire Cohorts of Students.pdf"/>
+        <dc:title>Bowers_2010_Analyzing the Longitudinal K-12 Grading Histories of Entire Cohorts of Students.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2231">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:eric.ed.gov.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://eric.ed.gov/?id=EJ933686</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-09-24 19:31:29</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.lifescied.org/content/13/2/167">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:,%201931-7913"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grunspan</foaf:surname>
+                        <foaf:givenname>Daniel Z.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wiggins</foaf:surname>
+                        <foaf:givenname>Benjamin L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goodreau</foaf:surname>
+                        <foaf:givenname>Steven M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1227"/>
+        <link:link rdf:resource="#item_1863"/>
+        <dc:subject>Week 2</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.lifescied.org/content/13/2/167</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>167-178</bib:pages>
+        <dc:date>06/20/2014</dc:date>
+        <dcterms:dateSubmitted>2014-08-20 20:21:46</dcterms:dateSubmitted>
+        <z:libraryCatalog>www.lifescied.org</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Social interactions between students are a major and underexplored part of undergraduate education. Understanding how learning relationships form in undergraduate classrooms, as well as the impacts these relationships have on learning outcomes, can inform educators in unique ways and improve educational reform. Social network analysis (SNA) provides the necessary tool kit for investigating questions involving relational data. We introduce basic concepts in SNA, along with methods for data collection, data processing, and data analysis, using a previously collected example study on an undergraduate biology classroom as a tutorial. We conduct descriptive analyses of the structure of the network of costudying relationships. We explore generative processes that create observed study networks between students and also test for an association between network position and success on exams. We also cover practical issues, such as the unique aspects of human subjects review for network studies. Our aims are to convince readers that using SNA in classroom environments allows rich and informative analyses to take place and to provide some initial tools for doing so, in the process inspiring future educational studies incorporating relational data.</dcterms:abstract>
+        <dc:title>Understanding Classrooms through Social Network Analysis: A Primer for Social Network Analysis in Education Research</dc:title>
+        <z:shortTitle>Understanding Classrooms through Social Network Analysis</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:,%201931-7913">
+        <prism:volume>13</prism:volume>
+        <prism:number>2</prism:number>
+        <dc:title>CBE-Life Sciences Education</dc:title>
+        <dc:identifier>ISSN , 1931-7913</dc:identifier>
+        <dcterms:alternative>CBE Life Sci Educ</dcterms:alternative>
+        <dc:identifier>DOI 10.1187/cbe.13-08-0162</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_1227">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="/Users/cwmlang_old/Documents/References/Grunspan et al_2014_Understanding Classrooms through Social Network Analysis.pdf"/>
+        <dc:title>Grunspan et al_2014_Understanding Classrooms through Social Network Analysis.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_1863">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:167.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.lifescied.org/content/13/2/167</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-08-20 20:21:46</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+            <z:Blog>
+                <dc:title>The Chronicle of Higher Education Blogs: Wired Campus</dc:title>
+            </z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Young</foaf:surname>
+                        <foaf:givenname>Jeffrey R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1257"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>August 21, 2014</dc:date>
+        <dcterms:dateSubmitted>2014-08-23 21:32:22</dcterms:dateSubmitted>
+        <dc:title>Why Students Should Own Their Educational Data</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_1257">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:54329.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-08-23 21:32:24</dcterms:dateSubmitted>
+        <dc:title>Chronicle of Higher Education Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://link.springer.com.ezp-prod1.hul.harvard.edu/article/10.1007/BF01099821">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0924-1868,%201573-1391"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Corbett</foaf:surname>
+                        <foaf:givenname>Albert T.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anderson</foaf:surname>
+                        <foaf:givenname>John R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3304"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Education (general)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>empirical validity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>individual differences</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>intelligent tutoring systems</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Learning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Management of Computing and Information Systems</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>mastery learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Multimedia Information Systems</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>procedural knowledge</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Psychology, general</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>student modeling</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>User Interfaces and Human Computer Interaction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com.ezp-prod1.hul.harvard.edu/article/10.1007/BF01099821</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>253-278</bib:pages>
+        <dc:date>1994/12/01</dc:date>
+        <dcterms:dateSubmitted>2013-04-21 21:21:19</dcterms:dateSubmitted>
+        <z:libraryCatalog>link.springer.com.ezp-prod1.hul.harvard.edu</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>This paper describes an effort to model students' changing knowledge state during skill acquisition. Students in this research are learning to write short programs with the ACT Programming Tutor (APT). APT is constructed around a production rule cognitive model of programming knowledge, called theideal student model. This model allows the tutor to solve exercises along with the student and provide assistance as necessary. As the student works, the tutor also maintains an estimate of the probability that the student has learned each of the rules in the ideal model, in a process calledknowledge tracing. The tutor presents an individualized sequence of exercises to the student based on these probability estimates until the student has ‘mastered’ each rule. The programming tutor, cognitive model and learning and performance assumptions are described. A series of studies is reviewed that examine the empirical validity of knowledge tracing and has led to modifications in the process. Currently the model is quite successful in predicting test performance. Further modifications in the modeling process are discussed that may improve performance levels.</dcterms:abstract>
+        <dc:title>Knowledge tracing: Modeling the acquisition of procedural knowledge</dc:title>
+        <z:shortTitle>Knowledge tracing</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0924-1868,%201573-1391">
+        <prism:volume>4</prism:volume>
+        <prism:number>4</prism:number>
+        <dc:title>User Modeling and User-Adapted Interaction</dc:title>
+        <dc:identifier>ISSN 0924-1868, 1573-1391</dc:identifier>
+        <dcterms:alternative>User Model User-Adap Inter</dcterms:alternative>
+        <dc:identifier>DOI 10.1007/BF01099821</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3304">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="/Users/cwmlang_old/Documents/References/Corbett_Anderson_1994_Knowledge tracing2.pdf"/>
+        <dc:title>Corbett_Anderson_1994_Knowledge tracing.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-1111-3">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>LAK '12</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-1-4503-1111-3</dc:identifier>
+                <dc:identifier>DOI 10.1145/2330601.2330661</dc:identifier>
+                <dc:title>Proceedings of the 2Nd International Conference on Learning Analytics and Knowledge</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York, NY, USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Siemens</foaf:surname>
+                        <foaf:givenname>George</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baker</foaf:surname>
+                        <foaf:givenname>Ryan S. J. d.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3395"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Collaboration</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>educational data mining</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>learning analytics and knowledge</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://doi.acm.org/10.1145/2330601.2330661</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>252–254</bib:pages>
+        <dc:date>2012</dc:date>
+        <dcterms:dateSubmitted>2015-01-16 03:15:55</dcterms:dateSubmitted>
+        <z:libraryCatalog>ACM Digital Library</z:libraryCatalog>
+        <dcterms:abstract>Growing interest in data and analytics in education, teaching, and learning raises the priority for increased, high-quality research into the models, methods, technologies, and impact of analytics. Two research communities -- Educational Data Mining (EDM) and Learning Analytics and Knowledge (LAK) have developed separately to address this need. This paper argues for increased and formal communication and collaboration between these communities in order to share research, methods, and tools for data mining and analysis in the service of developing both LAK and EDM fields.</dcterms:abstract>
+        <dc:title>Learning Analytics and Educational Data Mining: Towards Communication and Collaboration</dc:title>
+        <z:shortTitle>Learning Analytics and Educational Data Mining</z:shortTitle>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_3395">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="/Users/cwmlang_old/Documents/References/Siemens_Baker_2012_Learning Analytics and Educational Data Mining.pdf"/>
+        <dc:title>Siemens_Baker_2012_Learning Analytics and Educational Data Mining.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="http://www.oreilly.com/data/free/evaluating-machine-learning-models.csp?intcmp=il-data-free-lp-lgen_free_reports_page">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Sebastopol, CA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>O'Reily Media</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zheng</foaf:surname>
+                        <foaf:givenname>Alice</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3756"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.oreilly.com/data/free/evaluating-machine-learning-models.csp?intcmp=il-data-free-lp-lgen_free_reports_page</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>September 2015</dc:date>
+        <dcterms:dateSubmitted>2015-12-15 18:26:39</dcterms:dateSubmitted>
+        <dcterms:abstract>Data science today is a lot like the Wild West: there’s endless opportunity and excitement, but also a lot of chaos and confusion. If you’re new to data science and applied machine learning, evaluating a machine-learning model can seem pretty overwhelming...</dcterms:abstract>
+        <dc:title>Evaluating Machine Learning Models</dc:title>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_3756">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:evaluating-machine-learning-models.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.oreilly.com/data/free/evaluating-machine-learning-models.csp?intcmp=il-data-free-lp-lgen_free_reports_page</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-12-15 18:26:39</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Recording rdf:about="https://www.youtube.com/watch?v=_iv8A1pHNYA">
+        <z:itemType>videoRecording</z:itemType>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Educause</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <z:castMembers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Collier</foaf:surname>
+                        <foaf:givenname>Amy</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hickey</foaf:surname>
+                        <foaf:givenname>Daniel</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reich</foaf:surname>
+                        <foaf:givenname>Justin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wagner</foaf:surname>
+                        <foaf:givenname>Ellen</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Campbell</foaf:surname>
+                        <foaf:givenname>Gardner</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:castMembers>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Assessment</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Education</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>educational assessment</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>EDUCAUSE</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Higher Education</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>learners</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Learning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Teaching and learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=_iv8A1pHNYA</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2015-08-17</dc:date>
+        <dcterms:dateSubmitted>2016-01-17 18:50:57</dcterms:dateSubmitted>
+        <z:libraryCatalog>YouTube</z:libraryCatalog>
+        <z:runningTime>470 seconds</z:runningTime>
+        <dcterms:abstract>Several higher education learning and assessment professionals discuss the difficulties of measuring learning.</dcterms:abstract>
+        <dc:title>Why Is Measuring Learning So Difficult?</dc:title>
+    </bib:Recording>
+    <bib:Document rdf:about="http://www.smbc-comics.com/index.php?id=3978">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weinersmith</foaf:surname>
+                        <foaf:givenname>Zach</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3816"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.smbc-comics.com/index.php?id=3978</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>January 5 2016</dc:date>
+        <dcterms:dateSubmitted>2016-01-18 18:17:09</dcterms:dateSubmitted>
+        <dc:title>Saturday Morning Breakfast Cereal</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_3816">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:index.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.smbc-comics.com/index.php?id=3978</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-01-18 18:17:10</dcterms:dateSubmitted>
+        <dc:title>Saturday Morning Breakfast Cereal</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>RStudio</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3817"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>January 2015</dc:date>
+        <dcterms:dateSubmitted>2016-01-18 18:42:27</dcterms:dateSubmitted>
+        <dc:title>The Data Wrangling Cheatsheet</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_3817">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:data-wrangling-cheatsheet.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-01-18 18:42:27</dcterms:dateSubmitted>
+        <dc:title>data-wrangling-cheatsheet - data-wrangling-cheatsheet.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_3819">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Proceedings of the Fourth International Conference on Learning Analytics And Knowledge</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>ACM</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clow</foaf:surname>
+                        <foaf:givenname>Doug</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>49–53</bib:pages>
+        <dc:date>2014</dc:date>
+        <dc:title>Data wranglers: human interpreters to help close the feedback loop</dc:title>
+    </rdf:Description>
+    <bib:Article rdf:about="http://theconversation.com/zuckerberg-is-ploughing-billions-into-personalised-learning-why-51940">
+        <z:itemType>magazineArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Periodical><dc:title>The Conversation</dc:title></bib:Periodical>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kucirkova</foaf:surname>
+                        <foaf:givenname>Natalia</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>FitzGerald</foaf:surname>
+                        <foaf:givenname>Elizabeth</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3821"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://theconversation.com/zuckerberg-is-ploughing-billions-into-personalised-learning-why-51940</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>December 9 2015</dc:date>
+        <dcterms:dateSubmitted>2016-01-18 19:14:05</dcterms:dateSubmitted>
+        <dcterms:abstract>Zuckerburg wants to plough billions into personalised learning, but his way may not be the right way.</dcterms:abstract>
+        <dc:title>Zuckerberg is ploughing billions into 'personalised learning' – why?</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3821">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:zuckerberg-is-ploughing-billions-into-personalised-learning-why-51940.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://theconversation.com/zuckerberg-is-ploughing-billions-into-personalised-learning-why-51940</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-01-18 19:14:05</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Recording rdf:about="https://www.youtube.com/watch?v=8CpRLplmdqE">
+        <z:itemType>videoRecording</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Youtube</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <z:producers>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Udacity</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:producers>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Georgia Tech</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <link:link rdf:resource="#item_3823"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=8CpRLplmdqE</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>23 February 2015</dc:date>
+        <dcterms:dateSubmitted>2016-01-18 19:18:06</dcterms:dateSubmitted>
+        <z:runningTime>3:13</z:runningTime>
+        <dc:title>Feature Selection</dc:title>
+    </bib:Recording>
+    <z:Attachment rdf:about="#item_3823">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:watch.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=8CpRLplmdqE</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-01-18 19:18:06</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.rstudio.com/resources/cheatsheets/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>RStudio</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Groelmund</foaf:surname>
+                        <foaf:givenname>Garrett</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3861"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.rstudio.com/resources/cheatsheets/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>01 August 2014</dc:date>
+        <dcterms:dateSubmitted>2016-01-19 21:17:28</dcterms:dateSubmitted>
+        <dc:title>RStudio Cheat Sheets</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_3861">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:rm-cheatsheet.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://shiny.rstudio.com/articles/rm-cheatsheet.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-01-19 21:17:29</dcterms:dateSubmitted>
+        <dc:title>Shiny - The R Markdown Cheat sheet</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.jstor.org/stable/jeductechsoci.15.3.42">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1176-3647"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Greller</foaf:surname>
+                        <foaf:givenname>Wolfgang</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Drachsler</foaf:surname>
+                        <foaf:givenname>Hendrik</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.jstor.org/stable/jeductechsoci.15.3.42</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>42-57</bib:pages>
+        <dc:date>2012</dc:date>
+        <dcterms:dateSubmitted>2016-09-03 18:55:41</dcterms:dateSubmitted>
+        <z:libraryCatalog>JSTOR</z:libraryCatalog>
+        <dcterms:abstract>ABSTRACT With the increase in available educational data, it is expected that Learning Analytics will become a powerful means to inform and support learners, teachers and their institutions in better understanding and predicting personal learning needs and performance. However, the processes and requirements behind the beneficial application of Learning and Knowledge Analytics as well as the consequences for learning and teaching are still far from being understood. In this paper, we explore the key dimensions of Learning Analytics (LA), the critical problem zones, and some potential dangers to the beneficial exploitation of educational data. We propose and discuss a generic design framework that can act as a useful guide for setting up Learning Analytics services in support of educational practice and learner guidance, in quality assurance, curriculum development, and in improving teacher effectiveness and efficiency. Furthermore, the presented article intends to inform about soft barriers and limitations of Learning Analytics. We identify the required skills and competences that make meaningful use of Learning Analytics data possible to overcome gaps in interpretation literacy among educational stakeholders. We also discuss privacy and ethical issues and suggest ways in which these issues can be addressed through policy guidelines and best practice examples.</dcterms:abstract>
+        <dc:title>Translating Learning into Numbers: A Generic Framework for Learning Analytics</dc:title>
+        <z:shortTitle>Translating Learning into Numbers</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1176-3647">
+        <prism:volume>15</prism:volume>
+        <prism:number>3</prism:number>
+        <dc:title>Journal of Educational Technology &amp; Society</dc:title>
+        <dc:identifier>ISSN 1176-3647</dc:identifier>
+        <dcterms:alternative>Journal of Educational Technology &amp; Society</dcterms:alternative>
+    </bib:Journal>
+    <bib:Article rdf:about="http://doi.acm.org/10.1145/2728171">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1073-0516"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Konstan</foaf:surname>
+                        <foaf:givenname>Joseph A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Walker</foaf:surname>
+                        <foaf:givenname>J. D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brooks</foaf:surname>
+                        <foaf:givenname>D. Christopher</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brown</foaf:surname>
+                        <foaf:givenname>Keith</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ekstrand</foaf:surname>
+                        <foaf:givenname>Michael D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>learning assessment</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Massively Online Open Course (MOOC)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://doi.acm.org/10.1145/2728171</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>10:1–10:23</bib:pages>
+        <dc:date>April 2015</dc:date>
+        <dcterms:dateSubmitted>2016-09-03 20:38:02</dcterms:dateSubmitted>
+        <z:libraryCatalog>ACM Digital Library</z:libraryCatalog>
+        <dc:title>Teaching Recommender Systems at Large Scale: Evaluation and Lessons Learned from a Hybrid MOOC</dc:title>
+        <z:shortTitle>Teaching Recommender Systems at Large Scale</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1073-0516">
+        <prism:volume>22</prism:volume>
+        <prism:number>2</prism:number>
+        <dc:title>ACM Trans. Comput.-Hum. Interact.</dc:title>
+        <dc:identifier>ISSN 1073-0516</dc:identifier>
+        <dc:identifier>DOI 10.1145/2728171</dc:identifier>
+    </bib:Journal>
+    <bib:Book rdf:about="http://eric.ed.gov/?id=ED560513">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>International Educational Data Mining Society</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Matsuda</foaf:surname>
+                        <foaf:givenname>Noboru</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Furukawa</foaf:surname>
+                        <foaf:givenname>Tadanobu</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bier</foaf:surname>
+                        <foaf:givenname>Norman</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Faloutsos</foaf:surname>
+                        <foaf:givenname>Christos</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4125"/>
+        <link:link rdf:resource="#item_4124"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Automation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Comparative Analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Correlation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>data</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Formative Evaluation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>models</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Online Courses</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Skills</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://eric.ed.gov/?id=ED560513</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2015/06/00</dc:date>
+        <dcterms:dateSubmitted>2016-09-03 20:48:57</dcterms:dateSubmitted>
+        <z:libraryCatalog>ERIC</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>How can we automatically determine which skills must be mastered for the successful completion of an online course? Large-scale online courses (e.g., MOOCs) often contain a broad range of contents frequently intended to be a semester's worth of materials; this breadth often makes it difficult to articulate an accurate set of skills and knowledge (i.e., a skill model, or the QMatrix). We have developed an innovative method to discover skill models from the data of online courses. Our method assumes that online courses have a pre-defined skill map for which skills are associated with formative assessment items embedded throughout the online course. Our method carefully exploits correlations between various parts of student performance, as well as in the text of assessment items, to build a superior statistical model that even outperforms human experts. To evaluate our method, we compare our method with existing methods (LFA) and human engineered skill models on three Open Learning Initiative (OLI) courses at Carnegie Mellon University. The results show that (1) our method outperforms human-engineered skill models, (2) skill models discovered by our method are interpretable, and (3) our method is remarkably faster than existing methods. These results suggest that our method provides a significant contribution to the evidence-based, iterative refinement of online courses with a promising scalability. [For complete proceedings, see ED560503.]</dcterms:abstract>
+        <dc:title>Machine Beats Experts: Automatic Discovery of Skill Models for Data-Driven Online Course Refinement</dc:title>
+        <z:shortTitle>Machine Beats Experts</z:shortTitle>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_4125">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="/Users/cwmlang_old/Documents/References/Matsuda et al_2015_Machine Beats Experts.pdf"/>
+        <dc:title>Matsuda et al_2015_Machine Beats Experts.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_4124">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:eric.ed.gov.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://eric.ed.gov/?id=ED560513</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-09-03 20:48:57</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <dc:title>Introduction to Social Network Methods</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hanneman</foaf:surname>
+                        <foaf:givenname>R.A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Riddle</foaf:surname>
+                        <foaf:givenname>M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4171"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2016-01-18 20:17:24</dc:date>
+        <dcterms:dateSubmitted>2016-01-18 20:17:24</dcterms:dateSubmitted>
+        <dc:title>Chapter 1: Social Network Data</dc:title>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_4171">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-01-18 20:17:25</dcterms:dateSubmitted>
+        <dc:title>Introduction to Social Network Methods:  Chapter 1: Social Network Data</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-0-9952408-0-3">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-9952408-0-3</dc:identifier>
+                <dc:title>The Handbook of Learning Analytics</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Vancouver, BC, Canada</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Klerkx</foaf:surname>
+                        <foaf:givenname>Joris</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verbert</foaf:surname>
+                        <foaf:givenname>Katrien</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duval</foaf:surname>
+                        <foaf:givenname>Erik</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>www.solaresearch.org</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <prism:edition>1</prism:edition>
+        <dc:date>2017</dc:date>
+        <z:language>EN</z:language>
+        <dc:title>Learning Analytics Dashboards</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="http://solaresearch.org/hla-17/hla17-chapter1">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-9952408-0-3</dc:identifier>
+                <dc:title>The Handbook of Learning Analytics</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Alberta, Canada</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Society for Learning Analytics Research (SoLAR)</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bergner</foaf:surname>
+                        <foaf:givenname>Yoav</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lang</foaf:surname>
+                        <foaf:givenname>Charles</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Siemens</foaf:surname>
+                        <foaf:givenname>George</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wise</foaf:surname>
+                        <foaf:givenname>Alyssa Friend</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaševic</foaf:surname>
+                        <foaf:givenname>Dragan</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://solaresearch.org/hla-17/hla17-chapter1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <prism:edition>1</prism:edition>
+        <bib:pages>34-48</bib:pages>
+        <dc:date>2017</dc:date>
+        <dcterms:abstract>Psychological measurement is a process for making warranted claims about states of mind. As such, it typically comprises the following: de ning a construct; specifying a measurement model and (developing) a reliable instrument; analyzing and accounting for various sources of error (including operator error); and framing a valid argument for particular uses of the outcome. Measurement of latent variables is, after all, a noisy endeavor that can neverthe- less have high-stakes consequences for individuals and groups. This chapter is intended to serve as an introduction to educational and psychological measurement for practitioners in learning analytics and educational data mining. It is organized thematically rather than historically, from more conceptual material about constructs, instruments, and sources of measurement error toward increasing technical detail about particular measurement models and their uses. Some of the philosophical differences between explanatory and predictive modelling are explored toward the end.</dcterms:abstract>
+        <dc:title>Measurement and its Uses in Learning Analytics</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_4709">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-9952408-0-3</dc:identifier>
+                <dc:title>The Handbook of Learning Analytics</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Alberta, Canada</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Society for Learning Analytics Research (SoLAR)</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brooks</foaf:surname>
+                        <foaf:givenname>Christopher</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thompson</foaf:surname>
+                        <foaf:givenname>Craig</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lang</foaf:surname>
+                        <foaf:givenname>Charles</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Siemens</foaf:surname>
+                        <foaf:givenname>George</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wise</foaf:surname>
+                        <foaf:givenname>Alyssa Friend</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaševic</foaf:surname>
+                        <foaf:givenname>Dragan</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://solaresearch.org/hla-17/hla17-chapter1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <prism:edition>1</prism:edition>
+        <bib:pages>61-68</bib:pages>
+        <dc:date>2017</dc:date>
+        <dcterms:abstract>This article describes the process, practice, and challenges of using predictive modelling in teaching and learning. In both the  elds of educational data mining (EDM) and learning analytics (LA) predictive modelling has become a core practice of researchers, largely with a focus on predicting student success as operationalized by academic achievement. In this chapter, we provide a general overview of considerations when using predictive modelling, the steps that an educational data scientist must consider when engaging in the process, and a brief overview of the most popular techniques in the  eld.</dcterms:abstract>
+        <dc:title>Predictive Modelling in Teaching and Learning</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="https://solaresearch.org/hla-17/hla17-chapter4/">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-9952408-0-3</dc:identifier>
+                <dc:title>The Handbook of Learning Analytics</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Vancouver, BC</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Society for Learning Analytics Research</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Prinsloo</foaf:surname>
+                        <foaf:givenname>P</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Slade</foaf:surname>
+                        <foaf:givenname>S</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://solaresearch.org/hla-17/hla17-chapter4/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <prism:edition>1</prism:edition>
+        <bib:pages>49-57</bib:pages>
+        <dc:date>March 2017</dc:date>
+        <z:language>EN</z:language>
+        <dc:title>Ethics and Learning Analytics: Charting the (Un)Charted</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="https://solaresearch.org/hla-17/hla17-chapter6/">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-9952408-0-3</dc:identifier>
+                <dc:title>The Handbook of Learning Analytics</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Vancouver, BC</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Society for Learning Analytics Research</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenname>R</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Koedinger</foaf:surname>
+                        <foaf:givenname>K</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://solaresearch.org/hla-17/hla17-chapter6/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <prism:edition>1</prism:edition>
+        <bib:pages>69-76</bib:pages>
+        <dc:date>March 2017</dc:date>
+        <z:language>EN</z:language>
+        <dc:title>Going Beyond Better Data Prediction to Create Explanatory Models of Educational Data</dc:title>
+    </bib:BookSection>
+    <bib:Article rdf:about="#item_5005">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Significance</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gelman</foaf:surname>
+                        <foaf:givenname>A</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Niemi</foaf:surname>
+                        <foaf:givenname>J</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>134-136</bib:pages>
+        <dc:date>September 2011</dc:date>
+        <dc:title>Statistical graphics: making information clear – and beautiful</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_5006">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>38</prism:volume>
+                <prism:number>2</prism:number>
+                <dc:title>The American Statistician</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wainer</foaf:surname>
+                        <foaf:givenname>H</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>137-147</bib:pages>
+        <dc:date>1984</dc:date>
+        <dc:title>How to display data badly</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_5007">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gelman</foaf:surname>
+                        <foaf:givenname>A</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Unwin</foaf:surname>
+                        <foaf:givenname>A</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2012</dc:date>
+        <dc:title>Infovis and Statistical Graphics: Different Goals, Different Looks (with discussion)</dc:title>
+    </bib:Article>
+    <bib:Document rdf:about="http://junkcharts.typepad.com/junk_charts/junk-charts-trifecta-checkup-the-definitive-guide.html">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Junkcharts</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fung</foaf:surname>
+                        <foaf:givenname>K</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://junkcharts.typepad.com/junk_charts/junk-charts-trifecta-checkup-the-definitive-guide.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2014</dc:date>
+        <z:type>Blog</z:type>
+        <dc:title>Junkcharts Trifecta Checkup: The Definitive Guide</dc:title>
+    </bib:Document>
+</rdf:RDF>
