@@ -1,8 +1,8 @@
 # Core Methods in Educational Data Mining: Syllabus 
 
-Introduction class - **Yay! Best Class eva!**
+Introduction class - Yay! Best Class eva!
 
-* **Course:** [HUDK 4050, Teachers College, Columbia](http://www.columbia.edu/~rsb2162/EDM2015/index.html)
+* **Course:** [HUDK 4050, Teachers College, Columbia University](http://www.columbia.edu/~rsb2162/EDM2015/index.html)
 * **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](lang2@tc.columbia.edu), Twitter: @learng00d
 * **Course Assistants:** Anna Lizarov, [al38684@tc.columbia.edu](al3868@tc.columbia.edu), Aidi Bian, [ab4499@tc.columbia.edu](ab4499@tc.columbia.edu)
 * **Day/Time:** Tuesdays/Thursdays, 5:10pm - 6:50pm  
@@ -12,7 +12,7 @@ Introduction class - **Yay! Best Class eva!**
 
 *  **Prerequisite:** HUDM 5122 *or* HUDM 5126 *or* approved statistics/computer science data mining course.
 *  **Credits:** 3
-*  **Required Technology:** Laptop with RStudio installed, Phone with the Sensor Kinetics Pro app installed
+*  **Required Technology:** Laptop with [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/) installed, Phone with the Sensor Kinetics Pro app installed.
 
 ## Course Description
 
