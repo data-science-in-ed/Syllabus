@@ -140,6 +140,9 @@ Read:
 Read:
 * [Data Wrangling Cheatsheet: 2015.](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 
+Watch:
+* [Getting Started with RMarkdown: 2016](https://youtu.be/MIlzQpXlJNk)
+
 Swirl:
 * Unit 2 - Data Sources & Manipulation  
 
