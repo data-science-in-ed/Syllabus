@@ -152,7 +152,9 @@ Swirl:
 
 ## Class 9 - Start Social Networks (10/3/19)
 
-[Network Analysis and Visualization with R and igraph: 2016](https://kateto.net/netscix2016.html)
+* [Network Analysis and Visualization with R and igraph: 2016](https://kateto.net/netscix2016.html)
+** Section 3
+* [iGraph Documentation](https://igraph.org/r/doc/)
 
 ## Class 10 - Check-in Exam (10/8/19)
 
